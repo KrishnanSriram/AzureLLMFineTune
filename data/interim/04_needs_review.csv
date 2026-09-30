@@ -1,0 +1,3 @@
+ticket_id,channel,subject,text,category,priority,product,reason
+T100022,email,Brakes!!,The handlebar on my bike came loose mid-ride and I almost crashed. You can call me at [PHONE].,GENERAL,P4,UNKNOWN,mentions 'came loose' but tagged GENERAL
+T100201,chat,Help,"My son's summit pro has a cracked fork, he was riding it yesterday! Order [ORDER_ID].",GENERAL,P4,Summit Pro Carbon,mentions 'cracked' but tagged GENERAL

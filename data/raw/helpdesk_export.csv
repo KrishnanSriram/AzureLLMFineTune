@@ -1,0 +1,1811 @@
+ticket_id,created_at,channel,customer_name,customer_email,subject,body,agent_tag,product,status
+T100375,2026-02-01T12:00:00,web,Olivia Garcia,olivia.garcia78@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100342,2026-03-12T14:39:00,chat,Ravi Silva,ravi.silva4@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride?
+[10:03] Agent: Sorry to hear that, let me check.",SAFETY!!,Trailblazer 29,closed
+T100232,2026-03-05T05:25:00,email,Chen Silva,chen.silva23@example.com,Brakes!!,"Hey there,
+
+The battery on my Trailblazer 29er got really hot and started smoking in the garage.
+
+You can call me at (888) 491-3906.
+
+Regards,
+Chen Silva",urgent safety,Trailblazer 29,solved
+T100144,2026-01-22T14:59:00,web,Mateo Okafor,mateo.okafor50@example.com,Question,How often should I get my bike serviced?,Product question,,closed
+T100344,2026-02-28T00:20:00,web,Zoe Lee,zoe.lee60@example.com,Accessories,My name is Zoe Lee. Is it ok to ride the Trailblazer 29 in the rain? My email is zoe.lee60@example.com.,General,TRAILBLAZER 29,solved
+T100503,2026-02-14T15:04:00,email,Elena Wei,elena.wei48@example.com,Quick question,"Hey there,
+
+How often should I get my bike serviced?
+
+You can call me at 714-213-5473.
+
+--
+Elena Wei
+714-213-5473",Product question,,solved
+T100367,2026-02-04T09:08:00,web,Priya Silva,priya.silva93@example.com,Defect,"My name is Priya Silva. The kickstand bolt on my city glide e2 sheared off, bike is less than a year old. Order #NW47401.",Defect,,solved
+T100480,2026-01-16T04:19:00,chat,Olivia Okafor,olivia.okafor37@example.com,Return,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Olivia
+[10:02] Customer: Bought the urban fold mini as a gift but they already have one, how do returns work?
+[10:03] Agent: Sorry to hear that, let me check.",refund,UrbanFold Mini,solved
+T100177,2026-01-20T06:32:00,email,Noah Johnson,noah.johnson39@example.com,,"Hi,
+
+Bought the UrbanFold Mini as a gift but they already have one, how do returns work?
+
+You can call me at +1 946 863 7113.
+
+Regards,
+Noah Johnson",RMA,urbanfold mini,open
+T100091,2026-02-18T10:01:00,chat,Grace Patel,grace.patel88@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Bought the kids bike 16 as a gift but they already have one, how do returns work? Order #NW39188.
+[10:03] Agent: Sorry to hear that, let me check.",Return,,closed
+T100008,2026-02-12T12:13:00,web,Priya Brown,priya.brown36@example.com,URGENT,"My name is Priya Brown. Front brake on the Summit Carbon feels like it's not grabbing at all, really scary.",Safety,,closed
+T100043,2026-01-09T05:16:00,chat,Aisha Khan,aisha.khan33@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: What tire pressure should I run on my summit pro? Order #NW39571.
+[10:03] Agent: Sorry to hear that, let me check.",Product question,summit pro carbon,solved
+T100005,2026-03-16T06:37:00,email,Noah Rossi,noah.rossi20@example.com,Question,"<p>Hi,</p><p>What tire pressure should I run on my Trailblazer 29er?</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",how to,,open
+T100215,2026-02-24T04:18:00,email,Olivia Wei,olivia.wei5@example.com,Order update?,"
+
+Can you tell me when my urban fold mini order will ship? Order #NW49361.
+
+Thanks,
+Olivia",shipping,UrbanFold Mini,solved
+T100111,2026-02-27T20:16:00,web,Ahmed Miller,ahmed.miller79@example.com,Refund request,The urban fold mini isn't what I expected. Can I get a refund? Order #NW58929.,refund,,solved
+T100022,2026-01-01T12:52:00,email,Olivia Brown,olivia.brown50@example.com,Brakes!!,"Hi,
+
+The handlebar on my bike came loose mid-ride and I almost crashed.
+
+You can call me at +1 356 923 4505.
+
+Regards,
+Olivia Brown",how to,,solved
+T100097,2026-01-07T04:28:00,email,Ravi Novak,ravi.novak33@example.com,Quick question,"Hi,
+
+Do you sell a rear rack that fits the CityGlide? Order #NW81636.
+
+--
+Ravi Novak
+940-857-9037",General,CITYGLIDE E2,solved
+T100354,2026-02-21T17:13:00,email,Olivia Miller,olivia.miller95@example.com,,"<p>Hey there,</p><p>Got a delivery notification for the E2 ebike but nothing showed up at my door.</p><p>You can call me at (711) 874-6810.</p><p>--<br>Olivia Miller<br>(711) 874-6810</p>",where is my order,cityglide e2,open
+T100119,2026-01-08T21:22:00,email,Elena Tanaka,elena.tanaka39@example.com,URGENT,"<p>Hello Northwind team,</p><p>The brakes on my trailblazer29 stopped working while I was going downhill.</p><p>Thanks,<br>Elena</p>",Brake failure,TRAILBLAZER 29,solved
+T100397,2026-01-10T19:39:00,web,Sofia Iyer,sofia.iyer86@example.com,URGENT,The battery on my city glide e2 got really hot and started smoking in the garage.,safety concern,CityGlide E2,solved
+T100415,2026-02-12T19:08:00,email,Maria Silva,maria.silva48@example.com,,"<p>Hi,</p><p>My kid rider 16 is 8 months old and the gears keep slipping. Is this covered? Order #NW28517.</p><p>You can call me at (918) 308-2208.</p><p>Regards,<br>Maria Silva</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",warranty claim,kidrider 16,closed
+T100172,2026-01-07T15:12:00,web,Aisha Okafor,aisha.okafor17@example.com,Brakes!!,The brakes on my kid rider 16 stopped working while I was going downhill. Order #NW52287.,safety concern,kidrider 16,solved
+T100519,2026-01-02T16:53:00,email,Aisha Miller,aisha.miller79@example.com,Help,"Hello Northwind team,
+
+I found a crack in the frame of my E2 ebike near the seat post. Is it safe to ride?
+
+You can call me at +1 752 449 1800.
+
+--
+Aisha Miller
++1 752 449 1800",,CITYGLIDE E2,closed
+T100231,2026-03-02T17:04:00,email,Ravi Brown,ravi.brown28@example.com,,"<p>Hey there,</p><p>Front brake on the UrbanFold Mini feels like it's not grabbing at all, really scary.</p><p>Thanks,<br>Ravi</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",safety concern,UrbanFold Mini,closed
+T100443,2026-01-02T04:40:00,chat,Liam Patel,liam.patel34@example.com,Shipping,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Liam
+[10:02] Customer: My kid rider 16 order says processing for a week now, what's going on?
+[10:03] Agent: Sorry to hear that, let me check.",Order Status,KIDRIDER 16,solved
+T100195,2026-01-29T17:33:00,email,Ravi Khan,ravi.khan98@example.com,Question,"Hi,
+
+What tire pressure should I run on my Summit Pro Carbon?
+
+Regards,
+Ravi Khan",Product question,,solved
+T100095,2026-02-20T06:02:00,chat,Sofia Rossi,sofia.rossi62@example.com,Brakes!!,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: My son's trailblazer29 has a cracked fork, he was riding it yesterday! Order #NW72773.
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,TRAILBLAZER 29,closed
+T100009,2026-01-05T14:30:00,chat,Grace Novak,grace.novak14@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride? Order #NW42742.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,Trailblazer 29,closed
+T100493,2026-02-04T06:39:00,web,Maria Johnson,maria.johnson13@example.com,Exchange,The TB-29 isn't what I expected. Can I get a refund?,Return,,solved
+T100455,2026-03-18T09:15:00,email,Maria Garcia,maria.garcia99@example.com,Return,"Hey there,
+
+How do I send back the KidRider? Changed my mind.
+
+You can call me at 290-973-3303.
+
+Regards,
+Maria Garcia
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",exchange,,solved
+T100372,2026-01-19T06:57:00,email,Maria Khan,maria.khan63@example.com,Return,"<p>Hey there,</p><p>The Summit Carbon isn't what I expected. Can I get a refund?</p><p>You can call me at (299) 271-7845.</p><p>Thanks,<br>Maria</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Return,SUMMIT PRO CARBON,closed
+T100093,2026-03-13T12:36:00,email,Noah Brown,noah.brown94@example.com,Broken part,"<p>Hey there,</p><p>Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old.</p><p>You can call me at +1 526 791 6253.</p><p>Thanks,<br>Noah</p>",Defect,,closed
+T100269,2026-02-26T11:24:00,email,Ahmed Tanaka,ahmed.tanaka81@example.com,Broken part,"Hi,
+
+Chain on my KidRider 16 snapped after two weeks of normal commuting.
+
+You can call me at 920-848-1022.
+
+Sent from my iPhone",defective part,KidRider 16,closed
+T100094,2026-01-05T16:35:00,email,Ahmed Iyer,ahmed.iyer31@example.com,Order update?,"Hello Northwind team,
+
+Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday?
+
+Sent from my iPhone
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",shipping,KIDRIDER 16,solved
+T100167,2026-02-01T12:00:00,web,Mateo Iyer,mateo.iyer66@example.com,,test ticket please ignore,,,solved
+T100277,2026-01-09T01:13:00,email,Sofia Dubois,sofia.dubois95@example.com,Question,"Hi,
+
+Can I put a child seat on my Trail Blazer 29?
+
+You can call me at 653-495-3683.
+
+Sent from my iPhone",misc,,solved
+T100250,2026-01-24T18:42:00,email,Maria Miller,maria.miller63@example.com,Shipping,"Hey there,
+
+Tracking for my UrbanFold hasn't updated in 4 days. Order #NW46827.
+
+You can call me at (329) 717-2259.
+
+--
+Maria Miller
+(329) 717-2259",where is my order,URBANFOLD MINI,solved
+T100044,2026-01-11T14:52:00,web,Aisha Lee,aisha.lee82@example.com,Refund request,"Bought the Summit Carbon as a gift but they already have one, how do returns work?",exchange,,solved
+T100274,2026-02-11T16:36:00,web,Olivia Dubois,olivia.dubois34@example.com,Order update?,Can you tell me when my UrbanFold order will ship? My email is olivia.dubois34@example.com.,Order Status,URBANFOLD MINI,solved
+T100181,2026-03-10T22:08:00,web,Aisha Iyer,aisha.iyer84@example.com,,I found a crack in the frame of my UrbanFold near the seat post. Is it safe to ride?,safety concern,URBANFOLD MINI,solved
+T100031,2026-01-28T19:06:00,email,Priya Lee,priya.lee63@example.com,Return,"<p></p><p>The Trailblazer 29er isn't what I expected. Can I get a refund? Order #NW42530.</p><p>Thanks,<br>Priya</p>",exchange,,closed
+T100179,2026-01-23T09:46:00,email,Elena Tanaka,elena.tanaka17@example.com,Quick question,"<p>Hey there,</p><p>Do you sell a rear rack that fits the KidRider 16?</p><p>Thanks,<br>Elena</p>",misc,kidrider 16,closed
+T100400,2026-01-20T07:04:00,web,Elena Silva,elena.silva62@example.com,Broken part,The motor on my CityGlide makes a grinding noise. It's still under warranty I think. Order #NW56009. My email is elena.silva62@example.com.,warranty claim,cityglide e2,solved
+T100444,2026-03-04T11:10:00,email,Elena Rossi,elena.rossi76@example.com,Exchange,"Hey there,
+
+Bought the trailblazer29 as a gift but they already have one, how do returns work? Order #NW27047.
+
+Regards,
+Elena Rossi",exchange,TRAILBLAZER 29,open
+T100403,2026-02-09T20:16:00,email,Mateo Patel,mateo.patel62@example.com,,"<p>Hi,</p><p>Please start a return for the TB-29, it doesn't fit in my apartment.</p><p>Thanks,<br>Mateo</p>",Returns,TRAILBLAZER 29,solved
+T100382,2026-02-02T23:17:00,chat,Elena Smith,elena.smith91@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: My son's E2 ebike has a cracked fork, he was riding it yesterday!
+[10:03] Agent: Sorry to hear that, let me check.",safety issue,CityGlide E2,solved
+T100398,2026-01-19T01:26:00,email,James Novak,james.novak55@example.com,Help,"Hello Northwind team,
+
+The handlebar on my CityGlide came loose mid-ride and I almost crashed. Order #NW66223.
+
+Thanks,
+James
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",SAFETY!!,,closed
+T100321,2026-01-27T02:25:00,email,Kenji Khan,kenji.khan94@example.com,,"<p>Hello Northwind team,</p><p>I found a crack in the frame of my CityGlide E2 near the seat post. Is it safe to ride?</p><p>You can call me at 925-652-9288.</p><p>Thanks,<br>Kenji</p>",Safety,cityglide e2,solved
+T100409,2026-01-13T21:50:00,web,Sofia Johnson,sofia.johnson62@example.com,Where is my order,Can you tell me when my trailblazer29 order will ship? Order #NW45056. My email is sofia.johnson62@example.com.,Order Status,,open
+T900521,2026-03-18T09:32:00,email,Zoe Dubois,zoe.dubois39@example.com,Shipping,"<p>Hi,</p><p>Got a delivery notification for the kid rider 16 but nothing showed up at my door.</p><p>You can call me at +1 335 513 3813.</p><p>Sent from my iPhone</p>",where is my order,KIDRIDER 16,solved
+T100004,2026-01-01T07:05:00,web,Priya Lee,priya.lee49@example.com,Broken part,"Rear derailleur on the KidRider 16 is bent out of the box basically, 5 months old.",wrnty,,open
+T100287,2026-03-06T22:39:00,web,Olivia Lee,olivia.lee52@example.com,,My name is Olivia Lee. I found a crack in the frame of my bike near the seat post. Is it safe to ride?,Brake failure,,solved
+T100470,2026-01-28T18:08:00,web,Noah Brown,noah.brown68@example.com,Shipping,Tracking for my UrbanFold Mini hasn't updated in 4 days.,where is my order,URBANFOLD MINI,solved
+T100154,2026-02-01T04:42:00,email,Maria Garcia,maria.garcia81@example.com,,"<p>Hi,</p><p>Is it ok to ride the CityGlide E2 in the rain?</p><p>Sent from my iPhone</p>",how to,CITYGLIDE E2,solved
+T100174,2026-02-27T01:33:00,email,Chen Lee,chen.lee33@example.com,Where is my order,"<p>Hi,</p><p>Ordered a KidRider for my daughter's birthday, is it going to arrive by Friday?</p><p>You can call me at +1 941 489 1404.</p><p>Thanks,<br>Chen</p>",Order Status,KidRider 16,solved
+T100261,2026-03-05T09:04:00,web,Mateo Novak,mateo.novak95@example.com,Brakes!!,"Front brake on the City Glide feels like it's not grabbing at all, really scary. Order #NW37948.",Safety,CITYGLIDE E2,solved
+T100481,2026-01-07T17:06:00,email,Olivia Smith,olivia.smith56@example.com,Exchange,"<p></p><p>I'd like to exchange my Trailblazer 29er for a smaller size.</p><p>Thanks,<br>Olivia</p>",RMA,Trailblazer 29,open
+T100373,2026-01-01T15:47:00,email,Mateo Dubois,mateo.dubois81@example.com,Warranty question,"Hey there,
+
+My bike is 8 months old and the gears keep slipping. Is this covered?
+
+You can call me at +1 311 851 3721.
+
+Thanks,
+Mateo",misc,,solved
+T100386,2026-01-23T14:30:00,email,Ahmed Garcia,ahmed.garcia72@example.com,Broken part,"<p>Hi,</p><p>Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old. Order #NW83727.</p><p>You can call me at 521-325-1641.</p><p>--<br>Ahmed Garcia<br>521-325-1641</p>",defective part,UrbanFold Mini,solved
+T100163,2026-01-09T00:16:00,chat,Priya Iyer,priya.iyer42@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Priya
+[10:02] Customer: Please start a return for the City Glide, it doesn't fit in my apartment.
+[10:03] Agent: Sorry to hear that, let me check.",Return,,solved
+T100388,2026-03-07T00:43:00,web,Priya Okafor,priya.okafor34@example.com,Accessories,My name is Priya Okafor. Can I put a child seat on my KidRider?,misc,KIDRIDER 16,solved
+T100361,2026-03-14T12:54:00,email,Noah Dubois,noah.dubois7@example.com,Safety problem,"<p>Hi,</p><p>The battery on my kid rider 16 got really hot and started smoking in the garage.</p><p>--<br>Noah Dubois<br>+1 204 249 7183</p>",safety concern,KidRider 16,closed
+T100355,2026-01-26T20:00:00,web,Grace Rossi,grace.rossi61@example.com,Refund request,"I want to return my TB-29, it's too big for me. Order #NW98458. My email is grace.rossi61@example.com.",question,,solved
+T100229,2026-01-08T18:21:00,web,Olivia Lee,olivia.lee53@example.com,,Chain on my urban fold mini snapped after two weeks of normal commuting. Order #NW52477.,Warranty,urbanfold mini,closed
+T100511,2026-01-09T04:58:00,email,Olivia Johnson,olivia.johnson85@example.com,Defect,"<p>Hi,</p><p>The motor on my urban fold mini makes a grinding noise. It's still under warranty I think.</p><p>Thanks,<br>Olivia</p>",Warranty,,solved
+T100106,2026-02-19T11:36:00,web,Zoe Miller,zoe.miller89@example.com,Return,My name is Zoe Miller. How do I send back the CityGlide? Changed my mind. Order #NW30203.,Returns,,closed
+T100406,2026-03-16T08:25:00,web,Maria Tanaka,maria.tanaka29@example.com,,"My name is Maria Tanaka. My Trailblazer 29er order says processing for a week now, what's going on?",shipping,TRAILBLAZER 29,solved
+T100279,2026-03-18T22:32:00,web,Chen Okafor,chen.okafor64@example.com,Broken part,Chain on my Trailblazer 29er snapped after two weeks of normal commuting.,Warranty,Trailblazer 29,solved
+T100495,2026-01-04T07:45:00,web,Ahmed Rossi,ahmed.rossi63@example.com,Brakes!!,"Front brake on the folding mini feels like it's not grabbing at all, really scary. My email is ahmed.rossi63@example.com.",SAFETY!!,URBANFOLD MINI,closed
+T100032,2026-02-08T16:43:00,email,Aisha Patel,aisha.patel21@example.com,Warranty question,"<p>Hi,</p><p>Chain on my E2 ebike snapped after two weeks of normal commuting.</p><p>You can call me at (377) 765-2229.</p><p>Sent from my iPhone</p>",warranty claim,CITYGLIDE E2,solved
+T100249,2026-02-01T12:00:00,web,Aisha Smith,aisha.smith81@example.com,,,,,solved
+T100198,2026-02-22T12:09:00,web,Ahmed Smith,ahmed.smith28@example.com,Refund request,The TB-29 isn't what I expected. Can I get a refund?,Return,TRAILBLAZER 29,open
+T100341,2026-01-23T18:05:00,chat,James Okafor,james.okafor54@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: The brakes on my CityGlide stopped working while I was going downhill.
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,CityGlide E2,solved
+T100420,2026-02-10T17:32:00,web,Ahmed Johnson,ahmed.johnson88@example.com,Safety problem,My name is Ahmed Johnson. I found a crack in the frame of my Summit Pro Carbon near the seat post. Is it safe to ride?,urgent safety,summit pro carbon,solved
+T100220,2026-01-05T19:57:00,web,Sofia Okafor,sofia.okafor71@example.com,,My name is Sofia Okafor. Is it ok to ride the CityGlide E2 in the rain? My email is sofia.okafor71@example.com.,misc,cityglide e2,closed
+T100017,2026-02-05T01:28:00,email,Aisha Patel,aisha.patel99@example.com,Refund request,"Hey there,
+
+The Summit Carbon isn't what I expected. Can I get a refund?
+
+You can call me at 559-856-9346.
+
+Sent from my iPhone
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",RMA,Summit Pro Carbon,solved
+T100490,2026-02-07T07:14:00,email,Aisha Rossi,aisha.rossi53@example.com,Safety problem,"
+
+The handlebar on my summit pro came loose mid-ride and I almost crashed.
+
+You can call me at (775) 990-6295.
+
+--
+Aisha Rossi
+(775) 990-6295",SAFETY!!,,solved
+T100052,2026-02-25T10:22:00,email,Noah Miller,noah.miller46@example.com,Exchange,"Hey there,
+
+How do I send back the Trail Blazer 29? Changed my mind.
+
+You can call me at (791) 719-4485.
+
+Sent from my iPhone",Returns,Trailblazer 29,solved
+T100448,2026-02-24T01:37:00,email,Ahmed Iyer,ahmed.iyer95@example.com,Brakes!!,"<p>Hi,</p><p>I found a crack in the frame of my Trailblazer 29 near the seat post. Is it safe to ride? Order #NW69666.</p><p>Regards,<br>Ahmed Iyer</p>",SAFETY!!,Trailblazer 29,open
+T100051,2026-02-07T09:25:00,email,Chen Novak,chen.novak55@example.com,Exchange,"Hi,
+
+I want to return my kids bike 16, it's too big for me. Order #NW21188.
+
+Sent from my iPhone",Returns,KidRider 16,closed
+T100178,2026-03-03T03:19:00,chat,Ahmed Brown,ahmed.brown79@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: My City Glide is 8 months old and the gears keep slipping. Is this covered?
+[10:03] Agent: Sorry to hear that, let me check.",defective part,cityglide e2,solved
+T100101,2026-03-12T09:51:00,web,Noah Khan,noah.khan73@example.com,Exchange,"My name is Noah Khan. Please start a return for the trailblazer29, it doesn't fit in my apartment.",exchange,,solved
+T100276,2026-02-01T09:29:00,email,Liam Okafor,liam.okafor26@example.com,Broken part,"Hi,
+
+The kickstand bolt on my UrbanFold Mini sheared off, bike is less than a year old.
+
+Sent from my iPhone",Defect,urbanfold mini,solved
+T100423,2026-01-17T09:48:00,email,James Brown,james.brown90@example.com,URGENT,"<p></p><p>Front brake on the urban fold mini feels like it's not grabbing at all, really scary.</p><p>--<br>James Brown<br>+1 208 358 2725</p>",urgent safety,UrbanFold Mini,open
+T100385,2026-03-10T14:03:00,web,Noah Johnson,noah.johnson13@example.com,Refund request,I'd like to exchange my KidRider 16 for a smaller size.,Returns,KidRider 16,open
+T100419,2026-01-03T03:44:00,email,Elena Patel,elena.patel40@example.com,,"Hey there,
+
+I found a crack in the frame of my Trailblazer 29er near the seat post. Is it safe to ride?
+
+--
+Elena Patel
+(565) 969-5626",urgent safety,TRAILBLAZER 29,closed
+T100436,2026-02-26T16:46:00,email,Zoe Iyer,zoe.iyer56@example.com,Question,"<p>Hey there,</p><p>Can I put a child seat on my Summit Carbon? Order #NW61488.</p><p>You can call me at +1 609 397 5097.</p><p>Thanks,<br>Zoe</p>",Product question,summit pro carbon,closed
+T100472,2026-02-08T13:52:00,email,Kenji Garcia,kenji.garcia78@example.com,,"
+
+My son's UrbanFold has a cracked fork, he was riding it yesterday!
+
+--
+Kenji Garcia
+468-971-4547",safety concern,,closed
+T100461,2026-03-10T19:06:00,email,Ahmed Okafor,ahmed.okafor17@example.com,,"<p>Hi,</p><p>I want to return my kids bike 16, it's too big for me. Order #NW30863.</p><p>Regards,<br>Ahmed Okafor</p>",refund,,open
+T100042,2026-01-30T17:43:00,web,Ravi Miller,ravi.miller30@example.com,Help,"My son's urban fold mini has a cracked fork, he was riding it yesterday! Order #NW92242.",urgent safety,urbanfold mini,solved
+T100039,2026-01-22T08:51:00,email,Maria Johnson,maria.johnson53@example.com,Accessories,"Hi,
+
+How often should I get my KidRider serviced?
+
+Regards,
+Maria Johnson",Product question,KidRider 16,open
+T100206,2026-03-09T03:21:00,email,Zoe Smith,zoe.smith43@example.com,Return,"Hey there,
+
+I want to return my summit pro, it's too big for me.
+
+--
+Zoe Smith
+(968) 349-1918
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",refund,SUMMIT PRO CARBON,solved
+T100047,2026-03-23T23:14:00,chat,Sofia Garcia,sofia.garcia7@example.com,Return,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: Bought the bike as a gift but they already have one, how do returns work? Order #NW38305.
+[10:03] Agent: Sorry to hear that, let me check.",refund,,solved
+T100347,2026-01-19T02:59:00,email,Sofia Brown,sofia.brown62@example.com,Defect,"<p>Hi,</p><p>My kid rider 16 is 8 months old and the gears keep slipping. Is this covered?</p><p>Thanks,<br>Sofia</p>",defective part,KidRider 16,solved
+T100399,2026-02-04T14:53:00,chat,Ahmed Rossi,ahmed.rossi76@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: What tire pressure should I run on my folding mini? Order #NW35189.
+[10:03] Agent: Sorry to hear that, let me check.",question,UrbanFold Mini,solved
+T100460,2026-02-05T20:33:00,web,Sofia Tanaka,sofia.tanaka91@example.com,Where is my order,Tracking for my urban fold mini hasn't updated in 4 days.,where is my order,urbanfold mini,open
+T100454,2026-02-12T15:11:00,email,Sofia Okafor,sofia.okafor18@example.com,Accessories,"Hello Northwind team,
+
+What's the max rider weight for the CityGlide?
+
+Regards,
+Sofia Okafor
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",misc,cityglide e2,solved
+T100301,2026-02-11T02:17:00,web,Grace Rossi,grace.rossi81@example.com,,"My name is Grace Rossi. The kickstand bolt on my trailblazer29 sheared off, bike is less than a year old.",defective part,trailblazer 29,closed
+T100092,2026-01-22T07:55:00,web,Aisha Rossi,aisha.rossi93@example.com,Shipping,Can you tell me when my CityGlide E2 order will ship? Order #NW23224.,Order Status,,closed
+T900532,2026-03-18T12:41:00,web,Mateo Lee,mateo.lee1@example.com,Order update?,My name is Mateo Lee. Tracking for my KidRider hasn't updated in 4 days.,General,kidrider 16,solved
+T100221,2026-02-01T12:00:00,web,Aisha Tanaka,aisha.tanaka14@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100338,2026-03-15T14:00:00,web,Kenji Lee,kenji.lee23@example.com,Refund request,I'd like to exchange my urban fold mini for a smaller size. Order #NW12592.,refund,urbanfold mini,solved
+T100265,2026-01-05T22:42:00,chat,Elena Silva,elena.silva26@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: Paint on my KidRider is peeling after only 3 months, can I get it fixed under warranty? Order #NW64079.
+[10:03] Agent: Sorry to hear that, let me check.",Defect,,solved
+T100083,2026-03-12T08:47:00,web,Liam Miller,liam.miller99@example.com,Quick question,My name is Liam Miller. What's the max rider weight for the summit pro? My email is liam.miller99@example.com.,how to,summit pro carbon,solved
+T100060,2026-01-08T00:34:00,email,Priya Miller,priya.miller72@example.com,Exchange,"<p>Hey there,</p><p>I want to return my City Glide, it's too big for me.</p><p>You can call me at 858-536-3093.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",exchange,CITYGLIDE E2,closed
+T100066,2026-01-06T17:50:00,web,Liam Wei,liam.wei99@example.com,Help,"Front brake on the summit pro feels like it's not grabbing at all, really scary.",safety concern,SUMMIT PRO CARBON,solved
+T100152,2026-01-14T00:52:00,email,Ravi Smith,ravi.smith82@example.com,Exchange,"<p>Hey there,</p><p>Bought the trailblazer29 as a gift but they already have one, how do returns work? Order #NW99220.</p><p>Thanks,<br>Ravi</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",exchange,,closed
+T100278,2026-01-27T04:27:00,email,Zoe Johnson,zoe.johnson26@example.com,,"<p></p><p>The bike isn't what I expected. Can I get a refund?</p><p>You can call me at (590) 496-9037.</p><p>--<br>Zoe Johnson<br>(590) 496-9037</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",exchange,,solved
+T100510,2026-01-28T08:37:00,email,Zoe Silva,zoe.silva94@example.com,,"Hello Northwind team,
+
+The handlebar on my KidRider came loose mid-ride and I almost crashed.
+
+--
+Zoe Silva
+684-449-5138",,KIDRIDER 16,open
+T100468,2026-02-01T12:00:00,web,James Garcia,james.garcia93@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100117,2026-01-09T11:54:00,chat,Zoe Garcia,zoe.garcia16@example.com,Brakes!!,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Zoe
+[10:02] Customer: I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride?
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,trailblazer 29,solved
+T100109,2026-02-28T07:08:00,chat,Elena Wei,elena.wei87@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: The battery on my trailblazer29 got really hot and started smoking in the garage.
+[10:03] Agent: Sorry to hear that, let me check.",safety issue,TRAILBLAZER 29,solved
+T100201,2026-03-20T15:57:00,chat,Olivia Patel,olivia.patel84@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Olivia
+[10:02] Customer: My son's summit pro has a cracked fork, he was riding it yesterday! Order #NW79041.
+[10:03] Agent: Sorry to hear that, let me check.",misc,summit pro carbon,solved
+T100496,2026-02-04T04:41:00,chat,Sofia Iyer,sofia.iyer70@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: The handlebar on my Summit Carbon came loose mid-ride and I almost crashed.
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,Summit Pro Carbon,closed
+T100449,2026-03-02T09:14:00,web,Ravi Wei,ravi.wei6@example.com,,"Bought the City Glide as a gift but they already have one, how do returns work? Order #NW29212. My email is ravi.wei6@example.com.",RMA,cityglide e2,solved
+T100445,2026-02-10T04:07:00,email,Zoe Wei,zoe.wei96@example.com,Brakes!!,"<p>Hey there,</p><p>The handlebar on my CityGlide E2 came loose mid-ride and I almost crashed.</p><p>You can call me at (446) 216-8550.</p><p>--<br>Zoe Wei<br>(446) 216-8550</p>",Brake failure,CityGlide E2,solved
+T100233,2026-01-12T19:21:00,chat,James Wei,james.wei74@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Rear derailleur on the City Glide is bent out of the box basically, 5 months old. Order #NW89802.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,cityglide e2,solved
+T100498,2026-02-26T21:16:00,email,Kenji Okafor,kenji.okafor61@example.com,,<p></p><p>My folding mini is 8 months old and the gears keep slipping. Is this covered?</p><p>You can call me at 415-538-3217.</p><p>--<br>Kenji Okafor<br>415-538-3217</p>,Warranty,UrbanFold Mini,solved
+T100507,2026-02-01T18:05:00,email,Sofia Johnson,sofia.johnson40@example.com,,"<p>Hello Northwind team,</p><p>The kickstand bolt on my Summit Pro Carbon sheared off, bike is less than a year old.</p><p>You can call me at (588) 922-5703.</p><p>Thanks,<br>Sofia</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Defect,summit pro carbon,closed
+T100019,2026-01-09T12:00:00,web,Noah Lee,noah.lee71@example.com,Quick question,Is it ok to ride the UrbanFold in the rain?,question,urbanfold mini,closed
+T100351,2026-03-15T05:28:00,email,Sofia Miller,sofia.miller55@example.com,,"Hey there,
+
+Paint on my KidRider 16 is peeling after only 3 months, can I get it fixed under warranty?
+
+You can call me at 785-360-7129.
+
+--
+Sofia Miller
+785-360-7129",Defect,kidrider 16,solved
+T100073,2026-01-15T23:41:00,web,Olivia Novak,olivia.novak83@example.com,Quick question,Can I put a child seat on my Trailblazer 29er? My email is olivia.novak83@example.com.,General,trailblazer 29,solved
+T100463,2026-02-09T22:44:00,web,Olivia Garcia,olivia.garcia47@example.com,,Chain on my Trailblazer 29er snapped after two weeks of normal commuting. Order #NW37194.,defective part,Trailblazer 29,closed
+T100218,2026-02-26T17:21:00,email,Liam Brown,liam.brown10@example.com,Defect,"<p>Hey there,</p><p>Chain on my folding mini snapped after two weeks of normal commuting.</p><p>--<br>Liam Brown<br>640-531-2467</p>",wrnty,,solved
+T100482,2026-01-22T03:23:00,web,Noah Iyer,noah.iyer90@example.com,Exchange,"Bought the KidRider 16 as a gift but they already have one, how do returns work?",refund,KidRider 16,solved
+T100038,2026-03-21T03:53:00,web,Grace Brown,grace.brown53@example.com,Warranty question,My name is Grace Brown. Chain on my folding mini snapped after two weeks of normal commuting.,Warranty,urbanfold mini,closed
+T100139,2026-03-02T03:05:00,email,Ahmed Lee,ahmed.lee21@example.com,Brakes!!,"<p>Hello Northwind team,</p><p>The handlebar on my Summit Carbon came loose mid-ride and I almost crashed.</p><p>Regards,<br>Ahmed Lee</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",safety issue,summit pro carbon,solved
+T100026,2026-03-06T09:08:00,chat,James Tanaka,james.tanaka69@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: The brakes on my UrbanFold stopped working while I was going downhill.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,,solved
+T100289,2026-03-22T02:39:00,web,Chen Patel,chen.patel85@example.com,Where is my order,Got a delivery notification for the folding mini but nothing showed up at my door.,Order Status,,solved
+T100271,2026-01-18T03:27:00,web,James Patel,james.patel48@example.com,,I'd like to exchange my Summit Pro Carbon for a smaller size.,Returns,Summit Pro Carbon,solved
+T100303,2026-01-21T10:23:00,chat,Mateo Okafor,mateo.okafor20@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Mateo
+[10:02] Customer: Bought the bike as a gift but they already have one, how do returns work?
+[10:03] Agent: Sorry to hear that, let me check.",exchange,,solved
+T100180,2026-03-15T23:14:00,email,Olivia Novak,olivia.novak62@example.com,,"<p>Hey there,</p><p>Can you tell me when my Summit Pro Carbon order will ship?</p><p>Thanks,<br>Olivia</p>",Order Status,Summit Pro Carbon,closed
+T100078,2026-01-05T15:45:00,chat,Kenji Smith,kenji.smith7@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: My CityGlide E2 is 8 months old and the gears keep slipping. Is this covered?
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,,solved
+T100054,2026-03-11T20:18:00,email,Aisha Dubois,aisha.dubois85@example.com,Safety problem,"<p></p><p>Front brake on the trailblazer29 feels like it's not grabbing at all, really scary. Order #NW66349.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",urgent safety,TRAILBLAZER 29,closed
+T100059,2026-02-01T20:11:00,email,Zoe Khan,zoe.khan47@example.com,Broken part,"Hi,
+
+Rear derailleur on the KidRider 16 is bent out of the box basically, 5 months old.
+
+Regards,
+Zoe Khan",defective part,KIDRIDER 16,open
+T100027,2026-01-31T23:28:00,email,Ravi Dubois,ravi.dubois56@example.com,Order update?,"<p></p><p>Tracking for my UrbanFold Mini hasn't updated in 4 days.</p><p>Regards,<br>Ravi Dubois</p>",WISMO,urbanfold mini,closed
+T100245,2026-02-09T14:41:00,email,Grace Johnson,grace.johnson38@example.com,Quick question,"Hey there,
+
+What's the max rider weight for the bike?
+
+Thanks,
+Grace",misc,,closed
+T100280,2026-02-19T11:45:00,web,Olivia Tanaka,olivia.tanaka21@example.com,Order update?,My name is Olivia Tanaka. Where is my KidRider? I ordered it 10 days ago and haven't heard anything. Order #NW79417. My email is olivia.tanaka21@example.com.,where is my order,KIDRIDER 16,closed
+T100343,2026-01-09T17:20:00,web,Chen Patel,chen.patel8@example.com,,I'd like to exchange my UrbanFold Mini for a smaller size. Order #NW90050. My email is chen.patel8@example.com.,Returns,,solved
+T100293,2026-02-08T21:01:00,email,Elena Khan,elena.khan79@example.com,Shipping,"
+
+Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday? Order #NW44754.
+
+--
+Elena Khan
+572-646-4305",Tracking,,solved
+T100518,2026-03-07T16:20:00,web,Zoe Smith,zoe.smith10@example.com,Question,Is it ok to ride the UrbanFold Mini in the rain?,,urbanfold mini,closed
+T100024,2026-01-19T03:30:00,email,Grace Novak,grace.novak28@example.com,URGENT,"<p>Hi,</p><p>The battery on my summit pro got really hot and started smoking in the garage.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",safety concern,SUMMIT PRO CARBON,closed
+T900530,2026-02-21T12:42:00,email,Noah Silva,noah.silva85@example.com,Where is my order,"<p>Hi,</p><p>My folding mini order says processing for a week now, what's going on?</p><p>Thanks,<br>Noah</p>",shipping,,solved
+T100353,2026-01-20T01:50:00,email,Maria Miller,maria.miller37@example.com,,"<p>Hello Northwind team,</p><p>Do you sell a rear rack that fits the Summit Carbon?</p><p>Regards,<br>Maria Miller</p>",General,,solved
+T100226,2026-03-10T23:23:00,chat,Ravi Tanaka,ravi.tanaka24@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: I want to return my city glide e2, it's too big for me.
+[10:03] Agent: Sorry to hear that, let me check.",RMA,CITYGLIDE E2,solved
+T100494,2026-01-31T06:12:00,email,Aisha Iyer,aisha.iyer37@example.com,Refund request,"<p>Hi,</p><p>Please start a return for the folding mini, it doesn't fit in my apartment.</p><p>--<br>Aisha Iyer<br>+1 746 718 5007</p>",RMA,urbanfold mini,closed
+T100471,2026-01-17T18:53:00,email,Liam Dubois,liam.dubois84@example.com,,"Hi,
+
+The motor on my TB-29 makes a grinding noise. It's still under warranty I think.
+
+You can call me at 316-221-9174.
+
+Regards,
+Liam Dubois",Defect,,solved
+T100359,2026-01-30T18:35:00,email,Priya Wei,priya.wei65@example.com,Help,"<p></p><p>The brakes on my Summit Carbon stopped working while I was going downhill.</p><p>Regards,<br>Priya Wei</p>",Safety,SUMMIT PRO CARBON,solved
+T100120,2026-03-13T08:14:00,email,Mateo Novak,mateo.novak18@example.com,Refund request,"Hi,
+
+Bought the Summit Carbon as a gift but they already have one, how do returns work?
+
+Sent from my iPhone
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",refund,Summit Pro Carbon,solved
+T100130,2026-01-12T01:19:00,email,Noah Smith,noah.smith28@example.com,URGENT,"Hello Northwind team,
+
+Front brake on the E2 ebike feels like it's not grabbing at all, really scary. Order #NW49169.
+
+You can call me at 351-293-5066.
+
+Regards,
+Noah Smith",urgent safety,CITYGLIDE E2,solved
+T100467,2026-01-22T16:17:00,chat,James Lee,james.lee99@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: What tire pressure should I run on my kid rider 16?
+[10:03] Agent: Sorry to hear that, let me check.",misc,KidRider 16,solved
+T100497,2026-02-21T07:39:00,email,Sofia Dubois,sofia.dubois15@example.com,Safety problem,"Hi,
+
+The handlebar on my City Glide came loose mid-ride and I almost crashed. Order #NW81707.
+
+You can call me at (634) 707-3797.
+
+Regards,
+Sofia Dubois",safety concern,cityglide e2,solved
+T100323,2026-03-24T18:14:00,email,Priya Novak,priya.novak41@example.com,Accessories,"Hi,
+
+Can I put a child seat on my Trailblazer 29?
+
+Sent from my iPhone",how to,trailblazer 29,solved
+T100284,2026-01-16T15:14:00,web,Priya Johnson,priya.johnson96@example.com,Where is my order,"My Trailblazer 29er order says processing for a week now, what's going on? My email is priya.johnson96@example.com.",Order Status,trailblazer 29,open
+T100270,2026-01-30T04:03:00,email,Chen Lee,chen.lee47@example.com,Order update?,"Hey there,
+
+My Trailblazer 29er order says processing for a week now, what's going on? Order #NW36832.
+
+You can call me at 833-241-6989.
+
+--
+Chen Lee
+833-241-6989",Tracking,TRAILBLAZER 29,closed
+T100112,2026-01-26T00:25:00,email,Elena Dubois,elena.dubois80@example.com,Defect,"<p></p><p>The kickstand bolt on my E2 ebike sheared off, bike is less than a year old.</p><p>Regards,<br>Elena Dubois</p>",Warranty,CityGlide E2,solved
+T900520,2026-02-07T23:42:00,email,Kenji Wei,kenji.wei69@example.com,,"Hello Northwind team,
+
+Tracking for my summit pro hasn't updated in 4 days.
+
+You can call me at +1 560 347 1211.
+
+Thanks,
+Kenji",Tracking,Summit Pro Carbon,open
+T100128,2026-02-28T00:01:00,web,Mateo Iyer,mateo.iyer8@example.com,,Do you sell a rear rack that fits the bike?,General,,solved
+T100143,2026-01-10T14:45:00,web,Grace Lee,grace.lee71@example.com,,"My son's Trailblazer 29 has a cracked fork, he was riding it yesterday!",safety issue,Trailblazer 29,closed
+T100475,2026-01-04T19:39:00,web,Ahmed Okafor,ahmed.okafor99@example.com,,I found a crack in the frame of my kid rider 16 near the seat post. Is it safe to ride? My email is ahmed.okafor99@example.com.,safety issue,kidrider 16,closed
+T100485,2026-03-17T18:38:00,email,Aisha Iyer,aisha.iyer57@example.com,URGENT,"Hello Northwind team,
+
+I found a crack in the frame of my Summit Pro Carbon near the seat post. Is it safe to ride?
+
+Thanks,
+Aisha
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",urgent safety,,solved
+T100252,2026-01-31T11:44:00,email,Liam Lee,liam.lee88@example.com,Exchange,"Hey there,
+
+I want to return my folding mini, it's too big for me. Order #NW68827.
+
+--
+Liam Lee
++1 599 685 5302
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",RMA,urbanfold mini,solved
+T100136,2026-01-21T07:40:00,web,Grace Wei,grace.wei44@example.com,,"My son's summit pro has a cracked fork, he was riding it yesterday! My email is grace.wei44@example.com.",safety concern,summit pro carbon,closed
+T100433,2026-01-10T17:54:00,web,Liam Miller,liam.miller25@example.com,Defect,The motor on my CityGlide E2 makes a grinding noise. It's still under warranty I think. Order #NW28844.,Warranty,CityGlide E2,solved
+T100192,2026-02-21T06:15:00,chat,Ahmed Silva,ahmed.silva65@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: Front brake on the Summit Pro Carbon feels like it's not grabbing at all, really scary.
+[10:03] Agent: Sorry to hear that, let me check.",urgent safety,,closed
+T100434,2026-01-11T16:02:00,email,Ravi Tanaka,ravi.tanaka27@example.com,Brakes!!,"<p>Hey there,</p><p>My son's Trail Blazer 29 has a cracked fork, he was riding it yesterday! Order #NW65038.</p><p>Regards,<br>Ravi Tanaka</p>",Safety,Trailblazer 29,open
+T100358,2026-03-24T17:09:00,email,Liam Khan,liam.khan80@example.com,,"Hi,
+
+Rear derailleur on the kid rider 16 is bent out of the box basically, 5 months old.
+
+You can call me at +1 642 668 7302.
+
+Thanks,
+Liam",wrnty,KIDRIDER 16,solved
+T100488,2026-03-21T21:46:00,web,Maria Silva,maria.silva9@example.com,Accessories,My name is Maria Silva. Is it ok to ride the CityGlide E2 in the rain?,misc,CITYGLIDE E2,closed
+T100421,2026-02-22T11:24:00,email,Grace Brown,grace.brown27@example.com,Exchange,"<p>Hey there,</p><p>I want to return my Trail Blazer 29, it's too big for me.</p><p>--<br>Grace Brown<br>+1 821 276 3496</p>",refund,trailblazer 29,solved
+T100129,2026-02-11T03:13:00,email,Liam Miller,liam.miller34@example.com,Exchange,"<p>Hi,</p><p>How do I send back the CityGlide? Changed my mind. Order #NW36569.</p><p>You can call me at 602-917-6345.</p><p>Thanks,<br>Liam</p>",Return,CITYGLIDE E2,solved
+T100084,2026-01-05T18:40:00,web,Zoe Okafor,zoe.okafor96@example.com,URGENT,"My name is Zoe Okafor. My son's Summit Carbon has a cracked fork, he was riding it yesterday! Order #NW24316.",safety concern,SUMMIT PRO CARBON,solved
+T100492,2026-03-20T11:01:00,email,Liam Garcia,liam.garcia5@example.com,Warranty question,"<p>Hello Northwind team,</p><p>My folding mini is 8 months old and the gears keep slipping. Is this covered? Order #NW49513.</p><p>You can call me at (973) 739-2679.</p><p>--<br>Liam Garcia<br>(973) 739-2679</p>",Defect,urbanfold mini,solved
+T100161,2026-01-11T06:42:00,chat,James Khan,james.khan14@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: The battery on my E2 ebike got really hot and started smoking in the garage.
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,,solved
+T900533,2026-01-25T20:24:00,chat,Noah Patel,noah.patel51@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Noah
+[10:02] Customer: What's the max rider weight for the trailblazer29?
+[10:03] Agent: Sorry to hear that, let me check.",misc,,closed
+T100069,2026-02-01T12:00:00,web,Mateo Okafor,mateo.okafor82@example.com,,,,,solved
+T100217,2026-02-13T18:35:00,web,Priya Brown,priya.brown56@example.com,Refund request,"Bought the folding mini as a gift but they already have one, how do returns work? My email is priya.brown56@example.com.",exchange,URBANFOLD MINI,solved
+T100104,2026-01-28T08:18:00,email,Ravi Patel,ravi.patel47@example.com,Exchange,"<p></p><p>I'd like to exchange my Summit Pro Carbon for a smaller size. Order #NW49932.</p><p>You can call me at 452-938-9123.</p><p>Regards,<br>Ravi Patel</p>",RMA,SUMMIT PRO CARBON,closed
+T100064,2026-02-27T12:31:00,email,Maria Patel,maria.patel3@example.com,Refund request,"Hi,
+
+I want to return my kids bike 16, it's too big for me.
+
+You can call me at 420-353-9991.
+
+Regards,
+Maria Patel",Return,KidRider 16,closed
+T100000,2026-01-31T23:17:00,email,Liam Brown,liam.brown18@example.com,Brakes!!,"Hi,
+
+The brakes on my summit pro stopped working while I was going downhill. Order #NW38657.
+
+Regards,
+Liam Brown
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Safety,,solved
+T100238,2026-01-31T08:04:00,chat,Elena Johnson,elena.johnson99@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: Is it ok to ride the Summit Pro Carbon in the rain?
+[10:03] Agent: Sorry to hear that, let me check.",General,Summit Pro Carbon,closed
+T100479,2026-02-21T19:44:00,web,Zoe Novak,zoe.novak96@example.com,Shipping,Tracking for my E2 ebike hasn't updated in 4 days. Order #NW83460.,Tracking,CITYGLIDE E2,open
+T100305,2026-01-13T00:52:00,email,Grace Silva,grace.silva95@example.com,Return,"Hey there,
+
+The CityGlide E2 isn't what I expected. Can I get a refund?
+
+--
+Grace Silva
++1 462 274 2561
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",exchange,cityglide e2,solved
+T100313,2026-03-21T08:04:00,email,Zoe Khan,zoe.khan24@example.com,URGENT,"
+
+The battery on my TB-29 got really hot and started smoking in the garage.
+
+Sent from my iPhone",safety issue,trailblazer 29,solved
+T100353,2026-01-20T01:50:00,email,Maria Miller,maria.miller37@example.com,,"<p>Hello Northwind team,</p><p>Do you sell a rear rack that fits the Summit Carbon?</p><p>Regards,<br>Maria Miller</p>",General,,solved
+T100164,2026-02-03T01:44:00,chat,Chen Lee,chen.lee53@example.com,Return,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Chen
+[10:02] Customer: Bought the Trailblazer 29er as a gift but they already have one, how do returns work?
+[10:03] Agent: Sorry to hear that, let me check.",Returns,trailblazer 29,closed
+T100513,2026-02-08T17:58:00,email,Maria Brown,maria.brown78@example.com,Shipping,"<p>Hi,</p><p>Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday?</p><p>Thanks,<br>Maria</p>",WISMO,KIDRIDER 16,solved
+T100184,2026-03-23T01:58:00,email,Ahmed Tanaka,ahmed.tanaka78@example.com,Defect,"<p>Hello Northwind team,</p><p>Rear derailleur on the CityGlide is bent out of the box basically, 5 months old. Order #NW98503.</p><p>Regards,<br>Ahmed Tanaka</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",defective part,CityGlide E2,solved
+T100294,2026-02-21T12:42:00,email,Noah Silva,noah.silva85@example.com,Where is my order,"<p>Hi,</p><p>My folding mini order says processing for a week now, what's going on?</p><p>Thanks,<br>Noah</p>",shipping,,solved
+T100110,2026-02-25T15:25:00,email,Mateo Lee,mateo.lee1@example.com,,"Hey there,
+
+The kickstand bolt on my KidRider 16 sheared off, bike is less than a year old. Order #NW80371.
+
+You can call me at +1 419 410 5560.
+
+--
+Mateo Lee
++1 419 410 5560",defective part,,solved
+T900529,2026-02-03T23:29:00,web,Kenji Brown,kenji.brown74@example.com,Brakes!!,The brakes on my UrbanFold stopped working while I was going downhill.,Safety,,closed
+T100002,2026-02-06T12:21:00,email,Ahmed Tanaka,ahmed.tanaka46@example.com,Exchange,"
+
+Bought the Summit Pro Carbon as a gift but they already have one, how do returns work?
+
+You can call me at (886) 473-2169.
+
+Thanks,
+Ahmed",Return,summit pro carbon,solved
+T100254,2026-02-01T12:00:00,web,James Rossi,james.rossi77@example.com,,test ticket please ignore,,,solved
+T100393,2026-01-16T08:09:00,web,Grace Garcia,grace.garcia79@example.com,Quick question,Do you sell a rear rack that fits the TB-29?,how to,,solved
+T100357,2026-02-01T13:33:00,web,Aisha Rossi,aisha.rossi1@example.com,Accessories,What's the max rider weight for the kid rider 16?,General,,solved
+T100153,2026-03-08T12:08:00,email,Elena Khan,elena.khan41@example.com,Brakes!!,"<p>Hi,</p><p>Front brake on the kid rider 16 feels like it's not grabbing at all, really scary.</p><p>You can call me at +1 259 204 8406.</p><p>Regards,<br>Elena Khan</p>",Brake failure,KIDRIDER 16,open
+T100055,2026-03-06T13:55:00,web,Ravi Silva,ravi.silva23@example.com,Help,The brakes on my TB-29 stopped working while I was going downhill.,Safety,,solved
+T100319,2026-02-26T05:05:00,email,Ahmed Rossi,ahmed.rossi21@example.com,Refund request,"<p>Hi,</p><p>The E2 ebike isn't what I expected. Can I get a refund? Order #NW82984.</p><p>Sent from my iPhone</p>",General,CityGlide E2,solved
+T100258,2026-03-05T08:10:00,web,Kenji Novak,kenji.novak88@example.com,,"My name is Kenji Novak. I want to return my TB-29, it's too big for me. My email is kenji.novak88@example.com.",Product question,trailblazer 29,closed
+T100396,2026-01-04T15:56:00,web,Ravi Lee,ravi.lee48@example.com,Shipping,My name is Ravi Lee. Where is my CityGlide? I ordered it 10 days ago and haven't heard anything.,question,cityglide e2,solved
+T100205,2026-01-02T08:10:00,email,Noah Wei,noah.wei82@example.com,,"<p>Hi,</p><p>Paint on my E2 ebike is peeling after only 3 months, can I get it fixed under warranty?</p><p>You can call me at 832-663-5458.</p><p>--<br>Noah Wei<br>832-663-5458</p>",Defect,CITYGLIDE E2,solved
+T100121,2026-02-16T02:42:00,web,Priya Garcia,priya.garcia47@example.com,Exchange,My name is Priya Garcia. I'd like to exchange my urban fold mini for a smaller size. My email is priya.garcia47@example.com.,RMA,,closed
+T100021,2026-01-22T08:15:00,email,Elena Dubois,elena.dubois79@example.com,Broken part,"Hello Northwind team,
+
+Rear derailleur on the kid rider 16 is bent out of the box basically, 5 months old.
+
+Sent from my iPhone",warranty claim,kidrider 16,solved
+T100330,2026-01-18T12:21:00,web,Grace Brown,grace.brown51@example.com,Question,Do you sell a rear rack that fits the KidRider 16?,how to,KidRider 16,open
+T100029,2026-03-07T22:52:00,chat,Elena Tanaka,elena.tanaka90@example.com,Exchange,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: The urban fold mini isn't what I expected. Can I get a refund? Order #NW80236.
+[10:03] Agent: Sorry to hear that, let me check.",refund,urbanfold mini,open
+T100215,2026-02-24T04:18:00,email,Olivia Wei,olivia.wei5@example.com,Order update?,"
+
+Can you tell me when my urban fold mini order will ship? Order #NW49361.
+
+Thanks,
+Olivia",shipping,UrbanFold Mini,solved
+T100262,2026-02-28T05:43:00,email,Olivia Wei,olivia.wei81@example.com,Accessories,"Hi,
+
+Is it ok to ride the bike in the rain? Order #NW10946.
+
+Sent from my iPhone",Product question,,solved
+T900522,2026-03-13T05:14:00,web,Grace Dubois,grace.dubois96@example.com,Where is my order,Where is my CityGlide? I ordered it 10 days ago and haven't heard anything. My email is grace.dubois96@example.com.,Order Status,cityglide e2,solved
+T900525,2026-03-10T23:23:00,chat,Ravi Tanaka,ravi.tanaka24@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: I want to return my city glide e2, it's too big for me.
+[10:03] Agent: Sorry to hear that, let me check.",RMA,CITYGLIDE E2,solved
+T100202,2026-02-07T12:28:00,web,Zoe Johnson,zoe.johnson90@example.com,Order update?,"Ordered a folding mini for my daughter's birthday, is it going to arrive by Friday?",where is my order,urbanfold mini,solved
+T100324,2026-03-10T21:47:00,email,Olivia Lee,olivia.lee58@example.com,Quick question,"Hey there,
+
+Do you sell a rear rack that fits the folding mini?
+
+Thanks,
+Olivia",question,urbanfold mini,solved
+T100389,2026-01-01T21:32:00,email,Ahmed Silva,ahmed.silva20@example.com,Question,<p></p><p>What tire pressure should I run on my urban fold mini? Order #NW79660.</p><p>You can call me at 644-588-1424.</p><p>--<br>Ahmed Silva<br>644-588-1424</p>,misc,urbanfold mini,solved
+T100200,2026-01-03T09:35:00,email,Grace Okafor,grace.okafor57@example.com,,"<p>Hello Northwind team,</p><p>Can you tell me when my summit pro order will ship? Order #NW13027.</p><p>--<br>Grace Okafor<br>965-801-9535</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Order Status,Summit Pro Carbon,solved
+T100137,2026-02-10T15:40:00,email,Ahmed Garcia,ahmed.garcia90@example.com,Where is my order,"
+
+Ordered a CityGlide for my daughter's birthday, is it going to arrive by Friday? Order #NW84127.
+
+You can call me at +1 600 989 1530.
+
+--
+Ahmed Garcia
++1 600 989 1530
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",where is my order,cityglide e2,solved
+T100025,2026-01-10T06:36:00,email,Sofia Dubois,sofia.dubois90@example.com,Exchange,"Hi,
+
+How do I send back the Trailblazer 29? Changed my mind.
+
+Regards,
+Sofia Dubois",Return,TRAILBLAZER 29,closed
+T100118,2026-02-13T11:33:00,email,Grace Miller,grace.miller93@example.com,Warranty question,"Hello Northwind team,
+
+My Trailblazer 29 is 8 months old and the gears keep slipping. Is this covered? Order #NW20215.
+
+Regards,
+Grace Miller
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Warranty,TRAILBLAZER 29,solved
+T100439,2026-03-24T23:30:00,web,Sofia Smith,sofia.smith64@example.com,,My name is Sofia Smith. Can you tell me when my E2 ebike order will ship? My email is sofia.smith64@example.com.,Order Status,CityGlide E2,solved
+T100148,2026-03-03T15:21:00,web,Maria Garcia,maria.garcia61@example.com,,"My KidRider order says processing for a week now, what's going on?",WISMO,kidrider 16,solved
+T100283,2026-01-19T16:42:00,email,Maria Iyer,maria.iyer97@example.com,,"Hi,
+
+My son's bike has a cracked fork, he was riding it yesterday!
+
+--
+Maria Iyer
+243-401-2766
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Safety,,open
+T100314,2026-02-01T12:00:00,web,Chen Garcia,chen.garcia22@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100242,2026-02-04T22:27:00,email,Ahmed Miller,ahmed.miller99@example.com,Return,"<p>Hi,</p><p>Please start a return for the kids bike 16, it doesn't fit in my apartment.</p><p>Regards,<br>Ahmed Miller</p>",Returns,,solved
+T100437,2026-03-13T23:44:00,web,Kenji Patel,kenji.patel58@example.com,Quick question,What's the max rider weight for the summit pro?,General,,solved
+T100368,2026-01-15T02:00:00,email,Olivia Iyer,olivia.iyer3@example.com,Quick question,"
+
+What's the max rider weight for the kid rider 16?
+
+You can call me at 637-285-5918.
+
+Sent from my iPhone",General,KIDRIDER 16,solved
+T100430,2026-03-18T12:41:00,web,Mateo Lee,mateo.lee1@example.com,Order update?,My name is Mateo Lee. Tracking for my KidRider hasn't updated in 4 days.,General,kidrider 16,solved
+T100077,2026-01-03T02:37:00,web,Liam Johnson,liam.johnson13@example.com,Where is my order,My name is Liam Johnson. Tracking for my kid rider 16 hasn't updated in 4 days. My email is liam.johnson13@example.com.,Tracking,,open
+T100510,2026-01-28T08:37:00,email,Zoe Silva,zoe.silva94@example.com,,"Hello Northwind team,
+
+The handlebar on my KidRider came loose mid-ride and I almost crashed.
+
+--
+Zoe Silva
+684-449-5138",,KIDRIDER 16,open
+T100281,2026-02-07T23:42:00,email,Kenji Wei,kenji.wei69@example.com,,"Hello Northwind team,
+
+Tracking for my summit pro hasn't updated in 4 days.
+
+You can call me at +1 560 347 1211.
+
+Thanks,
+Kenji",Tracking,Summit Pro Carbon,open
+T100300,2026-02-28T09:06:00,chat,Mateo Novak,mateo.novak92@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Mateo
+[10:02] Customer: I'd like to exchange my KidRider for a smaller size.
+[10:03] Agent: Sorry to hear that, let me check.",,KidRider 16,closed
+T100085,2026-03-25T02:58:00,chat,Maria Khan,maria.khan53@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Maria
+[10:02] Customer: The battery on my CityGlide got really hot and started smoking in the garage. Order #NW17754.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,CityGlide E2,solved
+T100362,2026-02-01T12:00:00,web,Elena Novak,elena.novak72@example.com,,test ticket please ignore,,,solved
+T100048,2026-02-11T03:25:00,email,Aisha Khan,aisha.khan15@example.com,Defect,"Hi,
+
+The kickstand bolt on my urban fold mini sheared off, bike is less than a year old.
+
+You can call me at +1 226 334 1243.
+
+Regards,
+Aisha Khan",Defect,UrbanFold Mini,open
+T100190,2026-01-18T17:25:00,chat,James Lee,james.lee52@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Where is my Trailblazer 29er? I ordered it 10 days ago and haven't heard anything.
+[10:03] Agent: Sorry to hear that, let me check.",shipping,trailblazer 29,closed
+T100354,2026-02-21T17:13:00,email,Olivia Miller,olivia.miller95@example.com,,"<p>Hey there,</p><p>Got a delivery notification for the E2 ebike but nothing showed up at my door.</p><p>You can call me at (711) 874-6810.</p><p>--<br>Olivia Miller<br>(711) 874-6810</p>",where is my order,cityglide e2,open
+T100491,2026-01-27T09:55:00,email,Elena Johnson,elena.johnson78@example.com,Defect,"<p>Hi,</p><p>Rear derailleur on the Trailblazer 29 is bent out of the box basically, 5 months old.</p><p>Thanks,<br>Elena</p>",warranty claim,TRAILBLAZER 29,open
+T100141,2026-02-18T17:50:00,email,Zoe Smith,zoe.smith34@example.com,,"Hey there,
+
+Where is my City Glide? I ordered it 10 days ago and haven't heard anything. Order #NW97486.
+
+Regards,
+Zoe Smith",Tracking,,solved
+T100068,2026-01-16T04:02:00,email,Elena Khan,elena.khan64@example.com,,"<p>Hello Northwind team,</p><p>Please start a return for the KidRider 16, it doesn't fit in my apartment.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",RMA,,solved
+T100453,2026-02-21T07:52:00,chat,Mateo Patel,mateo.patel38@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Mateo
+[10:02] Customer: Chain on my E2 ebike snapped after two weeks of normal commuting.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,CITYGLIDE E2,closed
+T100010,2026-01-28T00:10:00,web,Mateo Iyer,mateo.iyer62@example.com,Defect,The motor on my E2 ebike makes a grinding noise. It's still under warranty I think. My email is mateo.iyer62@example.com.,defective part,CITYGLIDE E2,open
+T100045,2026-02-01T12:00:00,web,Chen Wei,chen.wei31@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100469,2026-03-23T16:55:00,web,James Novak,james.novak45@example.com,Defect,Chain on my summit pro snapped after two weeks of normal commuting. My email is james.novak45@example.com.,warranty claim,summit pro carbon,solved
+T100183,2026-01-21T22:25:00,chat,Kenji Patel,kenji.patel67@example.com,Return,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: I'd like to exchange my KidRider for a smaller size.
+[10:03] Agent: Sorry to hear that, let me check.",Return,KIDRIDER 16,solved
+T100286,2026-03-03T04:12:00,email,Elena Iyer,elena.iyer15@example.com,URGENT,"
+
+I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride?
+
+You can call me at 490-667-6111.
+
+--
+Elena Iyer
+490-667-6111",,,solved
+T100058,2026-03-07T00:26:00,email,Zoe Dubois,zoe.dubois5@example.com,URGENT,"<p>Hi,</p><p>Front brake on the Summit Pro Carbon feels like it's not grabbing at all, really scary.</p><p>Thanks,<br>Zoe</p>",safety issue,summit pro carbon,solved
+T100348,2026-03-02T03:46:00,web,Elena Brown,elena.brown23@example.com,Shipping,"My CityGlide E2 order says processing for a week now, what's going on? Order #NW95835. My email is elena.brown23@example.com.",WISMO,cityglide e2,open
+T100440,2026-03-18T17:43:00,email,James Novak,james.novak83@example.com,Exchange,"<p>Hey there,</p><p>Please start a return for the Trail Blazer 29, it doesn't fit in my apartment.</p><p>Sent from my iPhone</p>",RMA,Trailblazer 29,open
+T100465,2026-01-22T10:42:00,email,Noah Lee,noah.lee80@example.com,,"Hello Northwind team,
+
+Can I put a child seat on my UrbanFold? Order #NW54308.
+
+You can call me at (759) 914-2816.
+
+--
+Noah Lee
+(759) 914-2816
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",misc,UrbanFold Mini,solved
+T100239,2026-02-22T06:06:00,email,Noah Rossi,noah.rossi42@example.com,Shipping,"<p>Hi,</p><p>My Trail Blazer 29 order says processing for a week now, what's going on? Order #NW29571.</p><p>You can call me at (397) 493-5532.</p><p>--<br>Noah Rossi<br>(397) 493-5532</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",WISMO,trailblazer 29,solved
+T100509,2026-01-28T21:04:00,email,Ahmed Iyer,ahmed.iyer18@example.com,Safety problem,"<p>Hey there,</p><p>The brakes on my Trailblazer 29er stopped working while I was going downhill.</p><p>--<br>Ahmed Iyer<br>800-530-7099</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",SAFETY!!,trailblazer 29,solved
+T100457,2026-02-06T19:46:00,chat,Sofia Wei,sofia.wei9@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: I found a crack in the frame of my kid rider 16 near the seat post. Is it safe to ride? Order #NW13231.
+[10:03] Agent: Sorry to hear that, let me check.",Brake failure,kidrider 16,open
+T100329,2026-01-14T13:27:00,web,Chen Tanaka,chen.tanaka9@example.com,Exchange,I'd like to exchange my TB-29 for a smaller size.,Returns,,solved
+T100263,2026-02-12T06:05:00,chat,James Khan,james.khan92@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: The kickstand bolt on my UrbanFold Mini sheared off, bike is less than a year old. Order #NW25401.
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,URBANFOLD MINI,solved
+T100348,2026-03-02T03:46:00,web,Elena Brown,elena.brown23@example.com,Shipping,"My CityGlide E2 order says processing for a week now, what's going on? Order #NW95835. My email is elena.brown23@example.com.",WISMO,cityglide e2,open
+T100062,2026-03-06T18:04:00,email,Liam Miller,liam.miller61@example.com,Return,"<p>Hello Northwind team,</p><p>I'd like to exchange my CityGlide for a smaller size.</p><p>Thanks,<br>Liam</p>",exchange,CityGlide E2,solved
+T100408,2026-03-14T03:01:00,web,Grace Wei,grace.wei93@example.com,Warranty question,My name is Grace Wei. Chain on my kids bike 16 snapped after two weeks of normal commuting. Order #NW11776.,warranty claim,KidRider 16,open
+T100402,2026-03-23T03:42:00,email,Chen Smith,chen.smith76@example.com,,"<p></p><p>Front brake on the CityGlide E2 feels like it's not grabbing at all, really scary.</p><p>Thanks,<br>Chen</p>",safety issue,cityglide e2,open
+T100145,2026-01-20T05:47:00,web,Elena Miller,elena.miller40@example.com,,Can you tell me when my trailblazer29 order will ship?,shipping,,closed
+T100228,2026-02-12T04:42:00,web,Grace Smith,grace.smith72@example.com,Help,My name is Grace Smith. The handlebar on my E2 ebike came loose mid-ride and I almost crashed. My email is grace.smith72@example.com.,SAFETY!!,CITYGLIDE E2,solved
+T100028,2026-03-02T10:26:00,web,Maria Rossi,maria.rossi11@example.com,Order update?,"My name is Maria Rossi. My urban fold mini order says processing for a week now, what's going on?",WISMO,urbanfold mini,solved
+T100040,2026-01-22T03:13:00,email,Chen Dubois,chen.dubois22@example.com,,"<p>Hello Northwind team,</p><p>The Trailblazer 29 isn't what I expected. Can I get a refund?</p><p>Thanks,<br>Chen</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",exchange,TRAILBLAZER 29,closed
+T100138,2026-01-27T20:14:00,email,Aisha Wei,aisha.wei93@example.com,URGENT,"
+
+The handlebar on my Summit Pro Carbon came loose mid-ride and I almost crashed.
+
+You can call me at (249) 595-8179.
+
+Regards,
+Aisha Wei",safety concern,Summit Pro Carbon,solved
+T100034,2026-01-27T05:37:00,email,Maria Okafor,maria.okafor74@example.com,,"<p></p><p>How often should I get my folding mini serviced? Order #NW86720.</p><p>Regards,<br>Maria Okafor</p>",General,,closed
+T100259,2026-01-04T21:31:00,email,Priya Dubois,priya.dubois95@example.com,,"<p>Hey there,</p><p>Ordered a bike for my daughter's birthday, is it going to arrive by Friday? Order #NW60956.</p><p>Regards,<br>Priya Dubois</p>",WISMO,,solved
+T100352,2026-01-18T08:27:00,email,Liam Okafor,liam.okafor83@example.com,Defect,"Hi,
+
+The motor on my KidRider 16 makes a grinding noise. It's still under warranty I think.
+
+Thanks,
+Liam",wrnty,kidrider 16,open
+T100487,2026-01-26T17:20:00,email,Priya Novak,priya.novak5@example.com,Shipping,"<p></p><p>My KidRider 16 order says processing for a week now, what's going on?</p><p>Thanks,<br>Priya</p>",where is my order,,solved
+T100376,2026-03-01T22:09:00,web,Mateo Rossi,mateo.rossi1@example.com,Question,Can I put a child seat on my KidRider?,General,,closed
+T100451,2026-01-27T06:02:00,chat,Kenji Novak,kenji.novak51@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: The kickstand bolt on my Summit Carbon sheared off, bike is less than a year old.
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,summit pro carbon,open
+T100302,2026-01-19T01:07:00,chat,Elena Miller,elena.miller26@example.com,Broken part,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: The kickstand bolt on my folding mini sheared off, bike is less than a year old. Order #NW13010.
+[10:03] Agent: Sorry to hear that, let me check.",defective part,,closed
+T100103,2026-02-14T21:14:00,email,Mateo Wei,mateo.wei4@example.com,Refund request,"<p>Hi,</p><p>I'd like to exchange my KidRider for a smaller size. Order #NW64238.</p><p>Thanks,<br>Mateo</p>",exchange,kidrider 16,solved
+T100315,2026-01-08T20:04:00,email,Noah Tanaka,noah.tanaka89@example.com,Accessories,"<p>Hi,</p><p>Do you sell a rear rack that fits the KidRider 16? Order #NW35008.</p><p>Thanks,<br>Noah</p>",question,KIDRIDER 16,closed
+T100337,2026-03-16T06:42:00,email,Elena Garcia,elena.garcia89@example.com,,"
+
+My bike is 8 months old and the gears keep slipping. Is this covered?
+
+--
+Elena Garcia
+(861) 202-8807",Warranty,,closed
+T100426,2026-03-20T16:05:00,web,Ravi Khan,ravi.khan90@example.com,Exchange,"I want to return my kid rider 16, it's too big for me. My email is ravi.khan90@example.com.",Product question,,solved
+T100255,2026-01-24T10:09:00,chat,Grace Khan,grace.khan15@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Can I put a child seat on my CityGlide E2?
+[10:03] Agent: Sorry to hear that, let me check.",Product question,cityglide e2,closed
+T900526,2026-01-02T02:40:00,email,Grace Lee,grace.lee6@example.com,,"<p>Hey there,</p><p>Do you sell a rear rack that fits the city glide e2?</p><p>You can call me at (543) 779-3459.</p><p>Regards,<br>Grace Lee</p>",,cityglide e2,solved
+T100100,2026-01-19T20:32:00,email,Ahmed Patel,ahmed.patel64@example.com,,"Hi,
+
+I found a crack in the frame of my Trailblazer 29 near the seat post. Is it safe to ride? Order #NW84289.
+
+Sent from my iPhone",Safety,Trailblazer 29,solved
+T100392,2026-02-13T15:49:00,web,Elena Patel,elena.patel82@example.com,,"Ordered a kid rider 16 for my daughter's birthday, is it going to arrive by Friday? Order #NW47467.",shipping,KIDRIDER 16,solved
+T100142,2026-03-17T22:08:00,email,Grace Smith,grace.smith65@example.com,Order update?,"<p>Hello Northwind team,</p><p>Can you tell me when my Trail Blazer 29 order will ship?</p><p>Thanks,<br>Grace</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",shipping,TRAILBLAZER 29,solved
+T100076,2026-02-03T17:27:00,email,Noah Iyer,noah.iyer32@example.com,Question,"Hello Northwind team,
+
+What tire pressure should I run on my bike? Order #NW64476.
+
+You can call me at +1 615 504 8430.
+
+Thanks,
+Noah",misc,,solved
+T100476,2026-02-28T10:13:00,web,Maria Tanaka,maria.tanaka70@example.com,,"Ordered a Summit Pro Carbon for my daughter's birthday, is it going to arrive by Friday? My email is maria.tanaka70@example.com.",WISMO,Summit Pro Carbon,closed
+T100429,2026-01-11T10:07:00,web,Chen Patel,chen.patel84@example.com,Safety problem,"Front brake on the Trailblazer 29er feels like it's not grabbing at all, really scary. Order #NW68209.",Brake failure,,closed
+T100158,2026-02-01T12:00:00,web,Sofia Iyer,sofia.iyer43@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100115,2026-02-27T16:10:00,web,Mateo Smith,mateo.smith36@example.com,URGENT,I found a crack in the frame of my CityGlide near the seat post. Is it safe to ride?,SAFETY!!,CityGlide E2,solved
+T100345,2026-02-17T02:53:00,web,Ahmed Brown,ahmed.brown18@example.com,Quick question,How often should I get my KidRider serviced? My email is ahmed.brown18@example.com.,how to,KidRider 16,solved
+T100431,2026-03-18T17:37:00,web,Grace Rossi,grace.rossi79@example.com,Exchange,"My name is Grace Rossi. Please start a return for the E2 ebike, it doesn't fit in my apartment. Order #NW51697.",refund,,closed
+T100007,2026-02-01T12:00:00,web,Liam Garcia,liam.garcia10@example.com,,Buy cheap followers now!!! visit cheap-followers.example,spam,,solved
+T100194,2026-03-19T04:30:00,web,Ravi Rossi,ravi.rossi31@example.com,,"My name is Ravi Rossi. The kickstand bolt on my city glide e2 sheared off, bike is less than a year old. My email is ravi.rossi31@example.com.",Defect,CityGlide E2,solved
+T100356,2026-02-24T22:49:00,email,James Tanaka,james.tanaka67@example.com,,"<p>Hi,</p><p>I found a crack in the frame of my KidRider 16 near the seat post. Is it safe to ride?</p><p>Thanks,<br>James</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Brake failure,KIDRIDER 16,open
+T100438,2026-02-22T05:48:00,email,Olivia Novak,olivia.novak16@example.com,,"<p>Hello Northwind team,</p><p>Got a delivery notification for the Summit Pro Carbon but nothing showed up at my door.</p><p>Regards,<br>Olivia Novak</p>",where is my order,Summit Pro Carbon,closed
+T100012,2026-01-13T01:21:00,chat,Aisha Lee,aisha.lee17@example.com,Order update?,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: Where is my CityGlide E2? I ordered it 10 days ago and haven't heard anything.
+[10:03] Agent: Sorry to hear that, let me check.",Order Status,cityglide e2,closed
+T100268,2026-03-20T02:09:00,email,Mateo Lee,mateo.lee62@example.com,Question,"Hello Northwind team,
+
+What tire pressure should I run on my Trailblazer 29er?
+
+You can call me at +1 300 663 9114.
+
+Sent from my iPhone
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",General,,open
+T100363,2026-03-11T20:43:00,email,Chen Brown,chen.brown28@example.com,,"<p></p><p>Please start a return for the bike, it doesn't fit in my apartment.</p><p>You can call me at (565) 531-3844.</p><p>Sent from my iPhone</p>",Return,,open
+T100248,2026-03-14T15:44:00,email,Liam Iyer,liam.iyer81@example.com,Accessories,"Hey there,
+
+What's the max rider weight for the Trailblazer 29er?
+
+--
+Liam Iyer
++1 879 884 2279",Product question,trailblazer 29,solved
+T100193,2026-01-29T13:39:00,email,Maria Iyer,maria.iyer15@example.com,Exchange,"<p>Hi,</p><p>The kid rider 16 isn't what I expected. Can I get a refund?</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",RMA,,solved
+T100191,2026-01-21T14:21:00,email,Ahmed Smith,ahmed.smith47@example.com,Defect,"Hello Northwind team,
+
+Chain on my UrbanFold snapped after two weeks of normal commuting.
+
+--
+Ahmed Smith
+(870) 200-3579",defective part,urbanfold mini,solved
+T100333,2026-02-14T20:55:00,email,Priya Johnson,priya.johnson40@example.com,,"<p>Hi,</p><p>Paint on my summit pro is peeling after only 3 months, can I get it fixed under warranty? Order #NW17667.</p><p>You can call me at 894-373-1965.</p><p>Regards,<br>Priya Johnson</p>",Warranty,SUMMIT PRO CARBON,open
+T100160,2026-03-14T19:24:00,chat,Kenji Dubois,kenji.dubois80@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: My Summit Pro Carbon is 8 months old and the gears keep slipping. Is this covered?
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,,closed
+T100417,2026-03-17T07:09:00,chat,Sofia Lee,sofia.lee80@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: Bought the City Glide as a gift but they already have one, how do returns work?
+[10:03] Agent: Sorry to hear that, let me check.",exchange,,solved
+T100318,2026-02-26T14:26:00,chat,Liam Brown,liam.brown76@example.com,Shipping,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Liam
+[10:02] Customer: My KidRider order says processing for a week now, what's going on?
+[10:03] Agent: Sorry to hear that, let me check.",WISMO,KIDRIDER 16,solved
+T100176,2026-02-13T03:26:00,email,Grace Wei,grace.wei69@example.com,Shipping,"<p>Hi,</p><p>Where is my Trailblazer 29er? I ordered it 10 days ago and haven't heard anything.</p><p>You can call me at (856) 937-2036.</p><p>Sent from my iPhone</p>",shipping,Trailblazer 29,solved
+T100087,2026-01-31T00:04:00,email,Elena Miller,elena.miller73@example.com,Broken part,"Hi,
+
+Chain on my Trail Blazer 29 snapped after two weeks of normal commuting.
+
+You can call me at +1 975 397 3875.
+
+Thanks,
+Elena",Warranty,trailblazer 29,solved
+T100244,2026-02-09T13:40:00,chat,Maria Johnson,maria.johnson85@example.com,Broken part,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Maria
+[10:02] Customer: Chain on my City Glide snapped after two weeks of normal commuting. Order #NW99327.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,cityglide e2,open
+T100207,2026-01-11T06:41:00,web,Sofia Iyer,sofia.iyer50@example.com,Safety problem,"My son's UrbanFold Mini has a cracked fork, he was riding it yesterday! My email is sofia.iyer50@example.com.",safety issue,URBANFOLD MINI,closed
+T100264,2026-01-15T09:15:00,chat,Ravi Khan,ravi.khan21@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: The motor on my kids bike 16 makes a grinding noise. It's still under warranty I think.
+[10:03] Agent: Sorry to hear that, let me check.",Defect,KIDRIDER 16,solved
+T100260,2026-01-11T09:25:00,email,Olivia Brown,olivia.brown10@example.com,,"<p>Hello Northwind team,</p><p>What's the max rider weight for the kids bike 16? Order #NW95037.</p><p>Sent from my iPhone</p>",how to,KidRider 16,solved
+T100377,2026-01-16T12:18:00,chat,James Johnson,james.johnson64@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Paint on my E2 ebike is peeling after only 3 months, can I get it fixed under warranty?
+[10:03] Agent: Sorry to hear that, let me check.",Defect,CITYGLIDE E2,solved
+T100340,2026-01-12T01:53:00,web,Aisha Rossi,aisha.rossi87@example.com,,My name is Aisha Rossi. Is it ok to ride the City Glide in the rain? Order #NW65982.,misc,cityglide e2,solved
+T100006,2026-01-23T13:33:00,chat,Ravi Khan,ravi.khan34@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: Rear derailleur on the city glide e2 is bent out of the box basically, 5 months old.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,CityGlide E2,solved
+T100299,2026-03-13T20:17:00,chat,Liam Dubois,liam.dubois50@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Liam
+[10:02] Customer: Tracking for my trailblazer29 hasn't updated in 4 days. Order #NW31001.
+[10:03] Agent: Sorry to hear that, let me check.",WISMO,,solved
+T100477,2026-02-16T11:51:00,chat,Kenji Novak,kenji.novak53@example.com,Order update?,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: Tracking for my urban fold mini hasn't updated in 4 days. Order #NW29669.
+[10:03] Agent: Sorry to hear that, let me check.",Order Status,urbanfold mini,open
+T100155,2026-03-02T06:05:00,web,Liam Brown,liam.brown94@example.com,Return,"I want to return my trailblazer29, it's too big for me. My email is liam.brown94@example.com.",RMA,Trailblazer 29,closed
+T100033,2026-01-09T07:30:00,email,Priya Smith,priya.smith22@example.com,Shipping,"Hey there,
+
+My E2 ebike order says processing for a week now, what's going on?
+
+Regards,
+Priya Smith",shipping,CityGlide E2,open
+T100516,2026-03-11T19:10:00,chat,Sofia Dubois,sofia.dubois56@example.com,Question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: Is it ok to ride the summit pro in the rain?
+[10:03] Agent: Sorry to hear that, let me check.",misc,summit pro carbon,solved
+T100399,2026-02-04T14:53:00,chat,Ahmed Rossi,ahmed.rossi76@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: What tire pressure should I run on my folding mini? Order #NW35189.
+[10:03] Agent: Sorry to hear that, let me check.",question,UrbanFold Mini,solved
+T100116,2026-03-13T18:04:00,email,Ravi Novak,ravi.novak75@example.com,Order update?,"
+
+Where is my KidRider? I ordered it 10 days ago and haven't heard anything.
+
+Regards,
+Ravi Novak",WISMO,,closed
+T100131,2026-01-16T06:58:00,email,Sofia Lee,sofia.lee48@example.com,,"
+
+My CityGlide is 8 months old and the gears keep slipping. Is this covered? Order #NW18450.
+
+--
+Sofia Lee
++1 845 860 2376",wrnty,CityGlide E2,closed
+T100486,2026-03-08T04:56:00,chat,Zoe Johnson,zoe.johnson59@example.com,Question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Zoe
+[10:02] Customer: Is it ok to ride the kids bike 16 in the rain? Order #NW27933.
+[10:03] Agent: Sorry to hear that, let me check.",General,KIDRIDER 16,solved
+T100326,2026-02-13T08:23:00,chat,Grace Brown,grace.brown14@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Is it ok to ride the CityGlide in the rain? Order #NW65796.
+[10:03] Agent: Sorry to hear that, let me check.",General,CITYGLIDE E2,solved
+T100080,2026-02-23T03:07:00,web,Elena Novak,elena.novak21@example.com,Accessories,What's the max rider weight for the City Glide? My email is elena.novak21@example.com.,misc,,closed
+T100450,2026-01-25T22:23:00,email,Elena Iyer,elena.iyer15@example.com,,"
+
+Can you tell me when my summit pro order will ship?
+
+You can call me at 902-731-1339.
+
+Regards,
+Elena Iyer",where is my order,Summit Pro Carbon,open
+T100065,2026-02-03T23:29:00,web,Kenji Brown,kenji.brown74@example.com,Brakes!!,The brakes on my UrbanFold stopped working while I was going downhill.,Safety,,closed
+T100079,2026-03-15T04:17:00,email,Zoe Okafor,zoe.okafor80@example.com,,"<p>Hey there,</p><p>The folding mini isn't what I expected. Can I get a refund?</p><p>Thanks,<br>Zoe</p>",Return,urbanfold mini,solved
+T100432,2026-01-12T21:11:00,chat,Priya Patel,priya.patel4@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Priya
+[10:02] Customer: My bike order says processing for a week now, what's going on?
+[10:03] Agent: Sorry to hear that, let me check.",Tracking,,closed
+T100379,2026-03-19T02:33:00,email,Mateo Brown,mateo.brown29@example.com,,"Hi,
+
+Please start a return for the UrbanFold, it doesn't fit in my apartment.
+
+Thanks,
+Mateo",Returns,URBANFOLD MINI,open
+T100243,2026-01-30T19:14:00,email,Mateo Novak,mateo.novak70@example.com,,"<p>Hi,</p><p>What tire pressure should I run on my kids bike 16?</p><p>Thanks,<br>Mateo</p>",how to,,closed
+T100156,2026-02-01T12:00:00,web,Mateo Dubois,mateo.dubois49@example.com,,test ticket please ignore,,,solved
+T100339,2026-01-06T22:46:00,web,Aisha Iyer,aisha.iyer91@example.com,Shipping,Where is my Trail Blazer 29? I ordered it 10 days ago and haven't heard anything.,Tracking,TRAILBLAZER 29,closed
+T100414,2026-03-09T23:50:00,email,Priya Brown,priya.brown47@example.com,Quick question,"Hello Northwind team,
+
+What tire pressure should I run on my city glide e2? Order #NW55789.
+
+You can call me at (408) 217-6937.
+
+Thanks,
+Priya",Product question,CityGlide E2,solved
+T100157,2026-03-06T00:40:00,email,Noah Silva,noah.silva85@example.com,,"Hi,
+
+Chain on my trailblazer29 snapped after two weeks of normal commuting.
+
+You can call me at (878) 732-5423.
+
+--
+Noah Silva
+(878) 732-5423",wrnty,trailblazer 29,solved
+T100381,2026-01-26T16:50:00,email,Elena Johnson,elena.johnson92@example.com,Refund request,"Hello Northwind team,
+
+I'd like to exchange my trailblazer29 for a smaller size.
+
+Regards,
+Elena Johnson",RMA,trailblazer 29,closed
+T100185,2026-03-07T22:00:00,web,Grace Garcia,grace.garcia93@example.com,Broken part,Chain on my folding mini snapped after two weeks of normal commuting. Order #NW63840.,warranty claim,URBANFOLD MINI,open
+T100288,2026-01-17T07:14:00,web,Ravi Lee,ravi.lee63@example.com,,My name is Ravi Lee. I'd like to exchange my summit pro for a smaller size. My email is ravi.lee63@example.com.,Return,Summit Pro Carbon,closed
+T100456,2026-03-23T11:16:00,web,Chen Miller,chen.miller73@example.com,Safety problem,"My son's Summit Carbon has a cracked fork, he was riding it yesterday!",urgent safety,SUMMIT PRO CARBON,solved
+T900528,2026-02-01T12:00:00,web,Grace Okafor,grace.okafor12@example.com,,,,,solved
+T100013,2026-01-19T12:45:00,email,Ahmed Dubois,ahmed.dubois70@example.com,Order update?,"<p>Hello Northwind team,</p><p>Ordered a bike for my daughter's birthday, is it going to arrive by Friday? Order #NW96951.</p><p>You can call me at +1 509 826 9666.</p><p>--<br>Ahmed Dubois<br>+1 509 826 9666</p>",WISMO,,solved
+T100498,2026-02-26T21:16:00,email,Kenji Okafor,kenji.okafor61@example.com,,<p></p><p>My folding mini is 8 months old and the gears keep slipping. Is this covered?</p><p>You can call me at 415-538-3217.</p><p>--<br>Kenji Okafor<br>415-538-3217</p>,Warranty,UrbanFold Mini,solved
+T100267,2026-02-08T00:38:00,email,Mateo Iyer,mateo.iyer28@example.com,Warranty question,"Hey there,
+
+Chain on my bike snapped after two weeks of normal commuting.
+
+Thanks,
+Mateo",warranty claim,,solved
+T100075,2026-02-01T12:00:00,web,Aisha Rossi,aisha.rossi99@example.com,,test ticket please ignore,,,solved
+T100071,2026-03-02T18:55:00,email,Grace Wei,grace.wei34@example.com,Broken part,"Hi,
+
+Rear derailleur on the KidRider is bent out of the box basically, 5 months old.
+
+You can call me at 920-656-4515.
+
+--
+Grace Wei
+920-656-4515",Defect,kidrider 16,closed
+T100018,2026-03-02T12:33:00,web,Sofia Tanaka,sofia.tanaka56@example.com,Help,"My son's UrbanFold Mini has a cracked fork, he was riding it yesterday!",safety concern,,closed
+T100304,2026-01-08T19:17:00,email,Ravi Lee,ravi.lee17@example.com,Where is my order,"<p></p><p>My summit pro order says processing for a week now, what's going on?</p><p>--<br>Ravi Lee<br>411-814-4531</p>",Tracking,,solved
+T100140,2026-01-09T07:05:00,email,Ravi Johnson,ravi.johnson7@example.com,,"<p>Hey there,</p><p>How do I send back the folding mini? Changed my mind. Order #NW37125.</p><p>Regards,<br>Ravi Johnson</p>",exchange,urbanfold mini,solved
+T100327,2026-01-12T18:38:00,chat,Grace Okafor,grace.okafor75@example.com,Question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Can I put a child seat on my kids bike 16?
+[10:03] Agent: Sorry to hear that, let me check.",question,,closed
+T100132,2026-01-13T11:47:00,web,Mateo Khan,mateo.khan46@example.com,Help,The brakes on my kid rider 16 stopped working while I was going downhill.,urgent safety,,solved
+T100504,2026-01-09T20:56:00,chat,James Tanaka,james.tanaka4@example.com,Accessories,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: What tire pressure should I run on my trailblazer29?
+[10:03] Agent: Sorry to hear that, let me check.",General,trailblazer 29,open
+T100412,2026-03-16T03:37:00,chat,Noah Tanaka,noah.tanaka14@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Noah
+[10:02] Customer: Where is my UrbanFold Mini? I ordered it 10 days ago and haven't heard anything.
+[10:03] Agent: Sorry to hear that, let me check.",where is my order,,solved
+T100506,2026-02-28T01:36:00,email,Ahmed Garcia,ahmed.garcia40@example.com,Accessories,"Hi,
+
+What's the max rider weight for the KidRider 16?
+
+You can call me at 774-559-2928.
+
+--
+Ahmed Garcia
+774-559-2928
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",General,KIDRIDER 16,solved
+T100151,2026-02-08T06:32:00,email,Liam Iyer,liam.iyer86@example.com,Broken part,"Hey there,
+
+Paint on my Summit Carbon is peeling after only 3 months, can I get it fixed under warranty? Order #NW71706.
+
+Thanks,
+Liam",Warranty,summit pro carbon,solved
+T100175,2026-02-07T02:29:00,email,Chen Rossi,chen.rossi69@example.com,,"Hey there,
+
+Rear derailleur on the KidRider 16 is bent out of the box basically, 5 months old.
+
+You can call me at +1 959 993 8130.
+
+--
+Chen Rossi
++1 959 993 8130
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",defective part,kidrider 16,solved
+T100395,2026-01-12T06:32:00,email,James Dubois,james.dubois80@example.com,,"<p>Hello Northwind team,</p><p>The motor on my summit pro makes a grinding noise. It's still under warranty I think.</p><p>--<br>James Dubois<br>258-564-1096</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Warranty,,solved
+T900524,2026-01-09T12:15:00,chat,Aisha Tanaka,aisha.tanaka35@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: Can I put a child seat on my urban fold mini? Order #NW99658.
+[10:03] Agent: Sorry to hear that, let me check.",General,UrbanFold Mini,solved
+T100251,2026-01-05T18:44:00,web,Priya Johnson,priya.johnson77@example.com,Safety problem,"My son's Summit Pro Carbon has a cracked fork, he was riding it yesterday! My email is priya.johnson77@example.com.",SAFETY!!,Summit Pro Carbon,solved
+T100446,2026-02-01T12:00:00,web,Mateo Rossi,mateo.rossi38@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100037,2026-02-11T10:42:00,web,Olivia Patel,olivia.patel36@example.com,Broken part,"Rear derailleur on the UrbanFold is bent out of the box basically, 5 months old. Order #NW86931.",Defect,,closed
+T100416,2026-02-08T13:31:00,web,Chen Johnson,chen.johnson8@example.com,Safety problem,The handlebar on my Summit Pro Carbon came loose mid-ride and I almost crashed.,SAFETY!!,SUMMIT PRO CARBON,solved
+T100168,2026-01-19T06:50:00,email,Grace Novak,grace.novak65@example.com,Defect,"
+
+The motor on my TB-29 makes a grinding noise. It's still under warranty I think.
+
+Sent from my iPhone",wrnty,TRAILBLAZER 29,closed
+T100049,2026-02-01T12:00:00,web,Zoe Garcia,zoe.garcia8@example.com,,,,,solved
+T100135,2026-03-12T11:37:00,email,Noah Khan,noah.khan63@example.com,Return,"Hello Northwind team,
+
+Bought the UrbanFold Mini as a gift but they already have one, how do returns work?
+
+Sent from my iPhone",RMA,URBANFOLD MINI,closed
+T100107,2026-02-16T11:35:00,web,Priya Wei,priya.wei99@example.com,Quick question,What's the max rider weight for the UrbanFold Mini?,Product question,URBANFOLD MINI,solved
+T100247,2026-01-13T22:23:00,email,Zoe Lee,zoe.lee46@example.com,Exchange,"Hey there,
+
+Please start a return for the urban fold mini, it doesn't fit in my apartment.
+
+You can call me at (390) 634-1121.
+
+--
+Zoe Lee
+(390) 634-1121",Return,UrbanFold Mini,solved
+T100124,2026-03-23T09:33:00,web,Maria Novak,maria.novak55@example.com,Where is my order,"My Trailblazer 29er order says processing for a week now, what's going on? Order #NW69663. My email is maria.novak55@example.com.",where is my order,Trailblazer 29,solved
+T100072,2026-02-06T05:47:00,web,Ahmed Khan,ahmed.khan47@example.com,,Got a delivery notification for the Summit Pro Carbon but nothing showed up at my door. Order #NW82616.,where is my order,summit pro carbon,solved
+T100173,2026-03-24T07:54:00,email,Ahmed Silva,ahmed.silva70@example.com,Quick question,"Hello Northwind team,
+
+Can I put a child seat on my trailblazer29?
+
+Regards,
+Ahmed Silva",General,TRAILBLAZER 29,open
+T100336,2026-01-25T20:24:00,chat,Noah Patel,noah.patel51@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Noah
+[10:02] Customer: What's the max rider weight for the trailblazer29?
+[10:03] Agent: Sorry to hear that, let me check.",misc,,closed
+T100211,2026-01-02T04:35:00,web,Olivia Khan,olivia.khan5@example.com,Safety problem,"My son's Trailblazer 29er has a cracked fork, he was riding it yesterday!",SAFETY!!,Trailblazer 29,closed
+T100187,2026-01-24T11:11:00,chat,Mateo Brown,mateo.brown62@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Mateo
+[10:02] Customer: The handlebar on my UrbanFold came loose mid-ride and I almost crashed.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,,solved
+T100086,2026-01-31T02:23:00,web,Ravi Khan,ravi.khan96@example.com,Safety problem,The battery on my KidRider 16 got really hot and started smoking in the garage. Order #NW94058.,urgent safety,KidRider 16,closed
+T100057,2026-03-14T11:36:00,web,Olivia Patel,olivia.patel23@example.com,Broken part,"Rear derailleur on the City Glide is bent out of the box basically, 5 months old.",warranty claim,cityglide e2,solved
+T900527,2026-03-02T12:33:00,web,Sofia Tanaka,sofia.tanaka56@example.com,Help,"My son's UrbanFold Mini has a cracked fork, he was riding it yesterday!",safety concern,,closed
+T100487,2026-01-26T17:20:00,email,Priya Novak,priya.novak5@example.com,Shipping,"<p></p><p>My KidRider 16 order says processing for a week now, what's going on?</p><p>Thanks,<br>Priya</p>",where is my order,,solved
+T100074,2026-03-18T16:32:00,web,Noah Patel,noah.patel33@example.com,Where is my order,"Ordered a UrbanFold for my daughter's birthday, is it going to arrive by Friday? My email is noah.patel33@example.com.",where is my order,urbanfold mini,closed
+T100053,2026-01-08T17:35:00,email,Kenji Garcia,kenji.garcia24@example.com,Where is my order,"<p>Hello Northwind team,</p><p>My bike order says processing for a week now, what's going on?</p><p>Regards,<br>Kenji Garcia</p>",WISMO,,solved
+T100063,2026-03-17T12:38:00,email,Olivia Silva,olivia.silva12@example.com,,"<p>Hi,</p><p>Ordered a kids bike 16 for my daughter's birthday, is it going to arrive by Friday?</p><p>--<br>Olivia Silva<br>(661) 557-1436</p>",WISMO,kidrider 16,closed
+T100219,2026-02-10T23:10:00,chat,Kenji Johnson,kenji.johnson97@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: Paint on my City Glide is peeling after only 3 months, can I get it fixed under warranty?
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,cityglide e2,solved
+T100225,2026-03-04T13:35:00,web,Mateo Silva,mateo.silva39@example.com,URGENT,The brakes on my Summit Pro Carbon stopped working while I was going downhill. Order #NW13433.,urgent safety,SUMMIT PRO CARBON,solved
+T100332,2026-02-01T12:00:00,web,Grace Okafor,grace.okafor12@example.com,,,,,solved
+T100412,2026-03-16T03:37:00,chat,Noah Tanaka,noah.tanaka14@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Noah
+[10:02] Customer: Where is my UrbanFold Mini? I ordered it 10 days ago and haven't heard anything.
+[10:03] Agent: Sorry to hear that, let me check.",where is my order,,solved
+T100501,2026-02-14T14:37:00,email,Chen Brown,chen.brown72@example.com,Order update?,"Hi,
+
+Tracking for my UrbanFold hasn't updated in 4 days.
+
+Thanks,
+Chen",WISMO,,closed
+T100391,2026-02-17T09:15:00,web,Olivia Lee,olivia.lee73@example.com,Defect,"Rear derailleur on the city glide e2 is bent out of the box basically, 5 months old. My email is olivia.lee73@example.com.",Defect,,solved
+T100499,2026-02-21T07:20:00,web,Kenji Garcia,kenji.garcia25@example.com,Question,How often should I get my E2 ebike serviced? My email is kenji.garcia25@example.com.,General,cityglide e2,solved
+T100186,2026-03-23T15:27:00,email,Grace Lee,grace.lee17@example.com,Help,"Hi,
+
+My son's City Glide has a cracked fork, he was riding it yesterday!
+
+You can call me at (216) 407-9564.
+
+--
+Grace Lee
+(216) 407-9564",Safety,CityGlide E2,solved
+T100020,2026-01-05T13:42:00,email,Maria Smith,maria.smith32@example.com,Defect,"
+
+Paint on my City Glide is peeling after only 3 months, can I get it fixed under warranty?
+
+You can call me at 825-986-2193.
+
+--
+Maria Smith
+825-986-2193",Warranty,,open
+T900531,2026-01-17T18:53:00,email,Liam Dubois,liam.dubois84@example.com,,"Hi,
+
+The motor on my TB-29 makes a grinding noise. It's still under warranty I think.
+
+You can call me at 316-221-9174.
+
+Regards,
+Liam Dubois",Defect,,solved
+T100203,2026-02-01T12:00:00,web,Kenji Miller,kenji.miller61@example.com,,Buy cheap followers now!!! visit cheap-followers.example,spam,,solved
+T100149,2026-02-01T12:00:00,web,Noah Miller,noah.miller88@example.com,,,,,solved
+T100174,2026-02-27T01:33:00,email,Chen Lee,chen.lee33@example.com,Where is my order,"<p>Hi,</p><p>Ordered a KidRider for my daughter's birthday, is it going to arrive by Friday?</p><p>You can call me at +1 941 489 1404.</p><p>Thanks,<br>Chen</p>",Order Status,KidRider 16,solved
+T100517,2026-03-04T17:07:00,email,Maria Dubois,maria.dubois42@example.com,Shipping,"Hi,
+
+Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday?
+
+Thanks,
+Maria",shipping,,open
+T100246,2026-03-23T08:03:00,web,Grace Tanaka,grace.tanaka54@example.com,,"My name is Grace Tanaka. Rear derailleur on the UrbanFold Mini is bent out of the box basically, 5 months old. Order #NW73792.",warranty claim,,closed
+T100224,2026-01-17T18:14:00,chat,Sofia Johnson,sofia.johnson40@example.com,Broken part,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Sofia
+[10:02] Customer: Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,UrbanFold Mini,closed
+T100012,2026-01-13T01:21:00,chat,Aisha Lee,aisha.lee17@example.com,Order update?,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: Where is my CityGlide E2? I ordered it 10 days ago and haven't heard anything.
+[10:03] Agent: Sorry to hear that, let me check.",Order Status,cityglide e2,closed
+T100365,2026-01-29T21:40:00,email,Maria Wei,maria.wei40@example.com,URGENT,"Hello Northwind team,
+
+I found a crack in the frame of my CityGlide E2 near the seat post. Is it safe to ride?
+
+--
+Maria Wei
+(955) 638-4990
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Brake failure,cityglide e2,solved
+T100273,2026-03-18T09:32:00,email,Zoe Dubois,zoe.dubois39@example.com,Shipping,"<p>Hi,</p><p>Got a delivery notification for the kid rider 16 but nothing showed up at my door.</p><p>You can call me at +1 335 513 3813.</p><p>Sent from my iPhone</p>",where is my order,KIDRIDER 16,solved
+T100331,2026-01-31T22:38:00,web,Maria Wei,maria.wei85@example.com,,"Please start a return for the urban fold mini, it doesn't fit in my apartment. My email is maria.wei85@example.com.",RMA,UrbanFold Mini,solved
+T100310,2026-01-11T23:27:00,email,Sofia Smith,sofia.smith83@example.com,Accessories,"
+
+Is it ok to ride the City Glide in the rain? Order #NW43444.
+
+You can call me at 530-256-2158.
+
+Thanks,
+Sofia
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",misc,CITYGLIDE E2,solved
+T100394,2026-01-20T09:26:00,chat,Kenji Smith,kenji.smith55@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Kenji
+[10:02] Customer: Rear derailleur on the UrbanFold is bent out of the box basically, 5 months old. Order #NW80663.
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,urbanfold mini,closed
+T100061,2026-03-03T13:32:00,chat,James Novak,james.novak99@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Can I put a child seat on my urban fold mini?
+[10:03] Agent: Sorry to hear that, let me check.",question,urbanfold mini,open
+T100275,2026-02-10T14:14:00,web,Elena Miller,elena.miller61@example.com,Accessories,My name is Elena Miller. How often should I get my folding mini serviced?,,URBANFOLD MINI,solved
+T100366,2026-01-19T14:07:00,email,Liam Novak,liam.novak44@example.com,Shipping,"<p></p><p>My trailblazer29 order says processing for a week now, what's going on?</p><p>Thanks,<br>Liam</p>",shipping,TRAILBLAZER 29,solved
+T100133,2026-03-11T19:11:00,email,Maria Lee,maria.lee92@example.com,Quick question,"Hi,
+
+What's the max rider weight for the City Glide?
+
+You can call me at 691-757-8940.
+
+Thanks,
+Maria
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",misc,cityglide e2,open
+T100213,2026-03-24T03:30:00,web,Ahmed Silva,ahmed.silva96@example.com,Accessories,What tire pressure should I run on my E2 ebike? Order #NW33644.,how to,cityglide e2,solved
+T100036,2026-02-12T23:34:00,web,Ahmed Miller,ahmed.miller71@example.com,Quick question,Is it ok to ride the CityGlide E2 in the rain? My email is ahmed.miller71@example.com.,misc,,solved
+T100197,2026-01-28T07:26:00,chat,Grace Rossi,grace.rossi19@example.com,Accessories,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Do you sell a rear rack that fits the kids bike 16?
+[10:03] Agent: Sorry to hear that, let me check.",how to,,solved
+T100351,2026-03-15T05:28:00,email,Sofia Miller,sofia.miller55@example.com,,"Hey there,
+
+Paint on my KidRider 16 is peeling after only 3 months, can I get it fixed under warranty?
+
+You can call me at 785-360-7129.
+
+--
+Sofia Miller
+785-360-7129",Defect,kidrider 16,solved
+T100266,2026-03-13T20:47:00,email,Grace Tanaka,grace.tanaka18@example.com,Refund request,"<p>Hello Northwind team,</p><p>The city glide e2 isn't what I expected. Can I get a refund? Order #NW84536.</p><p>You can call me at 937-398-6875.</p><p>Regards,<br>Grace Tanaka</p>",RMA,CITYGLIDE E2,solved
+T100208,2026-01-12T10:52:00,email,Chen Lee,chen.lee32@example.com,,"
+
+The motor on my Summit Pro Carbon makes a grinding noise. It's still under warranty I think.
+
+You can call me at (243) 795-8786.
+
+Sent from my iPhone",Warranty,Summit Pro Carbon,solved
+T100346,2026-02-15T03:22:00,email,Mateo Tanaka,mateo.tanaka26@example.com,Quick question,"<p>Hey there,</p><p>Can I put a child seat on my Trail Blazer 29?</p><p>Sent from my iPhone</p>",question,Trailblazer 29,open
+T100489,2026-03-18T11:16:00,email,Grace Tanaka,grace.tanaka70@example.com,,"
+
+I'd like to exchange my KidRider for a smaller size.
+
+You can call me at 502-298-4586.
+
+Regards,
+Grace Tanaka",RMA,,closed
+T100016,2026-01-28T18:41:00,chat,Ahmed Novak,ahmed.novak53@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: I'd like to exchange my Trailblazer 29 for a smaller size.
+[10:03] Agent: Sorry to hear that, let me check.",refund,trailblazer 29,solved
+T100383,2026-02-14T11:25:00,web,Mateo Khan,mateo.khan8@example.com,Broken part,"The kickstand bolt on my KidRider 16 sheared off, bike is less than a year old.",Defect,,closed
+T100003,2026-01-09T06:35:00,web,Sofia Iyer,sofia.iyer51@example.com,Question,What's the max rider weight for the Summit Carbon?,misc,,closed
+T100035,2026-02-09T21:04:00,email,Elena Okafor,elena.okafor42@example.com,,"Hey there,
+
+I'd like to exchange my Trailblazer 29er for a smaller size.
+
+Regards,
+Elena Okafor",refund,trailblazer 29,solved
+T100369,2026-03-11T10:41:00,chat,Grace Silva,grace.silva51@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Got a delivery notification for the KidRider 16 but nothing showed up at my door.
+[10:03] Agent: Sorry to hear that, let me check.",Order Status,KIDRIDER 16,open
+T900523,2026-02-01T21:19:00,email,Aisha Brown,aisha.brown39@example.com,Accessories,"Hi,
+
+How often should I get my UrbanFold serviced?
+
+--
+Aisha Brown
++1 632 717 2809",General,URBANFOLD MINI,solved
+T100455,2026-03-18T09:15:00,email,Maria Garcia,maria.garcia99@example.com,Return,"Hey there,
+
+How do I send back the KidRider? Changed my mind.
+
+You can call me at 290-973-3303.
+
+Regards,
+Maria Garcia
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",exchange,,solved
+T100081,2026-01-18T08:46:00,web,Ravi Okafor,ravi.okafor84@example.com,URGENT,"My name is Ravi Okafor. Front brake on the urban fold mini feels like it's not grabbing at all, really scary.",safety concern,UrbanFold Mini,solved
+T100169,2026-02-17T13:55:00,chat,Ahmed Novak,ahmed.novak91@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: My E2 ebike order says processing for a week now, what's going on?
+[10:03] Agent: Sorry to hear that, let me check.",WISMO,CityGlide E2,solved
+T100309,2026-01-04T23:47:00,web,Chen Lee,chen.lee48@example.com,,The handlebar on my bike came loose mid-ride and I almost crashed.,urgent safety,,open
+T100411,2026-02-24T13:52:00,chat,Ahmed Wei,ahmed.wei29@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: The battery on my KidRider 16 got really hot and started smoking in the garage.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,kidrider 16,closed
+T100056,2026-02-01T22:59:00,email,Zoe Tanaka,zoe.tanaka12@example.com,Shipping,"Hey there,
+
+Where is my City Glide? I ordered it 10 days ago and haven't heard anything.
+
+You can call me at 308-449-8138.
+
+Thanks,
+Zoe
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Tracking,cityglide e2,solved
+T100328,2026-03-22T22:10:00,email,Kenji Wei,kenji.wei78@example.com,Brakes!!,"<p>Hey there,</p><p>Front brake on the CityGlide E2 feels like it's not grabbing at all, really scary. Order #NW58688.</p><p>You can call me at 312-323-7055.</p><p>Regards,<br>Kenji Wei</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",urgent safety,cityglide e2,solved
+T100256,2026-01-07T15:17:00,email,Grace Novak,grace.novak8@example.com,URGENT,"
+
+I found a crack in the frame of my bike near the seat post. Is it safe to ride?
+
+You can call me at 471-382-8218.
+
+Regards,
+Grace Novak
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Brake failure,,solved
+T100427,2026-02-03T02:43:00,email,Maria Dubois,maria.dubois17@example.com,Return,"Hello Northwind team,
+
+Please start a return for the bike, it doesn't fit in my apartment.
+
+Thanks,
+Maria",Returns,,solved
+T100500,2026-02-16T13:50:00,chat,Aisha Iyer,aisha.iyer27@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: How do I send back the Summit Carbon? Changed my mind. Order #NW72320.
+[10:03] Agent: Sorry to hear that, let me check.",RMA,SUMMIT PRO CARBON,solved
+T100407,2026-03-04T13:34:00,email,Olivia Dubois,olivia.dubois30@example.com,Quick question,"<p>Hello Northwind team,</p><p>What tire pressure should I run on my kids bike 16?</p><p>You can call me at +1 943 644 7039.</p><p>Regards,<br>Olivia Dubois</p>",question,,solved
+T100123,2026-01-16T04:44:00,chat,James Miller,james.miller86@example.com,Exchange,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Please start a return for the urban fold mini, it doesn't fit in my apartment. Order #NW75065.
+[10:03] Agent: Sorry to hear that, let me check.",Returns,urbanfold mini,solved
+T100227,2026-02-17T09:22:00,web,Ravi Novak,ravi.novak59@example.com,Return,"Please start a return for the folding mini, it doesn't fit in my apartment.",Returns,UrbanFold Mini,solved
+T100308,2026-03-11T22:16:00,web,Kenji Patel,kenji.patel27@example.com,,"Rear derailleur on the Trailblazer 29er is bent out of the box basically, 5 months old.",defective part,TRAILBLAZER 29,closed
+T100458,2026-02-03T10:27:00,web,Zoe Wei,zoe.wei56@example.com,Accessories,Can I put a child seat on my Summit Carbon? Order #NW77045.,misc,,solved
+T100125,2026-03-17T04:25:00,web,Liam Smith,liam.smith61@example.com,URGENT,"My name is Liam Smith. Front brake on the Trailblazer 29 feels like it's not grabbing at all, really scary.",safety issue,trailblazer 29,solved
+T100235,2026-01-15T03:26:00,email,Noah Novak,noah.novak99@example.com,Help,"<p>Hello Northwind team,</p><p>Front brake on the Summit Carbon feels like it's not grabbing at all, really scary.</p><p>You can call me at (316) 902-6460.</p><p>Sent from my iPhone</p>",Brake failure,,closed
+T100236,2026-01-18T01:20:00,email,Mateo Smith,mateo.smith67@example.com,Where is my order,"<p>Hey there,</p><p>Can you tell me when my KidRider 16 order will ship?</p><p>You can call me at 778-942-6169.</p><p>Thanks,<br>Mateo</p>",shipping,,closed
+T100295,2026-02-08T09:54:00,email,Olivia Miller,olivia.miller56@example.com,Warranty question,"<p>Hello Northwind team,</p><p>The motor on my CityGlide makes a grinding noise. It's still under warranty I think.</p><p>--<br>Olivia Miller<br>526-265-4335</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",wrnty,,solved
+T100105,2026-02-23T21:44:00,chat,Ahmed Lee,ahmed.lee41@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: The Summit Pro Carbon isn't what I expected. Can I get a refund?
+[10:03] Agent: Sorry to hear that, let me check.",exchange,SUMMIT PRO CARBON,closed
+T100015,2026-03-20T16:45:00,chat,Olivia Smith,olivia.smith40@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Olivia
+[10:02] Customer: The motor on my KidRider 16 makes a grinding noise. It's still under warranty I think.
+[10:03] Agent: Sorry to hear that, let me check.",Defect,KIDRIDER 16,open
+T100033,2026-01-09T07:30:00,email,Priya Smith,priya.smith22@example.com,Shipping,"Hey there,
+
+My E2 ebike order says processing for a week now, what's going on?
+
+Regards,
+Priya Smith",shipping,CityGlide E2,open
+T100150,2026-03-09T01:24:00,web,Aisha Miller,aisha.miller25@example.com,Where is my order,Got a delivery notification for the Summit Carbon but nothing showed up at my door.,WISMO,,solved
+T100067,2026-01-12T07:55:00,chat,Elena Miller,elena.miller66@example.com,Broken part,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: Rear derailleur on the bike is bent out of the box basically, 5 months old. Order #NW56789.
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,,solved
+T100165,2026-01-10T16:15:00,chat,Ravi Tanaka,ravi.tanaka92@example.com,Where is my order,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: Tracking for my bike hasn't updated in 4 days.
+[10:03] Agent: Sorry to hear that, let me check.",WISMO,,closed
+T100102,2026-02-02T18:15:00,email,Liam Tanaka,liam.tanaka71@example.com,Exchange,"<p>Hello Northwind team,</p><p>How do I send back the KidRider? Changed my mind.</p><p>Thanks,<br>Liam</p>",Return,,solved
+T100364,2026-02-04T19:18:00,chat,Ahmed Okafor,ahmed.okafor13@example.com,Quick question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: How often should I get my urban fold mini serviced? Order #NW51676.
+[10:03] Agent: Sorry to hear that, let me check.",,,solved
+T100459,2026-02-12T14:09:00,web,Mateo Silva,mateo.silva19@example.com,Help,"Front brake on the KidRider 16 feels like it's not grabbing at all, really scary.",Safety,KIDRIDER 16,solved
+T100089,2026-01-09T06:39:00,email,Ravi Rossi,ravi.rossi98@example.com,,"Hello Northwind team,
+
+Where is my KidRider? I ordered it 10 days ago and haven't heard anything.
+
+Thanks,
+Ravi
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",shipping,,closed
+T100122,2026-01-06T06:29:00,email,Grace Patel,grace.patel82@example.com,Refund request,"Hello Northwind team,
+
+I want to return my KidRider, it's too big for me.
+
+Regards,
+Grace Patel",Return,KIDRIDER 16,solved
+T100370,2026-01-24T03:30:00,web,Ravi Tanaka,ravi.tanaka90@example.com,Shipping,Got a delivery notification for the urban fold mini but nothing showed up at my door. Order #NW57371.,where is my order,URBANFOLD MINI,closed
+T100188,2026-03-10T17:15:00,web,Chen Garcia,chen.garcia49@example.com,Safety problem,I found a crack in the frame of my UrbanFold Mini near the seat post. Is it safe to ride? My email is chen.garcia49@example.com.,urgent safety,,solved
+T100234,2026-01-02T00:40:00,web,Liam Miller,liam.miller25@example.com,Refund request,"Please start a return for the CityGlide E2, it doesn't fit in my apartment.",RMA,CITYGLIDE E2,closed
+T100082,2026-02-25T12:43:00,email,Mateo Iyer,mateo.iyer95@example.com,,"
+
+The City Glide isn't what I expected. Can I get a refund?
+
+You can call me at +1 263 922 3262.
+
+Thanks,
+Mateo",Returns,cityglide e2,solved
+T100435,2026-01-25T21:50:00,email,Maria Khan,maria.khan67@example.com,,"<p>Hey there,</p><p>What's the max rider weight for the UrbanFold Mini?</p><p>You can call me at +1 460 324 4159.</p><p>Thanks,<br>Maria</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",General,urbanfold mini,solved
+T100098,2026-01-10T17:46:00,web,Ravi Iyer,ravi.iyer3@example.com,Where is my order,"Ordered a bike for my daughter's birthday, is it going to arrive by Friday? My email is ravi.iyer3@example.com.",shipping,,solved
+T100442,2026-02-22T14:24:00,chat,Elena Lee,elena.lee35@example.com,Help,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: I found a crack in the frame of my summit pro near the seat post. Is it safe to ride?
+[10:03] Agent: Sorry to hear that, let me check.",Brake failure,SUMMIT PRO CARBON,closed
+T100261,2026-03-05T09:04:00,web,Mateo Novak,mateo.novak95@example.com,Brakes!!,"Front brake on the City Glide feels like it's not grabbing at all, really scary. Order #NW37948.",Safety,CITYGLIDE E2,solved
+T100282,2026-01-12T20:27:00,email,Ravi Tanaka,ravi.tanaka40@example.com,Warranty question,"Hey there,
+
+The kickstand bolt on my Trailblazer 29er sheared off, bike is less than a year old.
+
+You can call me at +1 571 342 8240.
+
+--
+Ravi Tanaka
++1 571 342 8240
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",warranty claim,TRAILBLAZER 29,solved
+T100199,2026-01-08T04:49:00,chat,Ravi Dubois,ravi.dubois11@example.com,Shipping,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ravi
+[10:02] Customer: Can you tell me when my urban fold mini order will ship?
+[10:03] Agent: Sorry to hear that, let me check.",shipping,UrbanFold Mini,solved
+T100484,2026-02-01T12:00:00,web,Mateo Okafor,mateo.okafor74@example.com,,Buy cheap followers now!!! visit cheap-followers.example,spam,,solved
+T100404,2026-01-21T09:10:00,web,Sofia Khan,sofia.khan1@example.com,Question,Is it ok to ride the Summit Carbon in the rain? My email is sofia.khan1@example.com.,misc,SUMMIT PRO CARBON,solved
+T100452,2026-03-13T11:26:00,email,Olivia Miller,olivia.miller80@example.com,Defect,"<p>Hi,</p><p>The motor on my KidRider 16 makes a grinding noise. It's still under warranty I think. Order #NW15367.</p><p>You can call me at +1 880 366 5974.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Warranty,kidrider 16,open
+T100307,2026-02-11T15:59:00,email,Elena Silva,elena.silva22@example.com,,"<p>Hi,</p><p>Where is my folding mini? I ordered it 10 days ago and haven't heard anything. Order #NW17152.</p><p>Thanks,<br>Elena</p>",shipping,,solved
+T100380,2026-02-27T10:36:00,email,Liam Wei,liam.wei51@example.com,Shipping,"<p>Hey there,</p><p>Can you tell me when my CityGlide order will ship?</p><p>You can call me at (751) 671-6176.</p><p>--<br>Liam Wei<br>(751) 671-6176</p>",Order Status,,solved
+T100466,2026-02-18T14:56:00,email,Kenji Patel,kenji.patel54@example.com,,<p></p><p>Do you sell a rear rack that fits the Trail Blazer 29? Order #NW15471.</p><p>Sent from my iPhone</p>,,TRAILBLAZER 29,closed
+T100189,2026-02-24T15:15:00,email,Kenji Iyer,kenji.iyer33@example.com,,"
+
+Please start a return for the CityGlide E2, it doesn't fit in my apartment. Order #NW31206.
+
+--
+Kenji Iyer
+791-552-7522
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Return,,solved
+T100046,2026-02-06T05:44:00,email,Olivia Silva,olivia.silva84@example.com,Accessories,"
+
+What tire pressure should I run on my KidRider?
+
+Sent from my iPhone
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",how to,KidRider 16,solved
+T100350,2026-01-19T20:38:00,email,Olivia Iyer,olivia.iyer27@example.com,Safety problem,"<p></p><p>My son's summit pro has a cracked fork, he was riding it yesterday!</p><p>You can call me at +1 283 681 2062.</p><p>Sent from my iPhone</p>",Brake failure,Summit Pro Carbon,closed
+T100241,2026-02-14T08:58:00,web,Zoe Miller,zoe.miller88@example.com,Return,How do I send back the trailblazer29? Changed my mind.,RMA,,solved
+T100320,2026-03-16T23:12:00,web,Kenji Smith,kenji.smith99@example.com,Where is my order,"My Summit Pro Carbon order says processing for a week now, what's going on? Order #NW67386.",Order Status,Summit Pro Carbon,solved
+T100291,2026-02-07T11:52:00,web,Grace Tanaka,grace.tanaka99@example.com,Exchange,The urban fold mini isn't what I expected. Can I get a refund? My email is grace.tanaka99@example.com.,RMA,urbanfold mini,solved
+T100085,2026-03-25T02:58:00,chat,Maria Khan,maria.khan53@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Maria
+[10:02] Customer: The battery on my CityGlide got really hot and started smoking in the garage. Order #NW17754.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,CityGlide E2,solved
+T100127,2026-02-01T12:00:00,web,Maria Novak,maria.novak1@example.com,,,,,solved
+T100474,2026-01-08T05:46:00,chat,Ahmed Dubois,ahmed.dubois60@example.com,Order update?,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: Tracking for my bike hasn't updated in 4 days.
+[10:03] Agent: Sorry to hear that, let me check.",where is my order,,closed
+T100166,2026-03-01T22:25:00,web,Aisha Rossi,aisha.rossi25@example.com,Refund request,"Please start a return for the trailblazer29, it doesn't fit in my apartment. My email is aisha.rossi25@example.com.",Returns,,open
+T100011,2026-02-08T03:48:00,email,Elena Smith,elena.smith7@example.com,Accessories,"Hi,
+
+What tire pressure should I run on my Trailblazer 29er?
+
+Thanks,
+Elena",how to,Trailblazer 29,open
+T100209,2026-01-26T01:27:00,web,Sofia Garcia,sofia.garcia89@example.com,Shipping,Got a delivery notification for the KidRider 16 but nothing showed up at my door.,Tracking,,solved
+T100374,2026-03-21T11:16:00,chat,Aisha Iyer,aisha.iyer61@example.com,Brakes!!,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: The battery on my KidRider got really hot and started smoking in the garage.
+[10:03] Agent: Sorry to hear that, let me check.",safety concern,kidrider 16,closed
+T100292,2026-03-15T13:48:00,email,Priya Patel,priya.patel40@example.com,,"
+
+Chain on my Summit Pro Carbon snapped after two weeks of normal commuting.
+
+You can call me at (545) 373-1322.
+
+Regards,
+Priya Patel",Defect,Summit Pro Carbon,solved
+T100306,2026-02-09T03:32:00,chat,Elena Dubois,elena.dubois17@example.com,Accessories,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Elena
+[10:02] Customer: What tire pressure should I run on my KidRider?
+[10:03] Agent: Sorry to hear that, let me check.",Product question,kidrider 16,open
+T100041,2026-03-17T13:14:00,email,Noah Khan,noah.khan10@example.com,Help,"
+
+My son's kids bike 16 has a cracked fork, he was riding it yesterday! Order #NW49599.
+
+--
+Noah Khan
+553-801-5901
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",urgent safety,KidRider 16,solved
+T100257,2026-02-19T03:55:00,web,Ravi Johnson,ravi.johnson84@example.com,Refund request,I'd like to exchange my TB-29 for a smaller size.,exchange,Trailblazer 29,solved
+T100317,2026-01-02T21:27:00,email,James Iyer,james.iyer52@example.com,Quick question,"<p>Hi,</p><p>What's the max rider weight for the Summit Pro Carbon? Order #NW85550.</p><p>You can call me at 725-805-8993.</p><p>Regards,<br>James Iyer</p>",how to,,solved
+T100312,2026-02-02T08:30:00,email,Noah Dubois,noah.dubois56@example.com,Accessories,"Hi,
+
+Do you sell a rear rack that fits the TB-29?
+
+--
+Noah Dubois
+(689) 507-3434",Product question,trailblazer 29,solved
+T100070,2026-01-29T14:47:00,web,Olivia Dubois,olivia.dubois5@example.com,Broken part,My Trailblazer 29er is 8 months old and the gears keep slipping. Is this covered?,Warranty,,solved
+T100114,2026-02-22T03:09:00,web,Sofia Tanaka,sofia.tanaka91@example.com,Brakes!!,I found a crack in the frame of my city glide e2 near the seat post. Is it safe to ride?,safety issue,cityglide e2,open
+T100316,2026-02-07T20:04:00,web,Chen Khan,chen.khan20@example.com,,"My name is Chen Khan. Bought the Trail Blazer 29 as a gift but they already have one, how do returns work? Order #NW48644.",Return,,closed
+T100014,2026-02-19T15:51:00,web,Mateo Okafor,mateo.okafor6@example.com,URGENT,My name is Mateo Okafor. I found a crack in the frame of my TB-29 near the seat post. Is it safe to ride?,Safety,TRAILBLAZER 29,closed
+T100515,2026-01-14T16:31:00,email,James Miller,james.miller55@example.com,Return,"<p>Hey there,</p><p>Bought the kids bike 16 as a gift but they already have one, how do returns work?</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",exchange,KidRider 16,solved
+T100096,2026-01-27T20:51:00,email,Noah Okafor,noah.okafor47@example.com,Quick question,"Hello Northwind team,
+
+Is it ok to ride the Summit Carbon in the rain?
+
+Regards,
+Noah Okafor
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",how to,,solved
+T100210,2026-02-28T08:04:00,email,Kenji Dubois,kenji.dubois1@example.com,Order update?,"Hi,
+
+Tracking for my Summit Carbon hasn't updated in 4 days.
+
+Regards,
+Kenji Dubois
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Tracking,,solved
+T100483,2026-02-01T12:00:00,web,Noah Novak,noah.novak50@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100214,2026-01-28T08:05:00,email,Mateo Novak,mateo.novak78@example.com,Shipping,"
+
+Tracking for my KidRider hasn't updated in 4 days.
+
+You can call me at (776) 758-4504.
+
+--
+Mateo Novak
+(776) 758-4504",Tracking,KidRider 16,solved
+T100334,2026-03-19T00:43:00,web,Mateo Patel,mateo.patel62@example.com,Shipping,Tracking for my KidRider 16 hasn't updated in 4 days. My email is mateo.patel62@example.com.,where is my order,KidRider 16,closed
+T100297,2026-02-10T00:02:00,web,Aisha Iyer,aisha.iyer12@example.com,,Can I put a child seat on my Trailblazer 29er? My email is aisha.iyer12@example.com.,question,trailblazer 29,solved
+T100196,2026-03-16T02:37:00,email,Elena Tanaka,elena.tanaka79@example.com,Question,<p></p><p>What's the max rider weight for the Trail Blazer 29?</p><p>You can call me at 391-761-5306.</p><p>Sent from my iPhone</p>,Product question,TRAILBLAZER 29,closed
+T100050,2026-03-22T20:03:00,email,Priya Novak,priya.novak78@example.com,Refund request,"Hey there,
+
+Bought the Trailblazer 29er as a gift but they already have one, how do returns work?
+
+Regards,
+Priya Novak
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",Returns,,solved
+T100464,2026-01-27T05:17:00,chat,Olivia Miller,olivia.miller13@example.com,Question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Olivia
+[10:02] Customer: What tire pressure should I run on my TB-29? Order #NW47997.
+[10:03] Agent: Sorry to hear that, let me check.",misc,TRAILBLAZER 29,solved
+T100349,2026-03-19T18:32:00,chat,Priya Wei,priya.wei19@example.com,Accessories,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Priya
+[10:02] Customer: How often should I get my KidRider serviced?
+[10:03] Agent: Sorry to hear that, let me check.",question,KIDRIDER 16,closed
+T100088,2026-02-13T12:36:00,web,Liam Smith,liam.smith86@example.com,Shipping,"My Summit Carbon order says processing for a week now, what's going on?",WISMO,SUMMIT PRO CARBON,solved
+T100335,2026-02-23T06:17:00,email,Liam Silva,liam.silva72@example.com,Accessories,"<p>Hi,</p><p>How often should I get my City Glide serviced?</p><p>Regards,<br>Liam Silva</p>",Product question,CITYGLIDE E2,solved
+T100508,2026-02-16T17:15:00,chat,Grace Johnson,grace.johnson69@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Paint on my TB-29 is peeling after only 3 months, can I get it fixed under warranty?
+[10:03] Agent: Sorry to hear that, let me check.",defective part,Trailblazer 29,solved
+T100390,2026-02-13T09:43:00,email,Chen Khan,chen.khan68@example.com,Refund request,"Hey there,
+
+Please start a return for the TB-29, it doesn't fit in my apartment.
+
+--
+Chen Khan
++1 513 802 9021
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",exchange,,solved
+T100171,2026-01-18T00:27:00,web,James Garcia,james.garcia96@example.com,Shipping,"Ordered a UrbanFold for my daughter's birthday, is it going to arrive by Friday?",WISMO,UrbanFold Mini,closed
+T100424,2026-01-06T16:18:00,web,Grace Novak,grace.novak9@example.com,Exchange,"My name is Grace Novak. I want to return my E2 ebike, it's too big for me. Order #NW15017.",refund,,closed
+T100272,2026-03-17T23:58:00,email,Priya Wei,priya.wei22@example.com,Broken part,"<p></p><p>The kickstand bolt on my Summit Pro Carbon sheared off, bike is less than a year old.</p><p>Thanks,<br>Priya</p>",Warranty,SUMMIT PRO CARBON,solved
+T100001,2026-03-19T20:28:00,email,Priya Lee,priya.lee13@example.com,Shipping,"Hey there,
+
+Ordered a Trail Blazer 29 for my daughter's birthday, is it going to arrive by Friday? Order #NW59615.
+
+Sent from my iPhone",Order Status,Trailblazer 29,closed
+T100147,2026-03-20T00:23:00,email,Grace Wei,grace.wei88@example.com,Refund request,"Hello Northwind team,
+
+I'd like to exchange my urban fold mini for a smaller size.
+
+Sent from my iPhone",General,URBANFOLD MINI,closed
+T100204,2026-01-26T21:53:00,email,Maria Silva,maria.silva38@example.com,Exchange,"<p></p><p>Bought the summit pro as a gift but they already have one, how do returns work?</p><p>Thanks,<br>Maria</p>",refund,summit pro carbon,solved
+T100090,2026-03-11T16:58:00,email,Zoe Smith,zoe.smith72@example.com,,"<p>Hey there,</p><p>Can I put a child seat on my KidRider 16? Order #NW19572.</p><p>--<br>Zoe Smith<br>888-515-1356</p>",Product question,KIDRIDER 16,solved
+T100447,2026-02-01T15:24:00,email,Mateo Wei,mateo.wei88@example.com,Exchange,"<p>Hi,</p><p>I want to return my UrbanFold Mini, it's too big for me.</p><p>You can call me at (861) 454-2819.</p><p>Regards,<br>Mateo Wei</p>",RMA,URBANFOLD MINI,closed
+T100505,2026-02-10T08:37:00,web,Elena Novak,elena.novak91@example.com,Question,Is it ok to ride the Trail Blazer 29 in the rain? My email is elena.novak91@example.com.,how to,TRAILBLAZER 29,solved
+T100080,2026-02-23T03:07:00,web,Elena Novak,elena.novak21@example.com,Accessories,What's the max rider weight for the City Glide? My email is elena.novak21@example.com.,misc,,closed
+T100512,2026-03-16T14:51:00,email,Ravi Khan,ravi.khan45@example.com,,"<p>Hello Northwind team,</p><p>My Trail Blazer 29 order says processing for a week now, what's going on?</p><p>--<br>Ravi Khan<br>(682) 763-7456</p>",where is my order,trailblazer 29,solved
+T100473,2026-03-13T05:14:00,web,Grace Dubois,grace.dubois96@example.com,Where is my order,Where is my CityGlide? I ordered it 10 days ago and haven't heard anything. My email is grace.dubois96@example.com.,Order Status,cityglide e2,solved
+T100422,2026-02-16T01:14:00,email,Ravi Okafor,ravi.okafor98@example.com,,"
+
+I want to return my summit pro, it's too big for me.
+
+Thanks,
+Ravi",Returns,,solved
+T100146,2026-01-05T14:26:00,chat,Ahmed Patel,ahmed.patel40@example.com,Order update?,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: Ordered a Trailblazer 29er for my daughter's birthday, is it going to arrive by Friday? Order #NW35265.
+[10:03] Agent: Sorry to hear that, let me check.",where is my order,,closed
+T100237,2026-01-18T07:31:00,email,Aisha Silva,aisha.silva12@example.com,Order update?,"<p>Hey there,</p><p>Can you tell me when my TB-29 order will ship?</p><p>Thanks,<br>Aisha</p>",Order Status,TRAILBLAZER 29,open
+T900534,2026-01-19T01:26:00,email,James Novak,james.novak55@example.com,Help,"Hello Northwind team,
+
+The handlebar on my CityGlide came loose mid-ride and I almost crashed. Order #NW66223.
+
+Thanks,
+James
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",SAFETY!!,,closed
+T100253,2026-01-20T23:19:00,web,Zoe Brown,zoe.brown94@example.com,Accessories,My name is Zoe Brown. How often should I get my kid rider 16 serviced?,General,kidrider 16,solved
+T100413,2026-02-05T00:13:00,email,Priya Novak,priya.novak17@example.com,Where is my order,"Hey there,
+
+Got a delivery notification for the E2 ebike but nothing showed up at my door.
+
+You can call me at (985) 594-6777.
+
+Thanks,
+Priya",Tracking,CITYGLIDE E2,solved
+T100230,2026-01-02T02:40:00,email,Grace Lee,grace.lee6@example.com,,"<p>Hey there,</p><p>Do you sell a rear rack that fits the city glide e2?</p><p>You can call me at (543) 779-3459.</p><p>Regards,<br>Grace Lee</p>",,cityglide e2,solved
+T100401,2026-01-22T16:28:00,chat,Ahmed Okafor,ahmed.okafor63@example.com,Brakes!!,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: My son's KidRider 16 has a cracked fork, he was riding it yesterday!
+[10:03] Agent: Sorry to hear that, let me check.",SAFETY!!,kidrider 16,solved
+T100514,2026-03-04T11:14:00,web,Aisha Silva,aisha.silva23@example.com,,"I want to return my Trail Blazer 29, it's too big for me.",Return,,solved
+T100325,2026-02-01T21:19:00,email,Aisha Brown,aisha.brown39@example.com,Accessories,"Hi,
+
+How often should I get my UrbanFold serviced?
+
+--
+Aisha Brown
++1 632 717 2809",General,URBANFOLD MINI,solved
+T100108,2026-02-09T21:11:00,web,Olivia Tanaka,olivia.tanaka4@example.com,,What tire pressure should I run on my UrbanFold Mini?,question,UrbanFold Mini,solved
+T100371,2026-03-16T02:42:00,email,Chen Patel,chen.patel83@example.com,Defect,"Hey there,
+
+Chain on my trailblazer29 snapped after two weeks of normal commuting. Order #NW65950.
+
+Regards,
+Chen Patel",Warranty,trailblazer 29,solved
+T100327,2026-01-12T18:38:00,chat,Grace Okafor,grace.okafor75@example.com,Question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Grace
+[10:02] Customer: Can I put a child seat on my kids bike 16?
+[10:03] Agent: Sorry to hear that, let me check.",question,,closed
+T100285,2026-02-15T03:07:00,web,Ravi Tanaka,ravi.tanaka90@example.com,Broken part,Chain on my UrbanFold snapped after two weeks of normal commuting.,wrnty,URBANFOLD MINI,closed
+T100428,2026-03-05T21:44:00,email,Zoe Silva,zoe.silva53@example.com,,"<p>Hey there,</p><p>The brakes on my KidRider stopped working while I was going downhill.</p><p>You can call me at 560-755-7977.</p><p>Thanks,<br>Zoe</p>",safety concern,kidrider 16,open
+T100222,2026-01-22T11:59:00,email,Chen Novak,chen.novak63@example.com,Exchange,"<p>Hello Northwind team,</p><p>Bought the folding mini as a gift but they already have one, how do returns work?</p><p>Sent from my iPhone</p>",misc,urbanfold mini,closed
+T100473,2026-03-13T05:14:00,web,Grace Dubois,grace.dubois96@example.com,Where is my order,Where is my CityGlide? I ordered it 10 days ago and haven't heard anything. My email is grace.dubois96@example.com.,Order Status,cityglide e2,solved
+T100418,2026-02-21T21:27:00,email,Aisha Wei,aisha.wei14@example.com,Return,"<p>Hi,</p><p>The bike isn't what I expected. Can I get a refund? Order #NW23954.</p><p>Sent from my iPhone</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",Return,,solved
+T100410,2026-02-01T12:00:00,web,Grace Johnson,grace.johnson46@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,,solved
+T100162,2026-02-28T13:31:00,web,Liam Novak,liam.novak67@example.com,Shipping,Got a delivery notification for the trailblazer29 but nothing showed up at my door.,Tracking,Trailblazer 29,solved
+T100182,2026-03-17T23:48:00,email,Olivia Iyer,olivia.iyer46@example.com,Accessories,"<p>Hey there,</p><p>How often should I get my UrbanFold serviced? Order #NW97632.</p><p>Regards,<br>Olivia Iyer</p>",misc,urbanfold mini,solved
+T100296,2026-03-18T17:00:00,email,Aisha Khan,aisha.khan83@example.com,Safety problem,"Hi,
+
+The brakes on my bike stopped working while I was going downhill.
+
+Regards,
+Aisha Khan",Safety,,solved
+T100113,2026-01-24T22:07:00,email,Ravi Wei,ravi.wei74@example.com,Exchange,"
+
+Bought the UrbanFold as a gift but they already have one, how do returns work?
+
+Regards,
+Ravi Wei
+
+On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:
+> Thanks for contacting Northwind Bikes.
+> We received your request and will reply soon.",refund,,closed
+T100216,2026-01-14T22:39:00,web,James Novak,james.novak45@example.com,Return,"I want to return my Trailblazer 29er, it's too big for me. My email is james.novak45@example.com.",RMA,TRAILBLAZER 29,closed
+T100223,2026-03-24T19:20:00,web,Aisha Brown,aisha.brown20@example.com,Exchange,"My name is Aisha Brown. Bought the Trail Blazer 29 as a gift but they already have one, how do returns work?",refund,trailblazer 29,solved
+T100405,2026-03-07T17:24:00,chat,Olivia Okafor,olivia.okafor7@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Olivia
+[10:02] Customer: The motor on my Summit Carbon makes a grinding noise. It's still under warranty I think.
+[10:03] Agent: Sorry to hear that, let me check.",wrnty,summit pro carbon,solved
+T100099,2026-01-09T12:15:00,chat,Aisha Tanaka,aisha.tanaka35@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Aisha
+[10:02] Customer: Can I put a child seat on my urban fold mini? Order #NW99658.
+[10:03] Agent: Sorry to hear that, let me check.",General,UrbanFold Mini,solved
+T100126,2026-01-14T16:55:00,email,Liam Smith,liam.smith52@example.com,URGENT,"Hey there,
+
+The handlebar on my City Glide came loose mid-ride and I almost crashed. Order #NW36302.
+
+Thanks,
+Liam",Brake failure,CITYGLIDE E2,open
+T100387,2026-02-24T19:24:00,email,Zoe Johnson,zoe.johnson74@example.com,Shipping,"<p>Hi,</p><p>Ordered a UrbanFold for my daughter's birthday, is it going to arrive by Friday?</p><p>--<br>Zoe Johnson<br>911-520-9563</p><p>On Mon, Mar 3, 2026 at 9:14 AM Northwind Support <support@northwindbikes.example> wrote:<br>> Thanks for contacting Northwind Bikes.<br>> We received your request and will reply soon.</p>",WISMO,URBANFOLD MINI,solved
+T100134,2026-02-21T06:07:00,chat,James Brown,james.brown74@example.com,Defect,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Rear derailleur on the summit pro is bent out of the box basically, 5 months old.
+[10:03] Agent: Sorry to hear that, let me check.",Warranty,SUMMIT PRO CARBON,closed
+T100384,2026-01-25T21:57:00,web,Zoe Lee,zoe.lee36@example.com,Return,"My name is Zoe Lee. I want to return my bike, it's too big for me. Order #NW74122.",Returns,,closed
+T100240,2026-02-21T16:21:00,email,Zoe Smith,zoe.smith17@example.com,Shipping,<p></p><p>Where is my UrbanFold Mini? I ordered it 10 days ago and haven't heard anything.</p><p>Sent from my iPhone</p>,Tracking,,solved
+T100502,2026-01-18T19:48:00,chat,Ahmed Garcia,ahmed.garcia47@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Ahmed
+[10:02] Customer: Bought the Summit Pro Carbon as a gift but they already have one, how do returns work?
+[10:03] Agent: Sorry to hear that, let me check.",refund,Summit Pro Carbon,solved
+T100290,2026-02-21T04:15:00,email,Zoe Smith,zoe.smith5@example.com,Refund request,<p></p><p>I'd like to exchange my kid rider 16 for a smaller size.</p><p>--<br>Zoe Smith<br>(770) 875-5965</p>,Returns,,solved
+T100023,2026-01-08T15:23:00,chat,Liam Iyer,liam.iyer29@example.com,,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Liam
+[10:02] Customer: Please start a return for the folding mini, it doesn't fit in my apartment. Order #NW71261.
+[10:03] Agent: Sorry to hear that, let me check.",Returns,UrbanFold Mini,solved
+T100425,2026-03-10T13:20:00,email,Sofia Garcia,sofia.garcia98@example.com,Broken part,"<p></p><p>Paint on my Trailblazer 29 is peeling after only 3 months, can I get it fixed under warranty? Order #NW63093.</p><p>Thanks,<br>Sofia</p>",Warranty,trailblazer 29,solved
+T100441,2026-01-24T15:17:00,chat,Maria Johnson,maria.johnson14@example.com,Warranty question,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Maria
+[10:02] Customer: Paint on my Trailblazer 29 is peeling after only 3 months, can I get it fixed under warranty?
+[10:03] Agent: Sorry to hear that, let me check.",defective part,Trailblazer 29,solved
+T100360,2026-03-05T10:03:00,email,Zoe Johnson,zoe.johnson61@example.com,Question,"<p>Hi,</p><p>How often should I get my city glide e2 serviced? Order #NW61229.</p><p>Thanks,<br>Zoe</p>",General,,closed
+T100170,2026-03-05T01:44:00,email,Aisha Khan,aisha.khan37@example.com,URGENT,"
+
+I found a crack in the frame of my CityGlide near the seat post. Is it safe to ride?
+
+You can call me at +1 456 349 2016.
+
+Thanks,
+Aisha",safety issue,cityglide e2,open
+T100159,2026-01-09T15:31:00,email,Olivia Patel,olivia.patel66@example.com,Question,"
+
+Is it ok to ride the kid rider 16 in the rain?
+
+You can call me at (940) 940-2659.
+
+Thanks,
+Olivia",misc,KidRider 16,solved
+T100030,2026-02-01T00:17:00,web,Kenji Khan,kenji.khan39@example.com,Shipping,"My name is Kenji Khan. Ordered a CityGlide E2 for my daughter's birthday, is it going to arrive by Friday? Order #NW26551.",Order Status,,open
+T100478,2026-03-24T22:15:00,email,Olivia Lee,olivia.lee98@example.com,Quick question,"Hi,
+
+Can I put a child seat on my Trailblazer 29er?
+
+--
+Olivia Lee
++1 280 279 4679",how to,trailblazer 29,solved
+T100462,2026-01-08T19:54:00,email,James Patel,james.patel57@example.com,Where is my order,"<p>Hello Northwind team,</p><p>Where is my TB-29? I ordered it 10 days ago and haven't heard anything.</p><p>You can call me at 821-846-1482.</p><p>Regards,<br>James Patel</p>",where is my order,TRAILBLAZER 29,closed
+T100322,2026-02-10T06:49:00,chat,Liam Johnson,liam.johnson97@example.com,Refund request,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm Liam
+[10:02] Customer: I'd like to exchange my summit pro for a smaller size.
+[10:03] Agent: Sorry to hear that, let me check.",Returns,Summit Pro Carbon,closed
+T100298,2026-01-24T00:38:00,email,Kenji Wei,kenji.wei41@example.com,,"Hey there,
+
+The urban fold mini isn't what I expected. Can I get a refund?
+
+You can call me at +1 633 686 5036.
+
+--
+Kenji Wei
++1 633 686 5036",Return,URBANFOLD MINI,solved
+T100311,2026-02-28T22:43:00,email,Olivia Tanaka,olivia.tanaka86@example.com,Shipping,"<p></p><p>Got a delivery notification for the folding mini but nothing showed up at my door. Order #NW88687.</p><p>Thanks,<br>Olivia</p>",Order Status,URBANFOLD MINI,open
+T100378,2026-02-28T14:48:00,web,Elena Lee,elena.lee99@example.com,Brakes!!,"My son's CityGlide E2 has a cracked fork, he was riding it yesterday! Order #NW80063.",SAFETY!!,CityGlide E2,solved
+T100155,2026-03-02T06:05:00,web,Liam Brown,liam.brown94@example.com,Return,"I want to return my trailblazer29, it's too big for me. My email is liam.brown94@example.com.",RMA,Trailblazer 29,closed
+T100212,2026-01-10T05:07:00,chat,James Tanaka,james.tanaka72@example.com,Safety problem,"[10:00] Agent: Hi, thanks for contacting Northwind Bikes! How can I help?
+[10:01] Customer: hi, I'm James
+[10:02] Customer: Front brake on the KidRider feels like it's not grabbing at all, really scary. Order #NW19225.
+[10:03] Agent: Sorry to hear that, let me check.",Safety,KidRider 16,solved

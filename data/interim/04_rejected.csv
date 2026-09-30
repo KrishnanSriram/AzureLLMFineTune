@@ -1,0 +1,10 @@
+ticket_id,channel,subject,text,agent_tag,product,reason
+T100375,web,,"I was charged twice on my credit card statement, please fix.",Billing,,unmappable tag 'Billing'
+T100519,email,Help,I found a crack in the frame of my E2 ebike near the seat post. Is it safe to ride? You can call me at [PHONE].,,CITYGLIDE E2,unmappable tag ''
+T100518,web,Question,Is it ok to ride the UrbanFold Mini in the rain?,,urbanfold mini,unmappable tag ''
+T100300,chat,Refund request,I'd like to exchange my KidRider for a smaller size.,,KidRider 16,unmappable tag ''
+T100286,email,URGENT,I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride? You can call me at [PHONE].,,,unmappable tag ''
+T900526,email,,Do you sell a rear rack that fits the city glide e2? You can call me at [PHONE].,,cityglide e2,unmappable tag ''
+T100275,web,Accessories,My name is [NAME] [NAME]. How often should I get my folding mini serviced?,,URBANFOLD MINI,unmappable tag ''
+T100364,chat,Quick question,How often should I get my urban fold mini serviced? Order [ORDER_ID].,,,unmappable tag ''
+T100466,email,,Do you sell a rear rack that fits the Trail Blazer 29? Order [ORDER_ID].,,TRAILBLAZER 29,unmappable tag ''

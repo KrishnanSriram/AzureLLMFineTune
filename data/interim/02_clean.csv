@@ -1,0 +1,404 @@
+ticket_id,channel,customer_name,customer_email,subject,text,agent_tag,product
+T100375,web,Olivia Garcia,olivia.garcia78@example.com,,"I was charged twice on my credit card statement, please fix.",Billing,
+T100342,chat,Ravi Silva,ravi.silva4@example.com,,I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride?,SAFETY!!,Trailblazer 29
+T100232,email,Chen Silva,chen.silva23@example.com,Brakes!!,The battery on my Trailblazer 29er got really hot and started smoking in the garage. You can call me at (888) 491-3906.,urgent safety,Trailblazer 29
+T100144,web,Mateo Okafor,mateo.okafor50@example.com,Question,How often should I get my bike serviced?,Product question,
+T100344,web,Zoe Lee,zoe.lee60@example.com,Accessories,My name is Zoe Lee. Is it ok to ride the Trailblazer 29 in the rain? My email is zoe.lee60@example.com.,General,TRAILBLAZER 29
+T100503,email,Elena Wei,elena.wei48@example.com,Quick question,How often should I get my bike serviced? You can call me at 714-213-5473.,Product question,
+T100367,web,Priya Silva,priya.silva93@example.com,Defect,"My name is Priya Silva. The kickstand bolt on my city glide e2 sheared off, bike is less than a year old. Order #NW47401.",Defect,
+T100480,chat,Olivia Okafor,olivia.okafor37@example.com,Return,"Bought the urban fold mini as a gift but they already have one, how do returns work?",refund,UrbanFold Mini
+T100091,chat,Grace Patel,grace.patel88@example.com,,"Bought the kids bike 16 as a gift but they already have one, how do returns work? Order #NW39188.",Return,
+T100008,web,Priya Brown,priya.brown36@example.com,URGENT,"My name is Priya Brown. Front brake on the Summit Carbon feels like it's not grabbing at all, really scary.",Safety,
+T100043,chat,Aisha Khan,aisha.khan33@example.com,,What tire pressure should I run on my summit pro? Order #NW39571.,Product question,summit pro carbon
+T100215,email,Olivia Wei,olivia.wei5@example.com,Order update?,Can you tell me when my urban fold mini order will ship? Order #NW49361.,shipping,UrbanFold Mini
+T100111,web,Ahmed Miller,ahmed.miller79@example.com,Refund request,The urban fold mini isn't what I expected. Can I get a refund? Order #NW58929.,refund,
+T100022,email,Olivia Brown,olivia.brown50@example.com,Brakes!!,The handlebar on my bike came loose mid-ride and I almost crashed. You can call me at +1 356 923 4505.,how to,
+T100097,email,Ravi Novak,ravi.novak33@example.com,Quick question,Do you sell a rear rack that fits the CityGlide? Order #NW81636.,General,CITYGLIDE E2
+T100119,email,Elena Tanaka,elena.tanaka39@example.com,URGENT,The brakes on my trailblazer29 stopped working while I was going downhill.,Brake failure,TRAILBLAZER 29
+T100397,web,Sofia Iyer,sofia.iyer86@example.com,URGENT,The battery on my city glide e2 got really hot and started smoking in the garage.,safety concern,CityGlide E2
+T100415,email,Maria Silva,maria.silva48@example.com,,My kid rider 16 is 8 months old and the gears keep slipping. Is this covered? Order #NW28517. You can call me at (918) 308-2208.,warranty claim,kidrider 16
+T100172,web,Aisha Okafor,aisha.okafor17@example.com,Brakes!!,The brakes on my kid rider 16 stopped working while I was going downhill. Order #NW52287.,safety concern,kidrider 16
+T100519,email,Aisha Miller,aisha.miller79@example.com,Help,I found a crack in the frame of my E2 ebike near the seat post. Is it safe to ride? You can call me at +1 752 449 1800.,,CITYGLIDE E2
+T100231,email,Ravi Brown,ravi.brown28@example.com,,"Front brake on the UrbanFold Mini feels like it's not grabbing at all, really scary.",safety concern,UrbanFold Mini
+T100443,chat,Liam Patel,liam.patel34@example.com,Shipping,"My kid rider 16 order says processing for a week now, what's going on?",Order Status,KIDRIDER 16
+T100195,email,Ravi Khan,ravi.khan98@example.com,Question,What tire pressure should I run on my Summit Pro Carbon?,Product question,
+T100095,chat,Sofia Rossi,sofia.rossi62@example.com,Brakes!!,"My son's trailblazer29 has a cracked fork, he was riding it yesterday! Order #NW72773.",safety concern,TRAILBLAZER 29
+T100009,chat,Grace Novak,grace.novak14@example.com,,I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride? Order #NW42742.,Safety,Trailblazer 29
+T100493,web,Maria Johnson,maria.johnson13@example.com,Exchange,The TB-29 isn't what I expected. Can I get a refund?,Return,
+T100455,email,Maria Garcia,maria.garcia99@example.com,Return,How do I send back the KidRider? Changed my mind. You can call me at 290-973-3303.,exchange,
+T100372,email,Maria Khan,maria.khan63@example.com,Return,The Summit Carbon isn't what I expected. Can I get a refund? You can call me at (299) 271-7845.,Return,SUMMIT PRO CARBON
+T100093,email,Noah Brown,noah.brown94@example.com,Broken part,"Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old. You can call me at +1 526 791 6253.",Defect,
+T100269,email,Ahmed Tanaka,ahmed.tanaka81@example.com,Broken part,Chain on my KidRider 16 snapped after two weeks of normal commuting. You can call me at 920-848-1022.,defective part,KidRider 16
+T100094,email,Ahmed Iyer,ahmed.iyer31@example.com,Order update?,"Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday?",shipping,KIDRIDER 16
+T100277,email,Sofia Dubois,sofia.dubois95@example.com,Question,Can I put a child seat on my Trail Blazer 29? You can call me at 653-495-3683.,misc,
+T100250,email,Maria Miller,maria.miller63@example.com,Shipping,Tracking for my UrbanFold hasn't updated in 4 days. Order #NW46827. You can call me at (329) 717-2259.,where is my order,URBANFOLD MINI
+T100044,web,Aisha Lee,aisha.lee82@example.com,Refund request,"Bought the Summit Carbon as a gift but they already have one, how do returns work?",exchange,
+T100274,web,Olivia Dubois,olivia.dubois34@example.com,Order update?,Can you tell me when my UrbanFold order will ship? My email is olivia.dubois34@example.com.,Order Status,URBANFOLD MINI
+T100181,web,Aisha Iyer,aisha.iyer84@example.com,,I found a crack in the frame of my UrbanFold near the seat post. Is it safe to ride?,safety concern,URBANFOLD MINI
+T100031,email,Priya Lee,priya.lee63@example.com,Return,The Trailblazer 29er isn't what I expected. Can I get a refund? Order #NW42530.,exchange,
+T100179,email,Elena Tanaka,elena.tanaka17@example.com,Quick question,Do you sell a rear rack that fits the KidRider 16?,misc,kidrider 16
+T100400,web,Elena Silva,elena.silva62@example.com,Broken part,The motor on my CityGlide makes a grinding noise. It's still under warranty I think. Order #NW56009. My email is elena.silva62@example.com.,warranty claim,cityglide e2
+T100403,email,Mateo Patel,mateo.patel62@example.com,,"Please start a return for the TB-29, it doesn't fit in my apartment.",Returns,TRAILBLAZER 29
+T100382,chat,Elena Smith,elena.smith91@example.com,,"My son's E2 ebike has a cracked fork, he was riding it yesterday!",safety issue,CityGlide E2
+T100398,email,James Novak,james.novak55@example.com,Help,The handlebar on my CityGlide came loose mid-ride and I almost crashed. Order #NW66223.,SAFETY!!,
+T100321,email,Kenji Khan,kenji.khan94@example.com,,I found a crack in the frame of my CityGlide E2 near the seat post. Is it safe to ride? You can call me at 925-652-9288.,Safety,cityglide e2
+T900521,email,Zoe Dubois,zoe.dubois39@example.com,Shipping,Got a delivery notification for the kid rider 16 but nothing showed up at my door. You can call me at +1 335 513 3813.,where is my order,KIDRIDER 16
+T100287,web,Olivia Lee,olivia.lee52@example.com,,My name is Olivia Lee. I found a crack in the frame of my bike near the seat post. Is it safe to ride?,Brake failure,
+T100470,web,Noah Brown,noah.brown68@example.com,Shipping,Tracking for my UrbanFold Mini hasn't updated in 4 days.,where is my order,URBANFOLD MINI
+T100154,email,Maria Garcia,maria.garcia81@example.com,,Is it ok to ride the CityGlide E2 in the rain?,how to,CITYGLIDE E2
+T100174,email,Chen Lee,chen.lee33@example.com,Where is my order,"Ordered a KidRider for my daughter's birthday, is it going to arrive by Friday? You can call me at +1 941 489 1404.",Order Status,KidRider 16
+T100261,web,Mateo Novak,mateo.novak95@example.com,Brakes!!,"Front brake on the City Glide feels like it's not grabbing at all, really scary. Order #NW37948.",Safety,CITYGLIDE E2
+T100373,email,Mateo Dubois,mateo.dubois81@example.com,Warranty question,My bike is 8 months old and the gears keep slipping. Is this covered? You can call me at +1 311 851 3721.,misc,
+T100386,email,Ahmed Garcia,ahmed.garcia72@example.com,Broken part,"Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old. Order #NW83727. You can call me at 521-325-1641.",defective part,UrbanFold Mini
+T100163,chat,Priya Iyer,priya.iyer42@example.com,,"Please start a return for the City Glide, it doesn't fit in my apartment.",Return,
+T100388,web,Priya Okafor,priya.okafor34@example.com,Accessories,My name is Priya Okafor. Can I put a child seat on my KidRider?,misc,KIDRIDER 16
+T100361,email,Noah Dubois,noah.dubois7@example.com,Safety problem,The battery on my kid rider 16 got really hot and started smoking in the garage.,safety concern,KidRider 16
+T100355,web,Grace Rossi,grace.rossi61@example.com,Refund request,"I want to return my TB-29, it's too big for me. Order #NW98458. My email is grace.rossi61@example.com.",question,
+T100229,web,Olivia Lee,olivia.lee53@example.com,,Chain on my urban fold mini snapped after two weeks of normal commuting. Order #NW52477.,Warranty,urbanfold mini
+T100511,email,Olivia Johnson,olivia.johnson85@example.com,Defect,The motor on my urban fold mini makes a grinding noise. It's still under warranty I think.,Warranty,
+T100106,web,Zoe Miller,zoe.miller89@example.com,Return,My name is Zoe Miller. How do I send back the CityGlide? Changed my mind. Order #NW30203.,Returns,
+T100406,web,Maria Tanaka,maria.tanaka29@example.com,,"My name is Maria Tanaka. My Trailblazer 29er order says processing for a week now, what's going on?",shipping,TRAILBLAZER 29
+T100279,web,Chen Okafor,chen.okafor64@example.com,Broken part,Chain on my Trailblazer 29er snapped after two weeks of normal commuting.,Warranty,Trailblazer 29
+T100495,web,Ahmed Rossi,ahmed.rossi63@example.com,Brakes!!,"Front brake on the folding mini feels like it's not grabbing at all, really scary. My email is ahmed.rossi63@example.com.",SAFETY!!,URBANFOLD MINI
+T100032,email,Aisha Patel,aisha.patel21@example.com,Warranty question,Chain on my E2 ebike snapped after two weeks of normal commuting. You can call me at (377) 765-2229.,warranty claim,CITYGLIDE E2
+T100341,chat,James Okafor,james.okafor54@example.com,Safety problem,The brakes on my CityGlide stopped working while I was going downhill.,safety concern,CityGlide E2
+T100420,web,Ahmed Johnson,ahmed.johnson88@example.com,Safety problem,My name is Ahmed Johnson. I found a crack in the frame of my Summit Pro Carbon near the seat post. Is it safe to ride?,urgent safety,summit pro carbon
+T100220,web,Sofia Okafor,sofia.okafor71@example.com,,My name is Sofia Okafor. Is it ok to ride the CityGlide E2 in the rain? My email is sofia.okafor71@example.com.,misc,cityglide e2
+T100017,email,Aisha Patel,aisha.patel99@example.com,Refund request,The Summit Carbon isn't what I expected. Can I get a refund? You can call me at 559-856-9346.,RMA,Summit Pro Carbon
+T100490,email,Aisha Rossi,aisha.rossi53@example.com,Safety problem,The handlebar on my summit pro came loose mid-ride and I almost crashed. You can call me at (775) 990-6295.,SAFETY!!,
+T100052,email,Noah Miller,noah.miller46@example.com,Exchange,How do I send back the Trail Blazer 29? Changed my mind. You can call me at (791) 719-4485.,Returns,Trailblazer 29
+T100051,email,Chen Novak,chen.novak55@example.com,Exchange,"I want to return my kids bike 16, it's too big for me. Order #NW21188.",Returns,KidRider 16
+T100178,chat,Ahmed Brown,ahmed.brown79@example.com,Warranty question,My City Glide is 8 months old and the gears keep slipping. Is this covered?,defective part,cityglide e2
+T100101,web,Noah Khan,noah.khan73@example.com,Exchange,"My name is Noah Khan. Please start a return for the trailblazer29, it doesn't fit in my apartment.",exchange,
+T100276,email,Liam Okafor,liam.okafor26@example.com,Broken part,"The kickstand bolt on my UrbanFold Mini sheared off, bike is less than a year old.",Defect,urbanfold mini
+T100419,email,Elena Patel,elena.patel40@example.com,,I found a crack in the frame of my Trailblazer 29er near the seat post. Is it safe to ride?,urgent safety,TRAILBLAZER 29
+T100436,email,Zoe Iyer,zoe.iyer56@example.com,Question,Can I put a child seat on my Summit Carbon? Order #NW61488. You can call me at +1 609 397 5097.,Product question,summit pro carbon
+T100472,email,Kenji Garcia,kenji.garcia78@example.com,,"My son's UrbanFold has a cracked fork, he was riding it yesterday!",safety concern,
+T100042,web,Ravi Miller,ravi.miller30@example.com,Help,"My son's urban fold mini has a cracked fork, he was riding it yesterday! Order #NW92242.",urgent safety,urbanfold mini
+T100206,email,Zoe Smith,zoe.smith43@example.com,Return,"I want to return my summit pro, it's too big for me.",refund,SUMMIT PRO CARBON
+T100047,chat,Sofia Garcia,sofia.garcia7@example.com,Return,"Bought the bike as a gift but they already have one, how do returns work? Order #NW38305.",refund,
+T100347,email,Sofia Brown,sofia.brown62@example.com,Defect,My kid rider 16 is 8 months old and the gears keep slipping. Is this covered?,defective part,KidRider 16
+T100399,chat,Ahmed Rossi,ahmed.rossi76@example.com,,What tire pressure should I run on my folding mini? Order #NW35189.,question,UrbanFold Mini
+T100454,email,Sofia Okafor,sofia.okafor18@example.com,Accessories,What's the max rider weight for the CityGlide?,misc,cityglide e2
+T100301,web,Grace Rossi,grace.rossi81@example.com,,"My name is Grace Rossi. The kickstand bolt on my trailblazer29 sheared off, bike is less than a year old.",defective part,trailblazer 29
+T100092,web,Aisha Rossi,aisha.rossi93@example.com,Shipping,Can you tell me when my CityGlide E2 order will ship? Order #NW23224.,Order Status,
+T900532,web,Mateo Lee,mateo.lee1@example.com,Order update?,My name is Mateo Lee. Tracking for my KidRider hasn't updated in 4 days.,General,kidrider 16
+T100338,web,Kenji Lee,kenji.lee23@example.com,Refund request,I'd like to exchange my urban fold mini for a smaller size. Order #NW12592.,refund,urbanfold mini
+T100265,chat,Elena Silva,elena.silva26@example.com,,"Paint on my KidRider is peeling after only 3 months, can I get it fixed under warranty? Order #NW64079.",Defect,
+T100083,web,Liam Miller,liam.miller99@example.com,Quick question,My name is Liam Miller. What's the max rider weight for the summit pro? My email is liam.miller99@example.com.,how to,summit pro carbon
+T100060,email,Priya Miller,priya.miller72@example.com,Exchange,"I want to return my City Glide, it's too big for me. You can call me at 858-536-3093.",exchange,CITYGLIDE E2
+T100066,web,Liam Wei,liam.wei99@example.com,Help,"Front brake on the summit pro feels like it's not grabbing at all, really scary.",safety concern,SUMMIT PRO CARBON
+T100152,email,Ravi Smith,ravi.smith82@example.com,Exchange,"Bought the trailblazer29 as a gift but they already have one, how do returns work? Order #NW99220.",exchange,
+T100278,email,Zoe Johnson,zoe.johnson26@example.com,,The bike isn't what I expected. Can I get a refund? You can call me at (590) 496-9037.,exchange,
+T100109,chat,Elena Wei,elena.wei87@example.com,Help,The battery on my trailblazer29 got really hot and started smoking in the garage.,safety issue,TRAILBLAZER 29
+T100201,chat,Olivia Patel,olivia.patel84@example.com,Help,"My son's summit pro has a cracked fork, he was riding it yesterday! Order #NW79041.",misc,summit pro carbon
+T100496,chat,Sofia Iyer,sofia.iyer70@example.com,Safety problem,The handlebar on my Summit Carbon came loose mid-ride and I almost crashed.,safety concern,Summit Pro Carbon
+T100449,web,Ravi Wei,ravi.wei6@example.com,,"Bought the City Glide as a gift but they already have one, how do returns work? Order #NW29212. My email is ravi.wei6@example.com.",RMA,cityglide e2
+T100445,email,Zoe Wei,zoe.wei96@example.com,Brakes!!,The handlebar on my CityGlide E2 came loose mid-ride and I almost crashed. You can call me at (446) 216-8550.,Brake failure,CityGlide E2
+T100233,chat,James Wei,james.wei74@example.com,,"Rear derailleur on the City Glide is bent out of the box basically, 5 months old. Order #NW89802.",wrnty,cityglide e2
+T100498,email,Kenji Okafor,kenji.okafor61@example.com,,My folding mini is 8 months old and the gears keep slipping. Is this covered? You can call me at 415-538-3217.,Warranty,UrbanFold Mini
+T100507,email,Sofia Johnson,sofia.johnson40@example.com,,"The kickstand bolt on my Summit Pro Carbon sheared off, bike is less than a year old. You can call me at (588) 922-5703.",Defect,summit pro carbon
+T100019,web,Noah Lee,noah.lee71@example.com,Quick question,Is it ok to ride the UrbanFold in the rain?,question,urbanfold mini
+T100351,email,Sofia Miller,sofia.miller55@example.com,,"Paint on my KidRider 16 is peeling after only 3 months, can I get it fixed under warranty? You can call me at 785-360-7129.",Defect,kidrider 16
+T100073,web,Olivia Novak,olivia.novak83@example.com,Quick question,Can I put a child seat on my Trailblazer 29er? My email is olivia.novak83@example.com.,General,trailblazer 29
+T100463,web,Olivia Garcia,olivia.garcia47@example.com,,Chain on my Trailblazer 29er snapped after two weeks of normal commuting. Order #NW37194.,defective part,Trailblazer 29
+T100218,email,Liam Brown,liam.brown10@example.com,Defect,Chain on my folding mini snapped after two weeks of normal commuting.,wrnty,
+T100482,web,Noah Iyer,noah.iyer90@example.com,Exchange,"Bought the KidRider 16 as a gift but they already have one, how do returns work?",refund,KidRider 16
+T100038,web,Grace Brown,grace.brown53@example.com,Warranty question,My name is Grace Brown. Chain on my folding mini snapped after two weeks of normal commuting.,Warranty,urbanfold mini
+T100026,chat,James Tanaka,james.tanaka69@example.com,Safety problem,The brakes on my UrbanFold stopped working while I was going downhill.,Safety,
+T100289,web,Chen Patel,chen.patel85@example.com,Where is my order,Got a delivery notification for the folding mini but nothing showed up at my door.,Order Status,
+T100271,web,James Patel,james.patel48@example.com,,I'd like to exchange my Summit Pro Carbon for a smaller size.,Returns,Summit Pro Carbon
+T100303,chat,Mateo Okafor,mateo.okafor20@example.com,Refund request,"Bought the bike as a gift but they already have one, how do returns work?",exchange,
+T100180,email,Olivia Novak,olivia.novak62@example.com,,Can you tell me when my Summit Pro Carbon order will ship?,Order Status,Summit Pro Carbon
+T100078,chat,Kenji Smith,kenji.smith7@example.com,Defect,My CityGlide E2 is 8 months old and the gears keep slipping. Is this covered?,wrnty,
+T100054,email,Aisha Dubois,aisha.dubois85@example.com,Safety problem,"Front brake on the trailblazer29 feels like it's not grabbing at all, really scary. Order #NW66349.",urgent safety,TRAILBLAZER 29
+T100245,email,Grace Johnson,grace.johnson38@example.com,Quick question,What's the max rider weight for the bike?,misc,
+T100280,web,Olivia Tanaka,olivia.tanaka21@example.com,Order update?,My name is Olivia Tanaka. Where is my KidRider? I ordered it 10 days ago and haven't heard anything. Order #NW79417. My email is olivia.tanaka21@example.com.,where is my order,KIDRIDER 16
+T100343,web,Chen Patel,chen.patel8@example.com,,I'd like to exchange my UrbanFold Mini for a smaller size. Order #NW90050. My email is chen.patel8@example.com.,Returns,
+T100293,email,Elena Khan,elena.khan79@example.com,Shipping,"Ordered a KidRider 16 for my daughter's birthday, is it going to arrive by Friday? Order #NW44754.",Tracking,
+T100518,web,Zoe Smith,zoe.smith10@example.com,Question,Is it ok to ride the UrbanFold Mini in the rain?,,urbanfold mini
+T100024,email,Grace Novak,grace.novak28@example.com,URGENT,The battery on my summit pro got really hot and started smoking in the garage.,safety concern,SUMMIT PRO CARBON
+T900530,email,Noah Silva,noah.silva85@example.com,Where is my order,"My folding mini order says processing for a week now, what's going on?",shipping,
+T100353,email,Maria Miller,maria.miller37@example.com,,Do you sell a rear rack that fits the Summit Carbon?,General,
+T100226,chat,Ravi Tanaka,ravi.tanaka24@example.com,Refund request,"I want to return my city glide e2, it's too big for me.",RMA,CITYGLIDE E2
+T100494,email,Aisha Iyer,aisha.iyer37@example.com,Refund request,"Please start a return for the folding mini, it doesn't fit in my apartment.",RMA,urbanfold mini
+T100471,email,Liam Dubois,liam.dubois84@example.com,,The motor on my TB-29 makes a grinding noise. It's still under warranty I think. You can call me at 316-221-9174.,Defect,
+T100359,email,Priya Wei,priya.wei65@example.com,Help,The brakes on my Summit Carbon stopped working while I was going downhill.,Safety,SUMMIT PRO CARBON
+T100130,email,Noah Smith,noah.smith28@example.com,URGENT,"Front brake on the E2 ebike feels like it's not grabbing at all, really scary. Order #NW49169. You can call me at 351-293-5066.",urgent safety,CITYGLIDE E2
+T100467,chat,James Lee,james.lee99@example.com,Quick question,What tire pressure should I run on my kid rider 16?,misc,KidRider 16
+T100497,email,Sofia Dubois,sofia.dubois15@example.com,Safety problem,The handlebar on my City Glide came loose mid-ride and I almost crashed. Order #NW81707. You can call me at (634) 707-3797.,safety concern,cityglide e2
+T100323,email,Priya Novak,priya.novak41@example.com,Accessories,Can I put a child seat on my Trailblazer 29?,how to,trailblazer 29
+T100270,email,Chen Lee,chen.lee47@example.com,Order update?,"My Trailblazer 29er order says processing for a week now, what's going on? Order #NW36832. You can call me at 833-241-6989.",Tracking,TRAILBLAZER 29
+T100112,email,Elena Dubois,elena.dubois80@example.com,Defect,"The kickstand bolt on my E2 ebike sheared off, bike is less than a year old.",Warranty,CityGlide E2
+T100128,web,Mateo Iyer,mateo.iyer8@example.com,,Do you sell a rear rack that fits the bike?,General,
+T100143,web,Grace Lee,grace.lee71@example.com,,"My son's Trailblazer 29 has a cracked fork, he was riding it yesterday!",safety issue,Trailblazer 29
+T100475,web,Ahmed Okafor,ahmed.okafor99@example.com,,I found a crack in the frame of my kid rider 16 near the seat post. Is it safe to ride? My email is ahmed.okafor99@example.com.,safety issue,kidrider 16
+T100485,email,Aisha Iyer,aisha.iyer57@example.com,URGENT,I found a crack in the frame of my Summit Pro Carbon near the seat post. Is it safe to ride?,urgent safety,
+T100252,email,Liam Lee,liam.lee88@example.com,Exchange,"I want to return my folding mini, it's too big for me. Order #NW68827.",RMA,urbanfold mini
+T100136,web,Grace Wei,grace.wei44@example.com,,"My son's summit pro has a cracked fork, he was riding it yesterday! My email is grace.wei44@example.com.",safety concern,summit pro carbon
+T100433,web,Liam Miller,liam.miller25@example.com,Defect,The motor on my CityGlide E2 makes a grinding noise. It's still under warranty I think. Order #NW28844.,Warranty,CityGlide E2
+T100192,chat,Ahmed Silva,ahmed.silva65@example.com,Help,"Front brake on the Summit Pro Carbon feels like it's not grabbing at all, really scary.",urgent safety,
+T100358,email,Liam Khan,liam.khan80@example.com,,"Rear derailleur on the kid rider 16 is bent out of the box basically, 5 months old. You can call me at +1 642 668 7302.",wrnty,KIDRIDER 16
+T100488,web,Maria Silva,maria.silva9@example.com,Accessories,My name is Maria Silva. Is it ok to ride the CityGlide E2 in the rain?,misc,CITYGLIDE E2
+T100421,email,Grace Brown,grace.brown27@example.com,Exchange,"I want to return my Trail Blazer 29, it's too big for me.",refund,trailblazer 29
+T100129,email,Liam Miller,liam.miller34@example.com,Exchange,How do I send back the CityGlide? Changed my mind. Order #NW36569. You can call me at 602-917-6345.,Return,CITYGLIDE E2
+T100084,web,Zoe Okafor,zoe.okafor96@example.com,URGENT,"My name is Zoe Okafor. My son's Summit Carbon has a cracked fork, he was riding it yesterday! Order #NW24316.",safety concern,SUMMIT PRO CARBON
+T100492,email,Liam Garcia,liam.garcia5@example.com,Warranty question,My folding mini is 8 months old and the gears keep slipping. Is this covered? Order #NW49513. You can call me at (973) 739-2679.,Defect,urbanfold mini
+T100161,chat,James Khan,james.khan14@example.com,Help,The battery on my E2 ebike got really hot and started smoking in the garage.,safety concern,
+T900533,chat,Noah Patel,noah.patel51@example.com,Quick question,What's the max rider weight for the trailblazer29?,misc,
+T100217,web,Priya Brown,priya.brown56@example.com,Refund request,"Bought the folding mini as a gift but they already have one, how do returns work? My email is priya.brown56@example.com.",exchange,URBANFOLD MINI
+T100104,email,Ravi Patel,ravi.patel47@example.com,Exchange,I'd like to exchange my Summit Pro Carbon for a smaller size. Order #NW49932. You can call me at 452-938-9123.,RMA,SUMMIT PRO CARBON
+T100064,email,Maria Patel,maria.patel3@example.com,Refund request,"I want to return my kids bike 16, it's too big for me. You can call me at 420-353-9991.",Return,KidRider 16
+T100000,email,Liam Brown,liam.brown18@example.com,Brakes!!,The brakes on my summit pro stopped working while I was going downhill. Order #NW38657.,Safety,
+T100238,chat,Elena Johnson,elena.johnson99@example.com,,Is it ok to ride the Summit Pro Carbon in the rain?,General,Summit Pro Carbon
+T100305,email,Grace Silva,grace.silva95@example.com,Return,The CityGlide E2 isn't what I expected. Can I get a refund?,exchange,cityglide e2
+T100313,email,Zoe Khan,zoe.khan24@example.com,URGENT,The battery on my TB-29 got really hot and started smoking in the garage.,safety issue,trailblazer 29
+T100164,chat,Chen Lee,chen.lee53@example.com,Return,"Bought the Trailblazer 29er as a gift but they already have one, how do returns work?",Returns,trailblazer 29
+T100184,email,Ahmed Tanaka,ahmed.tanaka78@example.com,Defect,"Rear derailleur on the CityGlide is bent out of the box basically, 5 months old. Order #NW98503.",defective part,CityGlide E2
+T100110,email,Mateo Lee,mateo.lee1@example.com,,"The kickstand bolt on my KidRider 16 sheared off, bike is less than a year old. Order #NW80371. You can call me at +1 419 410 5560.",defective part,
+T100002,email,Ahmed Tanaka,ahmed.tanaka46@example.com,Exchange,"Bought the Summit Pro Carbon as a gift but they already have one, how do returns work? You can call me at (886) 473-2169.",Return,summit pro carbon
+T100393,web,Grace Garcia,grace.garcia79@example.com,Quick question,Do you sell a rear rack that fits the TB-29?,how to,
+T100357,web,Aisha Rossi,aisha.rossi1@example.com,Accessories,What's the max rider weight for the kid rider 16?,General,
+T100055,web,Ravi Silva,ravi.silva23@example.com,Help,The brakes on my TB-29 stopped working while I was going downhill.,Safety,
+T100319,email,Ahmed Rossi,ahmed.rossi21@example.com,Refund request,The E2 ebike isn't what I expected. Can I get a refund? Order #NW82984.,General,CityGlide E2
+T100258,web,Kenji Novak,kenji.novak88@example.com,,"My name is Kenji Novak. I want to return my TB-29, it's too big for me. My email is kenji.novak88@example.com.",Product question,trailblazer 29
+T100396,web,Ravi Lee,ravi.lee48@example.com,Shipping,My name is Ravi Lee. Where is my CityGlide? I ordered it 10 days ago and haven't heard anything.,question,cityglide e2
+T100205,email,Noah Wei,noah.wei82@example.com,,"Paint on my E2 ebike is peeling after only 3 months, can I get it fixed under warranty? You can call me at 832-663-5458.",Defect,CITYGLIDE E2
+T100121,web,Priya Garcia,priya.garcia47@example.com,Exchange,My name is Priya Garcia. I'd like to exchange my urban fold mini for a smaller size. My email is priya.garcia47@example.com.,RMA,
+T100021,email,Elena Dubois,elena.dubois79@example.com,Broken part,"Rear derailleur on the kid rider 16 is bent out of the box basically, 5 months old.",warranty claim,kidrider 16
+T100262,email,Olivia Wei,olivia.wei81@example.com,Accessories,Is it ok to ride the bike in the rain? Order #NW10946.,Product question,
+T900522,web,Grace Dubois,grace.dubois96@example.com,Where is my order,Where is my CityGlide? I ordered it 10 days ago and haven't heard anything. My email is grace.dubois96@example.com.,Order Status,cityglide e2
+T100202,web,Zoe Johnson,zoe.johnson90@example.com,Order update?,"Ordered a folding mini for my daughter's birthday, is it going to arrive by Friday?",where is my order,urbanfold mini
+T100324,email,Olivia Lee,olivia.lee58@example.com,Quick question,Do you sell a rear rack that fits the folding mini?,question,urbanfold mini
+T100389,email,Ahmed Silva,ahmed.silva20@example.com,Question,What tire pressure should I run on my urban fold mini? Order #NW79660. You can call me at 644-588-1424.,misc,urbanfold mini
+T100200,email,Grace Okafor,grace.okafor57@example.com,,Can you tell me when my summit pro order will ship? Order #NW13027.,Order Status,Summit Pro Carbon
+T100137,email,Ahmed Garcia,ahmed.garcia90@example.com,Where is my order,"Ordered a CityGlide for my daughter's birthday, is it going to arrive by Friday? Order #NW84127. You can call me at +1 600 989 1530.",where is my order,cityglide e2
+T100025,email,Sofia Dubois,sofia.dubois90@example.com,Exchange,How do I send back the Trailblazer 29? Changed my mind.,Return,TRAILBLAZER 29
+T100118,email,Grace Miller,grace.miller93@example.com,Warranty question,My Trailblazer 29 is 8 months old and the gears keep slipping. Is this covered? Order #NW20215.,Warranty,TRAILBLAZER 29
+T100439,web,Sofia Smith,sofia.smith64@example.com,,My name is Sofia Smith. Can you tell me when my E2 ebike order will ship? My email is sofia.smith64@example.com.,Order Status,CityGlide E2
+T100148,web,Maria Garcia,maria.garcia61@example.com,,"My KidRider order says processing for a week now, what's going on?",WISMO,kidrider 16
+T100242,email,Ahmed Miller,ahmed.miller99@example.com,Return,"Please start a return for the kids bike 16, it doesn't fit in my apartment.",Returns,
+T100437,web,Kenji Patel,kenji.patel58@example.com,Quick question,What's the max rider weight for the summit pro?,General,
+T100368,email,Olivia Iyer,olivia.iyer3@example.com,Quick question,What's the max rider weight for the kid rider 16? You can call me at 637-285-5918.,General,KIDRIDER 16
+T100300,chat,Mateo Novak,mateo.novak92@example.com,Refund request,I'd like to exchange my KidRider for a smaller size.,,KidRider 16
+T100085,chat,Maria Khan,maria.khan53@example.com,Safety problem,The battery on my CityGlide got really hot and started smoking in the garage. Order #NW17754.,Safety,CityGlide E2
+T100190,chat,James Lee,james.lee52@example.com,Where is my order,Where is my Trailblazer 29er? I ordered it 10 days ago and haven't heard anything.,shipping,trailblazer 29
+T100141,email,Zoe Smith,zoe.smith34@example.com,,Where is my City Glide? I ordered it 10 days ago and haven't heard anything. Order #NW97486.,Tracking,
+T100068,email,Elena Khan,elena.khan64@example.com,,"Please start a return for the KidRider 16, it doesn't fit in my apartment.",RMA,
+T100453,chat,Mateo Patel,mateo.patel38@example.com,,Chain on my E2 ebike snapped after two weeks of normal commuting.,wrnty,CITYGLIDE E2
+T100469,web,James Novak,james.novak45@example.com,Defect,Chain on my summit pro snapped after two weeks of normal commuting. My email is james.novak45@example.com.,warranty claim,summit pro carbon
+T100286,email,Elena Iyer,elena.iyer15@example.com,URGENT,I found a crack in the frame of my Trail Blazer 29 near the seat post. Is it safe to ride? You can call me at 490-667-6111.,,
+T100465,email,Noah Lee,noah.lee80@example.com,,Can I put a child seat on my UrbanFold? Order #NW54308. You can call me at (759) 914-2816.,misc,UrbanFold Mini
+T100239,email,Noah Rossi,noah.rossi42@example.com,Shipping,"My Trail Blazer 29 order says processing for a week now, what's going on? Order #NW29571. You can call me at (397) 493-5532.",WISMO,trailblazer 29
+T100509,email,Ahmed Iyer,ahmed.iyer18@example.com,Safety problem,The brakes on my Trailblazer 29er stopped working while I was going downhill.,SAFETY!!,trailblazer 29
+T100329,web,Chen Tanaka,chen.tanaka9@example.com,Exchange,I'd like to exchange my TB-29 for a smaller size.,Returns,
+T100263,chat,James Khan,james.khan92@example.com,Defect,"The kickstand bolt on my UrbanFold Mini sheared off, bike is less than a year old. Order #NW25401.",Warranty,URBANFOLD MINI
+T100062,email,Liam Miller,liam.miller61@example.com,Return,I'd like to exchange my CityGlide for a smaller size.,exchange,CityGlide E2
+T100145,web,Elena Miller,elena.miller40@example.com,,Can you tell me when my trailblazer29 order will ship?,shipping,
+T100228,web,Grace Smith,grace.smith72@example.com,Help,My name is Grace Smith. The handlebar on my E2 ebike came loose mid-ride and I almost crashed. My email is grace.smith72@example.com.,SAFETY!!,CITYGLIDE E2
+T100028,web,Maria Rossi,maria.rossi11@example.com,Order update?,"My name is Maria Rossi. My urban fold mini order says processing for a week now, what's going on?",WISMO,urbanfold mini
+T100040,email,Chen Dubois,chen.dubois22@example.com,,The Trailblazer 29 isn't what I expected. Can I get a refund?,exchange,TRAILBLAZER 29
+T100138,email,Aisha Wei,aisha.wei93@example.com,URGENT,The handlebar on my Summit Pro Carbon came loose mid-ride and I almost crashed. You can call me at (249) 595-8179.,safety concern,Summit Pro Carbon
+T100034,email,Maria Okafor,maria.okafor74@example.com,,How often should I get my folding mini serviced? Order #NW86720.,General,
+T100259,email,Priya Dubois,priya.dubois95@example.com,,"Ordered a bike for my daughter's birthday, is it going to arrive by Friday? Order #NW60956.",WISMO,
+T100376,web,Mateo Rossi,mateo.rossi1@example.com,Question,Can I put a child seat on my KidRider?,General,
+T100302,chat,Elena Miller,elena.miller26@example.com,Broken part,"The kickstand bolt on my folding mini sheared off, bike is less than a year old. Order #NW13010.",defective part,
+T100103,email,Mateo Wei,mateo.wei4@example.com,Refund request,I'd like to exchange my KidRider for a smaller size. Order #NW64238.,exchange,kidrider 16
+T100315,email,Noah Tanaka,noah.tanaka89@example.com,Accessories,Do you sell a rear rack that fits the KidRider 16? Order #NW35008.,question,KIDRIDER 16
+T100337,email,Elena Garcia,elena.garcia89@example.com,,My bike is 8 months old and the gears keep slipping. Is this covered?,Warranty,
+T100426,web,Ravi Khan,ravi.khan90@example.com,Exchange,"I want to return my kid rider 16, it's too big for me. My email is ravi.khan90@example.com.",Product question,
+T100255,chat,Grace Khan,grace.khan15@example.com,Quick question,Can I put a child seat on my CityGlide E2?,Product question,cityglide e2
+T900526,email,Grace Lee,grace.lee6@example.com,,Do you sell a rear rack that fits the city glide e2? You can call me at (543) 779-3459.,,cityglide e2
+T100100,email,Ahmed Patel,ahmed.patel64@example.com,,I found a crack in the frame of my Trailblazer 29 near the seat post. Is it safe to ride? Order #NW84289.,Safety,Trailblazer 29
+T100392,web,Elena Patel,elena.patel82@example.com,,"Ordered a kid rider 16 for my daughter's birthday, is it going to arrive by Friday? Order #NW47467.",shipping,KIDRIDER 16
+T100076,email,Noah Iyer,noah.iyer32@example.com,Question,What tire pressure should I run on my bike? Order #NW64476. You can call me at +1 615 504 8430.,misc,
+T100476,web,Maria Tanaka,maria.tanaka70@example.com,,"Ordered a Summit Pro Carbon for my daughter's birthday, is it going to arrive by Friday? My email is maria.tanaka70@example.com.",WISMO,Summit Pro Carbon
+T100429,web,Chen Patel,chen.patel84@example.com,Safety problem,"Front brake on the Trailblazer 29er feels like it's not grabbing at all, really scary. Order #NW68209.",Brake failure,
+T100115,web,Mateo Smith,mateo.smith36@example.com,URGENT,I found a crack in the frame of my CityGlide near the seat post. Is it safe to ride?,SAFETY!!,CityGlide E2
+T100345,web,Ahmed Brown,ahmed.brown18@example.com,Quick question,How often should I get my KidRider serviced? My email is ahmed.brown18@example.com.,how to,KidRider 16
+T100431,web,Grace Rossi,grace.rossi79@example.com,Exchange,"My name is Grace Rossi. Please start a return for the E2 ebike, it doesn't fit in my apartment. Order #NW51697.",refund,
+T100194,web,Ravi Rossi,ravi.rossi31@example.com,,"My name is Ravi Rossi. The kickstand bolt on my city glide e2 sheared off, bike is less than a year old. My email is ravi.rossi31@example.com.",Defect,CityGlide E2
+T100438,email,Olivia Novak,olivia.novak16@example.com,,Got a delivery notification for the Summit Pro Carbon but nothing showed up at my door.,where is my order,Summit Pro Carbon
+T100012,chat,Aisha Lee,aisha.lee17@example.com,Order update?,Where is my CityGlide E2? I ordered it 10 days ago and haven't heard anything.,Order Status,cityglide e2
+T100248,email,Liam Iyer,liam.iyer81@example.com,Accessories,What's the max rider weight for the Trailblazer 29er?,Product question,trailblazer 29
+T100193,email,Maria Iyer,maria.iyer15@example.com,Exchange,The kid rider 16 isn't what I expected. Can I get a refund?,RMA,
+T100191,email,Ahmed Smith,ahmed.smith47@example.com,Defect,Chain on my UrbanFold snapped after two weeks of normal commuting.,defective part,urbanfold mini
+T100160,chat,Kenji Dubois,kenji.dubois80@example.com,,My Summit Pro Carbon is 8 months old and the gears keep slipping. Is this covered?,wrnty,
+T100417,chat,Sofia Lee,sofia.lee80@example.com,,"Bought the City Glide as a gift but they already have one, how do returns work?",exchange,
+T100176,email,Grace Wei,grace.wei69@example.com,Shipping,Where is my Trailblazer 29er? I ordered it 10 days ago and haven't heard anything. You can call me at (856) 937-2036.,shipping,Trailblazer 29
+T100087,email,Elena Miller,elena.miller73@example.com,Broken part,Chain on my Trail Blazer 29 snapped after two weeks of normal commuting. You can call me at +1 975 397 3875.,Warranty,trailblazer 29
+T100207,web,Sofia Iyer,sofia.iyer50@example.com,Safety problem,"My son's UrbanFold Mini has a cracked fork, he was riding it yesterday! My email is sofia.iyer50@example.com.",safety issue,URBANFOLD MINI
+T100264,chat,Ravi Khan,ravi.khan21@example.com,Warranty question,The motor on my kids bike 16 makes a grinding noise. It's still under warranty I think.,Defect,KIDRIDER 16
+T100260,email,Olivia Brown,olivia.brown10@example.com,,What's the max rider weight for the kids bike 16? Order #NW95037.,how to,KidRider 16
+T100377,chat,James Johnson,james.johnson64@example.com,Warranty question,"Paint on my E2 ebike is peeling after only 3 months, can I get it fixed under warranty?",Defect,CITYGLIDE E2
+T100340,web,Aisha Rossi,aisha.rossi87@example.com,,My name is Aisha Rossi. Is it ok to ride the City Glide in the rain? Order #NW65982.,misc,cityglide e2
+T100006,chat,Ravi Khan,ravi.khan34@example.com,Defect,"Rear derailleur on the city glide e2 is bent out of the box basically, 5 months old.",wrnty,CityGlide E2
+T100299,chat,Liam Dubois,liam.dubois50@example.com,Where is my order,Tracking for my trailblazer29 hasn't updated in 4 days. Order #NW31001.,WISMO,
+T100155,web,Liam Brown,liam.brown94@example.com,Return,"I want to return my trailblazer29, it's too big for me. My email is liam.brown94@example.com.",RMA,Trailblazer 29
+T100516,chat,Sofia Dubois,sofia.dubois56@example.com,Question,Is it ok to ride the summit pro in the rain?,misc,summit pro carbon
+T100116,email,Ravi Novak,ravi.novak75@example.com,Order update?,Where is my KidRider? I ordered it 10 days ago and haven't heard anything.,WISMO,
+T100131,email,Sofia Lee,sofia.lee48@example.com,,My CityGlide is 8 months old and the gears keep slipping. Is this covered? Order #NW18450.,wrnty,CityGlide E2
+T100486,chat,Zoe Johnson,zoe.johnson59@example.com,Question,Is it ok to ride the kids bike 16 in the rain? Order #NW27933.,General,KIDRIDER 16
+T100326,chat,Grace Brown,grace.brown14@example.com,Quick question,Is it ok to ride the CityGlide in the rain? Order #NW65796.,General,CITYGLIDE E2
+T100080,web,Elena Novak,elena.novak21@example.com,Accessories,What's the max rider weight for the City Glide? My email is elena.novak21@example.com.,misc,
+T100079,email,Zoe Okafor,zoe.okafor80@example.com,,The folding mini isn't what I expected. Can I get a refund?,Return,urbanfold mini
+T100432,chat,Priya Patel,priya.patel4@example.com,,"My bike order says processing for a week now, what's going on?",Tracking,
+T100243,email,Mateo Novak,mateo.novak70@example.com,,What tire pressure should I run on my kids bike 16?,how to,
+T100339,web,Aisha Iyer,aisha.iyer91@example.com,Shipping,Where is my Trail Blazer 29? I ordered it 10 days ago and haven't heard anything.,Tracking,TRAILBLAZER 29
+T100414,email,Priya Brown,priya.brown47@example.com,Quick question,What tire pressure should I run on my city glide e2? Order #NW55789. You can call me at (408) 217-6937.,Product question,CityGlide E2
+T100157,email,Noah Silva,noah.silva85@example.com,,Chain on my trailblazer29 snapped after two weeks of normal commuting. You can call me at (878) 732-5423.,wrnty,trailblazer 29
+T100381,email,Elena Johnson,elena.johnson92@example.com,Refund request,I'd like to exchange my trailblazer29 for a smaller size.,RMA,trailblazer 29
+T100288,web,Ravi Lee,ravi.lee63@example.com,,My name is Ravi Lee. I'd like to exchange my summit pro for a smaller size. My email is ravi.lee63@example.com.,Return,Summit Pro Carbon
+T100456,web,Chen Miller,chen.miller73@example.com,Safety problem,"My son's Summit Carbon has a cracked fork, he was riding it yesterday!",urgent safety,SUMMIT PRO CARBON
+T100013,email,Ahmed Dubois,ahmed.dubois70@example.com,Order update?,"Ordered a bike for my daughter's birthday, is it going to arrive by Friday? Order #NW96951. You can call me at +1 509 826 9666.",WISMO,
+T100267,email,Mateo Iyer,mateo.iyer28@example.com,Warranty question,Chain on my bike snapped after two weeks of normal commuting.,warranty claim,
+T100071,email,Grace Wei,grace.wei34@example.com,Broken part,"Rear derailleur on the KidRider is bent out of the box basically, 5 months old. You can call me at 920-656-4515.",Defect,kidrider 16
+T100018,web,Sofia Tanaka,sofia.tanaka56@example.com,Help,"My son's UrbanFold Mini has a cracked fork, he was riding it yesterday!",safety concern,
+T100304,email,Ravi Lee,ravi.lee17@example.com,Where is my order,"My summit pro order says processing for a week now, what's going on?",Tracking,
+T100140,email,Ravi Johnson,ravi.johnson7@example.com,,How do I send back the folding mini? Changed my mind. Order #NW37125.,exchange,urbanfold mini
+T100327,chat,Grace Okafor,grace.okafor75@example.com,Question,Can I put a child seat on my kids bike 16?,question,
+T100132,web,Mateo Khan,mateo.khan46@example.com,Help,The brakes on my kid rider 16 stopped working while I was going downhill.,urgent safety,
+T100412,chat,Noah Tanaka,noah.tanaka14@example.com,Where is my order,Where is my UrbanFold Mini? I ordered it 10 days ago and haven't heard anything.,where is my order,
+T100506,email,Ahmed Garcia,ahmed.garcia40@example.com,Accessories,What's the max rider weight for the KidRider 16? You can call me at 774-559-2928.,General,KIDRIDER 16
+T100151,email,Liam Iyer,liam.iyer86@example.com,Broken part,"Paint on my Summit Carbon is peeling after only 3 months, can I get it fixed under warranty? Order #NW71706.",Warranty,summit pro carbon
+T100175,email,Chen Rossi,chen.rossi69@example.com,,"Rear derailleur on the KidRider 16 is bent out of the box basically, 5 months old. You can call me at +1 959 993 8130.",defective part,kidrider 16
+T100395,email,James Dubois,james.dubois80@example.com,,The motor on my summit pro makes a grinding noise. It's still under warranty I think.,Warranty,
+T900524,chat,Aisha Tanaka,aisha.tanaka35@example.com,,Can I put a child seat on my urban fold mini? Order #NW99658.,General,UrbanFold Mini
+T100251,web,Priya Johnson,priya.johnson77@example.com,Safety problem,"My son's Summit Pro Carbon has a cracked fork, he was riding it yesterday! My email is priya.johnson77@example.com.",SAFETY!!,Summit Pro Carbon
+T100037,web,Olivia Patel,olivia.patel36@example.com,Broken part,"Rear derailleur on the UrbanFold is bent out of the box basically, 5 months old. Order #NW86931.",Defect,
+T100416,web,Chen Johnson,chen.johnson8@example.com,Safety problem,The handlebar on my Summit Pro Carbon came loose mid-ride and I almost crashed.,SAFETY!!,SUMMIT PRO CARBON
+T100168,email,Grace Novak,grace.novak65@example.com,Defect,The motor on my TB-29 makes a grinding noise. It's still under warranty I think.,wrnty,TRAILBLAZER 29
+T100107,web,Priya Wei,priya.wei99@example.com,Quick question,What's the max rider weight for the UrbanFold Mini?,Product question,URBANFOLD MINI
+T100247,email,Zoe Lee,zoe.lee46@example.com,Exchange,"Please start a return for the urban fold mini, it doesn't fit in my apartment. You can call me at (390) 634-1121.",Return,UrbanFold Mini
+T100124,web,Maria Novak,maria.novak55@example.com,Where is my order,"My Trailblazer 29er order says processing for a week now, what's going on? Order #NW69663. My email is maria.novak55@example.com.",where is my order,Trailblazer 29
+T100072,web,Ahmed Khan,ahmed.khan47@example.com,,Got a delivery notification for the Summit Pro Carbon but nothing showed up at my door. Order #NW82616.,where is my order,summit pro carbon
+T100211,web,Olivia Khan,olivia.khan5@example.com,Safety problem,"My son's Trailblazer 29er has a cracked fork, he was riding it yesterday!",SAFETY!!,Trailblazer 29
+T100187,chat,Mateo Brown,mateo.brown62@example.com,Safety problem,The handlebar on my UrbanFold came loose mid-ride and I almost crashed.,Safety,
+T100086,web,Ravi Khan,ravi.khan96@example.com,Safety problem,The battery on my KidRider 16 got really hot and started smoking in the garage. Order #NW94058.,urgent safety,KidRider 16
+T100057,web,Olivia Patel,olivia.patel23@example.com,Broken part,"Rear derailleur on the City Glide is bent out of the box basically, 5 months old.",warranty claim,cityglide e2
+T100074,web,Noah Patel,noah.patel33@example.com,Where is my order,"Ordered a UrbanFold for my daughter's birthday, is it going to arrive by Friday? My email is noah.patel33@example.com.",where is my order,urbanfold mini
+T100063,email,Olivia Silva,olivia.silva12@example.com,,"Ordered a kids bike 16 for my daughter's birthday, is it going to arrive by Friday?",WISMO,kidrider 16
+T100219,chat,Kenji Johnson,kenji.johnson97@example.com,,"Paint on my City Glide is peeling after only 3 months, can I get it fixed under warranty?",Warranty,cityglide e2
+T100225,web,Mateo Silva,mateo.silva39@example.com,URGENT,The brakes on my Summit Pro Carbon stopped working while I was going downhill. Order #NW13433.,urgent safety,SUMMIT PRO CARBON
+T100501,email,Chen Brown,chen.brown72@example.com,Order update?,Tracking for my UrbanFold hasn't updated in 4 days.,WISMO,
+T100391,web,Olivia Lee,olivia.lee73@example.com,Defect,"Rear derailleur on the city glide e2 is bent out of the box basically, 5 months old. My email is olivia.lee73@example.com.",Defect,
+T100499,web,Kenji Garcia,kenji.garcia25@example.com,Question,How often should I get my E2 ebike serviced? My email is kenji.garcia25@example.com.,General,cityglide e2
+T100186,email,Grace Lee,grace.lee17@example.com,Help,"My son's City Glide has a cracked fork, he was riding it yesterday! You can call me at (216) 407-9564.",Safety,CityGlide E2
+T100246,web,Grace Tanaka,grace.tanaka54@example.com,,"My name is Grace Tanaka. Rear derailleur on the UrbanFold Mini is bent out of the box basically, 5 months old. Order #NW73792.",warranty claim,
+T100224,chat,Sofia Johnson,sofia.johnson40@example.com,Broken part,"Rear derailleur on the urban fold mini is bent out of the box basically, 5 months old.",wrnty,UrbanFold Mini
+T100365,email,Maria Wei,maria.wei40@example.com,URGENT,I found a crack in the frame of my CityGlide E2 near the seat post. Is it safe to ride?,Brake failure,cityglide e2
+T100331,web,Maria Wei,maria.wei85@example.com,,"Please start a return for the urban fold mini, it doesn't fit in my apartment. My email is maria.wei85@example.com.",RMA,UrbanFold Mini
+T100310,email,Sofia Smith,sofia.smith83@example.com,Accessories,Is it ok to ride the City Glide in the rain? Order #NW43444. You can call me at 530-256-2158.,misc,CITYGLIDE E2
+T100394,chat,Kenji Smith,kenji.smith55@example.com,Warranty question,"Rear derailleur on the UrbanFold is bent out of the box basically, 5 months old. Order #NW80663.",Warranty,urbanfold mini
+T100275,web,Elena Miller,elena.miller61@example.com,Accessories,My name is Elena Miller. How often should I get my folding mini serviced?,,URBANFOLD MINI
+T100366,email,Liam Novak,liam.novak44@example.com,Shipping,"My trailblazer29 order says processing for a week now, what's going on?",shipping,TRAILBLAZER 29
+T100213,web,Ahmed Silva,ahmed.silva96@example.com,Accessories,What tire pressure should I run on my E2 ebike? Order #NW33644.,how to,cityglide e2
+T100036,web,Ahmed Miller,ahmed.miller71@example.com,Quick question,Is it ok to ride the CityGlide E2 in the rain? My email is ahmed.miller71@example.com.,misc,
+T100197,chat,Grace Rossi,grace.rossi19@example.com,Accessories,Do you sell a rear rack that fits the kids bike 16?,how to,
+T100266,email,Grace Tanaka,grace.tanaka18@example.com,Refund request,The city glide e2 isn't what I expected. Can I get a refund? Order #NW84536. You can call me at 937-398-6875.,RMA,CITYGLIDE E2
+T100208,email,Chen Lee,chen.lee32@example.com,,The motor on my Summit Pro Carbon makes a grinding noise. It's still under warranty I think. You can call me at (243) 795-8786.,Warranty,Summit Pro Carbon
+T100489,email,Grace Tanaka,grace.tanaka70@example.com,,I'd like to exchange my KidRider for a smaller size. You can call me at 502-298-4586.,RMA,
+T100383,web,Mateo Khan,mateo.khan8@example.com,Broken part,"The kickstand bolt on my KidRider 16 sheared off, bike is less than a year old.",Defect,
+T100003,web,Sofia Iyer,sofia.iyer51@example.com,Question,What's the max rider weight for the Summit Carbon?,misc,
+T100035,email,Elena Okafor,elena.okafor42@example.com,,I'd like to exchange my Trailblazer 29er for a smaller size.,refund,trailblazer 29
+T900523,email,Aisha Brown,aisha.brown39@example.com,Accessories,How often should I get my UrbanFold serviced?,General,URBANFOLD MINI
+T100081,web,Ravi Okafor,ravi.okafor84@example.com,URGENT,"My name is Ravi Okafor. Front brake on the urban fold mini feels like it's not grabbing at all, really scary.",safety concern,UrbanFold Mini
+T100169,chat,Ahmed Novak,ahmed.novak91@example.com,Where is my order,"My E2 ebike order says processing for a week now, what's going on?",WISMO,CityGlide E2
+T100056,email,Zoe Tanaka,zoe.tanaka12@example.com,Shipping,Where is my City Glide? I ordered it 10 days ago and haven't heard anything. You can call me at 308-449-8138.,Tracking,cityglide e2
+T100328,email,Kenji Wei,kenji.wei78@example.com,Brakes!!,"Front brake on the CityGlide E2 feels like it's not grabbing at all, really scary. Order #NW58688. You can call me at 312-323-7055.",urgent safety,cityglide e2
+T100256,email,Grace Novak,grace.novak8@example.com,URGENT,I found a crack in the frame of my bike near the seat post. Is it safe to ride? You can call me at 471-382-8218.,Brake failure,
+T100427,email,Maria Dubois,maria.dubois17@example.com,Return,"Please start a return for the bike, it doesn't fit in my apartment.",Returns,
+T100500,chat,Aisha Iyer,aisha.iyer27@example.com,,How do I send back the Summit Carbon? Changed my mind. Order #NW72320.,RMA,SUMMIT PRO CARBON
+T100407,email,Olivia Dubois,olivia.dubois30@example.com,Quick question,What tire pressure should I run on my kids bike 16? You can call me at +1 943 644 7039.,question,
+T100123,chat,James Miller,james.miller86@example.com,Exchange,"Please start a return for the urban fold mini, it doesn't fit in my apartment. Order #NW75065.",Returns,urbanfold mini
+T100308,web,Kenji Patel,kenji.patel27@example.com,,"Rear derailleur on the Trailblazer 29er is bent out of the box basically, 5 months old.",defective part,TRAILBLAZER 29
+T100458,web,Zoe Wei,zoe.wei56@example.com,Accessories,Can I put a child seat on my Summit Carbon? Order #NW77045.,misc,
+T100125,web,Liam Smith,liam.smith61@example.com,URGENT,"My name is Liam Smith. Front brake on the Trailblazer 29 feels like it's not grabbing at all, really scary.",safety issue,trailblazer 29
+T100235,email,Noah Novak,noah.novak99@example.com,Help,"Front brake on the Summit Carbon feels like it's not grabbing at all, really scary. You can call me at (316) 902-6460.",Brake failure,
+T100236,email,Mateo Smith,mateo.smith67@example.com,Where is my order,Can you tell me when my KidRider 16 order will ship? You can call me at 778-942-6169.,shipping,
+T100295,email,Olivia Miller,olivia.miller56@example.com,Warranty question,The motor on my CityGlide makes a grinding noise. It's still under warranty I think.,wrnty,
+T100105,chat,Ahmed Lee,ahmed.lee41@example.com,Refund request,The Summit Pro Carbon isn't what I expected. Can I get a refund?,exchange,SUMMIT PRO CARBON
+T100150,web,Aisha Miller,aisha.miller25@example.com,Where is my order,Got a delivery notification for the Summit Carbon but nothing showed up at my door.,WISMO,
+T100067,chat,Elena Miller,elena.miller66@example.com,Broken part,"Rear derailleur on the bike is bent out of the box basically, 5 months old. Order #NW56789.",Warranty,
+T100165,chat,Ravi Tanaka,ravi.tanaka92@example.com,Where is my order,Tracking for my bike hasn't updated in 4 days.,WISMO,
+T100102,email,Liam Tanaka,liam.tanaka71@example.com,Exchange,How do I send back the KidRider? Changed my mind.,Return,
+T100364,chat,Ahmed Okafor,ahmed.okafor13@example.com,Quick question,How often should I get my urban fold mini serviced? Order #NW51676.,,
+T100459,web,Mateo Silva,mateo.silva19@example.com,Help,"Front brake on the KidRider 16 feels like it's not grabbing at all, really scary.",Safety,KIDRIDER 16
+T100122,email,Grace Patel,grace.patel82@example.com,Refund request,"I want to return my KidRider, it's too big for me.",Return,KIDRIDER 16
+T100370,web,Ravi Tanaka,ravi.tanaka90@example.com,Shipping,Got a delivery notification for the urban fold mini but nothing showed up at my door. Order #NW57371.,where is my order,URBANFOLD MINI
+T100188,web,Chen Garcia,chen.garcia49@example.com,Safety problem,I found a crack in the frame of my UrbanFold Mini near the seat post. Is it safe to ride? My email is chen.garcia49@example.com.,urgent safety,
+T100234,web,Liam Miller,liam.miller25@example.com,Refund request,"Please start a return for the CityGlide E2, it doesn't fit in my apartment.",RMA,CITYGLIDE E2
+T100082,email,Mateo Iyer,mateo.iyer95@example.com,,The City Glide isn't what I expected. Can I get a refund? You can call me at +1 263 922 3262.,Returns,cityglide e2
+T100435,email,Maria Khan,maria.khan67@example.com,,What's the max rider weight for the UrbanFold Mini? You can call me at +1 460 324 4159.,General,urbanfold mini
+T100098,web,Ravi Iyer,ravi.iyer3@example.com,Where is my order,"Ordered a bike for my daughter's birthday, is it going to arrive by Friday? My email is ravi.iyer3@example.com.",shipping,
+T100442,chat,Elena Lee,elena.lee35@example.com,Help,I found a crack in the frame of my summit pro near the seat post. Is it safe to ride?,Brake failure,SUMMIT PRO CARBON
+T100282,email,Ravi Tanaka,ravi.tanaka40@example.com,Warranty question,"The kickstand bolt on my Trailblazer 29er sheared off, bike is less than a year old. You can call me at +1 571 342 8240.",warranty claim,TRAILBLAZER 29
+T100199,chat,Ravi Dubois,ravi.dubois11@example.com,Shipping,Can you tell me when my urban fold mini order will ship?,shipping,UrbanFold Mini
+T100404,web,Sofia Khan,sofia.khan1@example.com,Question,Is it ok to ride the Summit Carbon in the rain? My email is sofia.khan1@example.com.,misc,SUMMIT PRO CARBON
+T100307,email,Elena Silva,elena.silva22@example.com,,Where is my folding mini? I ordered it 10 days ago and haven't heard anything. Order #NW17152.,shipping,
+T100380,email,Liam Wei,liam.wei51@example.com,Shipping,Can you tell me when my CityGlide order will ship? You can call me at (751) 671-6176.,Order Status,
+T100466,email,Kenji Patel,kenji.patel54@example.com,,Do you sell a rear rack that fits the Trail Blazer 29? Order #NW15471.,,TRAILBLAZER 29
+T100189,email,Kenji Iyer,kenji.iyer33@example.com,,"Please start a return for the CityGlide E2, it doesn't fit in my apartment. Order #NW31206.",Return,
+T100046,email,Olivia Silva,olivia.silva84@example.com,Accessories,What tire pressure should I run on my KidRider?,how to,KidRider 16
+T100350,email,Olivia Iyer,olivia.iyer27@example.com,Safety problem,"My son's summit pro has a cracked fork, he was riding it yesterday! You can call me at +1 283 681 2062.",Brake failure,Summit Pro Carbon
+T100320,web,Kenji Smith,kenji.smith99@example.com,Where is my order,"My Summit Pro Carbon order says processing for a week now, what's going on? Order #NW67386.",Order Status,Summit Pro Carbon
+T100291,web,Grace Tanaka,grace.tanaka99@example.com,Exchange,The urban fold mini isn't what I expected. Can I get a refund? My email is grace.tanaka99@example.com.,RMA,urbanfold mini
+T100209,web,Sofia Garcia,sofia.garcia89@example.com,Shipping,Got a delivery notification for the KidRider 16 but nothing showed up at my door.,Tracking,
+T100374,chat,Aisha Iyer,aisha.iyer61@example.com,Brakes!!,The battery on my KidRider got really hot and started smoking in the garage.,safety concern,kidrider 16
+T100292,email,Priya Patel,priya.patel40@example.com,,Chain on my Summit Pro Carbon snapped after two weeks of normal commuting. You can call me at (545) 373-1322.,Defect,Summit Pro Carbon
+T100041,email,Noah Khan,noah.khan10@example.com,Help,"My son's kids bike 16 has a cracked fork, he was riding it yesterday! Order #NW49599.",urgent safety,KidRider 16
+T100317,email,James Iyer,james.iyer52@example.com,Quick question,What's the max rider weight for the Summit Pro Carbon? Order #NW85550. You can call me at 725-805-8993.,how to,
+T100070,web,Olivia Dubois,olivia.dubois5@example.com,Broken part,My Trailblazer 29er is 8 months old and the gears keep slipping. Is this covered?,Warranty,
+T100316,web,Chen Khan,chen.khan20@example.com,,"My name is Chen Khan. Bought the Trail Blazer 29 as a gift but they already have one, how do returns work? Order #NW48644.",Return,
+T100014,web,Mateo Okafor,mateo.okafor6@example.com,URGENT,My name is Mateo Okafor. I found a crack in the frame of my TB-29 near the seat post. Is it safe to ride?,Safety,TRAILBLAZER 29
+T100515,email,James Miller,james.miller55@example.com,Return,"Bought the kids bike 16 as a gift but they already have one, how do returns work?",exchange,KidRider 16
+T100096,email,Noah Okafor,noah.okafor47@example.com,Quick question,Is it ok to ride the Summit Carbon in the rain?,how to,
+T100210,email,Kenji Dubois,kenji.dubois1@example.com,Order update?,Tracking for my Summit Carbon hasn't updated in 4 days.,Tracking,
+T100214,email,Mateo Novak,mateo.novak78@example.com,Shipping,Tracking for my KidRider hasn't updated in 4 days. You can call me at (776) 758-4504.,Tracking,KidRider 16
+T100334,web,Mateo Patel,mateo.patel62@example.com,Shipping,Tracking for my KidRider 16 hasn't updated in 4 days. My email is mateo.patel62@example.com.,where is my order,KidRider 16
+T100297,web,Aisha Iyer,aisha.iyer12@example.com,,Can I put a child seat on my Trailblazer 29er? My email is aisha.iyer12@example.com.,question,trailblazer 29
+T100196,email,Elena Tanaka,elena.tanaka79@example.com,Question,What's the max rider weight for the Trail Blazer 29? You can call me at 391-761-5306.,Product question,TRAILBLAZER 29
+T100464,chat,Olivia Miller,olivia.miller13@example.com,Question,What tire pressure should I run on my TB-29? Order #NW47997.,misc,TRAILBLAZER 29
+T100349,chat,Priya Wei,priya.wei19@example.com,Accessories,How often should I get my KidRider serviced?,question,KIDRIDER 16
+T100088,web,Liam Smith,liam.smith86@example.com,Shipping,"My Summit Carbon order says processing for a week now, what's going on?",WISMO,SUMMIT PRO CARBON
+T100335,email,Liam Silva,liam.silva72@example.com,Accessories,How often should I get my City Glide serviced?,Product question,CITYGLIDE E2
+T100508,chat,Grace Johnson,grace.johnson69@example.com,Defect,"Paint on my TB-29 is peeling after only 3 months, can I get it fixed under warranty?",defective part,Trailblazer 29
+T100171,web,James Garcia,james.garcia96@example.com,Shipping,"Ordered a UrbanFold for my daughter's birthday, is it going to arrive by Friday?",WISMO,UrbanFold Mini
+T100424,web,Grace Novak,grace.novak9@example.com,Exchange,"My name is Grace Novak. I want to return my E2 ebike, it's too big for me. Order #NW15017.",refund,
+T100272,email,Priya Wei,priya.wei22@example.com,Broken part,"The kickstand bolt on my Summit Pro Carbon sheared off, bike is less than a year old.",Warranty,SUMMIT PRO CARBON
+T100001,email,Priya Lee,priya.lee13@example.com,Shipping,"Ordered a Trail Blazer 29 for my daughter's birthday, is it going to arrive by Friday? Order #NW59615.",Order Status,Trailblazer 29
+T100147,email,Grace Wei,grace.wei88@example.com,Refund request,I'd like to exchange my urban fold mini for a smaller size.,General,URBANFOLD MINI
+T100204,email,Maria Silva,maria.silva38@example.com,Exchange,"Bought the summit pro as a gift but they already have one, how do returns work?",refund,summit pro carbon
+T100090,email,Zoe Smith,zoe.smith72@example.com,,Can I put a child seat on my KidRider 16? Order #NW19572.,Product question,KIDRIDER 16
+T100447,email,Mateo Wei,mateo.wei88@example.com,Exchange,"I want to return my UrbanFold Mini, it's too big for me. You can call me at (861) 454-2819.",RMA,URBANFOLD MINI
+T100505,web,Elena Novak,elena.novak91@example.com,Question,Is it ok to ride the Trail Blazer 29 in the rain? My email is elena.novak91@example.com.,how to,TRAILBLAZER 29
+T100146,chat,Ahmed Patel,ahmed.patel40@example.com,Order update?,"Ordered a Trailblazer 29er for my daughter's birthday, is it going to arrive by Friday? Order #NW35265.",where is my order,
+T100253,web,Zoe Brown,zoe.brown94@example.com,Accessories,My name is Zoe Brown. How often should I get my kid rider 16 serviced?,General,kidrider 16
+T100413,email,Priya Novak,priya.novak17@example.com,Where is my order,Got a delivery notification for the E2 ebike but nothing showed up at my door. You can call me at (985) 594-6777.,Tracking,CITYGLIDE E2
+T100401,chat,Ahmed Okafor,ahmed.okafor63@example.com,Brakes!!,"My son's KidRider 16 has a cracked fork, he was riding it yesterday!",SAFETY!!,kidrider 16
+T100108,web,Olivia Tanaka,olivia.tanaka4@example.com,,What tire pressure should I run on my UrbanFold Mini?,question,UrbanFold Mini
+T100371,email,Chen Patel,chen.patel83@example.com,Defect,Chain on my trailblazer29 snapped after two weeks of normal commuting. Order #NW65950.,Warranty,trailblazer 29
+T100222,email,Chen Novak,chen.novak63@example.com,Exchange,"Bought the folding mini as a gift but they already have one, how do returns work?",misc,urbanfold mini
+T100418,email,Aisha Wei,aisha.wei14@example.com,Return,The bike isn't what I expected. Can I get a refund? Order #NW23954.,Return,
+T100162,web,Liam Novak,liam.novak67@example.com,Shipping,Got a delivery notification for the trailblazer29 but nothing showed up at my door.,Tracking,Trailblazer 29
+T100182,email,Olivia Iyer,olivia.iyer46@example.com,Accessories,How often should I get my UrbanFold serviced? Order #NW97632.,misc,urbanfold mini
+T100296,email,Aisha Khan,aisha.khan83@example.com,Safety problem,The brakes on my bike stopped working while I was going downhill.,Safety,
+T100113,email,Ravi Wei,ravi.wei74@example.com,Exchange,"Bought the UrbanFold as a gift but they already have one, how do returns work?",refund,
+T100216,web,James Novak,james.novak45@example.com,Return,"I want to return my Trailblazer 29er, it's too big for me. My email is james.novak45@example.com.",RMA,TRAILBLAZER 29
+T100223,web,Aisha Brown,aisha.brown20@example.com,Exchange,"My name is Aisha Brown. Bought the Trail Blazer 29 as a gift but they already have one, how do returns work?",refund,trailblazer 29
+T100405,chat,Olivia Okafor,olivia.okafor7@example.com,Defect,The motor on my Summit Carbon makes a grinding noise. It's still under warranty I think.,wrnty,summit pro carbon
+T100134,chat,James Brown,james.brown74@example.com,Defect,"Rear derailleur on the summit pro is bent out of the box basically, 5 months old.",Warranty,SUMMIT PRO CARBON
+T100384,web,Zoe Lee,zoe.lee36@example.com,Return,"My name is Zoe Lee. I want to return my bike, it's too big for me. Order #NW74122.",Returns,
+T100502,chat,Ahmed Garcia,ahmed.garcia47@example.com,,"Bought the Summit Pro Carbon as a gift but they already have one, how do returns work?",refund,Summit Pro Carbon
+T100290,email,Zoe Smith,zoe.smith5@example.com,Refund request,I'd like to exchange my kid rider 16 for a smaller size.,Returns,
+T100023,chat,Liam Iyer,liam.iyer29@example.com,,"Please start a return for the folding mini, it doesn't fit in my apartment. Order #NW71261.",Returns,UrbanFold Mini
+T100425,email,Sofia Garcia,sofia.garcia98@example.com,Broken part,"Paint on my Trailblazer 29 is peeling after only 3 months, can I get it fixed under warranty? Order #NW63093.",Warranty,trailblazer 29
+T100441,chat,Maria Johnson,maria.johnson14@example.com,Warranty question,"Paint on my Trailblazer 29 is peeling after only 3 months, can I get it fixed under warranty?",defective part,Trailblazer 29
+T100360,email,Zoe Johnson,zoe.johnson61@example.com,Question,How often should I get my city glide e2 serviced? Order #NW61229.,General,
+T100159,email,Olivia Patel,olivia.patel66@example.com,Question,Is it ok to ride the kid rider 16 in the rain? You can call me at (940) 940-2659.,misc,KidRider 16
+T100478,email,Olivia Lee,olivia.lee98@example.com,Quick question,Can I put a child seat on my Trailblazer 29er?,how to,trailblazer 29
+T100462,email,James Patel,james.patel57@example.com,Where is my order,Where is my TB-29? I ordered it 10 days ago and haven't heard anything. You can call me at 821-846-1482.,where is my order,TRAILBLAZER 29
+T100322,chat,Liam Johnson,liam.johnson97@example.com,Refund request,I'd like to exchange my summit pro for a smaller size.,Returns,Summit Pro Carbon
+T100298,email,Kenji Wei,kenji.wei41@example.com,,The urban fold mini isn't what I expected. Can I get a refund? You can call me at +1 633 686 5036.,Return,URBANFOLD MINI
+T100378,web,Elena Lee,elena.lee99@example.com,Brakes!!,"My son's CityGlide E2 has a cracked fork, he was riding it yesterday! Order #NW80063.",SAFETY!!,CityGlide E2
+T100212,chat,James Tanaka,james.tanaka72@example.com,Safety problem,"Front brake on the KidRider feels like it's not grabbing at all, really scary. Order #NW19225.",Safety,KidRider 16
